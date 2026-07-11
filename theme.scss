@@ -1,0 +1,183 @@
+/*-- scss:defaults --*/
+
+// ---------------------------------------------------------------------------
+// Identité visuelle du book GRCA
+// Bleu-sarcelle (eau / risque) + ocre Sahel (Afrique de l'Ouest), papier chaud.
+// ---------------------------------------------------------------------------
+
+$web-font-path: "https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&family=Spectral:wght@500;600;700&display=swap";
+
+// Palette
+$teal-900:  #0a3a4a;
+$teal-700:  #0e5066;
+$teal-500:  #1b7e98;
+$ochre:     #c9772b;
+$ochre-soft:#e7a45a;
+$paper:     #fcfaf6;
+$ink:       #21323b;
+$muted:     #5d6f78;
+
+// Bootstrap overrides
+$primary:        $teal-700;
+$body-bg:        $paper;
+$body-color:     $ink;
+$link-color:     $teal-700;
+$link-hover-color: $ochre;
+
+$font-family-sans-serif: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$headings-font-family:   "Spectral", Georgia, "Times New Roman", serif;
+$font-size-root: 17px;
+$headings-font-weight: 600;
+$line-height-base: 1.65;
+
+// Code
+$code-color: $teal-700;
+
+/*-- scss:rules --*/
+
+h1, h2, h3, h4, h5 {
+  font-family: "Spectral", Georgia, serif;
+  letter-spacing: -0.01em;
+}
+
+h1, h2 { color: $teal-900; }
+h3 { color: $teal-700; }
+
+// Liens : soulignement discret qui se renforce au survol
+a {
+  text-decoration: none;
+  transition: color .15s ease;
+}
+a:hover { text-decoration: underline; }
+
+// Filets de section plus doux
+h2 {
+  border-bottom: 2px solid rgba($teal-700, .15);
+  padding-bottom: .25rem;
+  margin-top: 2.4rem;
+}
+
+// Citations : barre ocre
+blockquote {
+  border-left: 4px solid $ochre;
+  background: rgba($ochre, .06);
+  padding: .6rem 1rem;
+  color: $ink;
+  font-style: normal;
+}
+
+// Tableaux : en-tête sarcelle, lignes alternées
+table {
+  border-collapse: collapse;
+  font-size: .96em;
+}
+thead tr {
+  background: $teal-700;
+  color: #fff;
+}
+thead th { border-color: $teal-700 !important; }
+tbody tr:nth-child(even) { background: rgba($teal-500, .06); }
+
+// Barre latérale (navigation du livre)
+.sidebar-title { color: $teal-700; font-family: "Spectral", serif; }
+.sidebar nav[role="doc-toc"] ul > li > a.active,
+div.sidebar-item-container .active {
+  color: $ochre !important;
+  font-weight: 600;
+}
+
+// ---------------------------------------------------------------------------
+// Bannière de titre (page d'accueil et titres bannière)
+// ---------------------------------------------------------------------------
+.quarto-title-banner {
+  background: linear-gradient(135deg, $teal-900 0%, $teal-700 55%, $teal-500 100%);
+  position: relative;
+}
+.quarto-title-banner .quarto-title .title {
+  font-family: "Spectral", serif;
+  font-weight: 700;
+  font-size: clamp(1.9rem, 4vw, 3rem);
+  line-height: 1.1;
+}
+.quarto-title-banner .subtitle {
+  font-size: clamp(1.05rem, 2vw, 1.35rem);
+  opacity: .95;
+  margin-top: .6rem;
+}
+.quarto-title-banner .quarto-title-meta { opacity: .9; }
+
+// ---------------------------------------------------------------------------
+// Cartes de la page d'accueil
+// ---------------------------------------------------------------------------
+.home-intro {
+  font-size: 1.12rem;
+  color: $muted;
+  max-width: 46rem;
+}
+
+img.home-photo {
+  border-radius: 14px;
+  box-shadow: 0 10px 28px rgba($teal-900, .16);
+  margin: 1.6rem auto;
+}
+figure:has(img.home-photo) figcaption {
+  text-align: center;
+  color: $muted;
+  font-style: italic;
+}
+
+.home-cards { margin-top: 1rem; }
+
+.home-card {
+  background: #fff;
+  border: 1px solid rgba($teal-900, .10);
+  border-radius: 12px;
+  padding: 1.1rem 1.25rem;
+  box-shadow: 0 1px 2px rgba($teal-900, .04);
+  transition: transform .15s ease, box-shadow .15s ease, border-color .15s ease;
+}
+.home-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba($teal-900, .12);
+  border-color: rgba($ochre, .55);
+}
+.home-card h3 {
+  margin-top: 0;
+  font-size: 1.18rem;
+}
+.home-card h3 a { color: $teal-700; }
+.home-card p { color: $muted; margin-bottom: 0; font-size: .96rem; }
+
+// Bloc auteur
+.author-card {
+  display: flex;
+  gap: 1.1rem;
+  align-items: flex-start;
+  background: linear-gradient(135deg, rgba($teal-700, .06), rgba($ochre, .05));
+  border: 1px solid rgba($teal-900, .10);
+  border-left: 4px solid $ochre;
+  border-radius: 12px;
+  padding: 1.2rem 1.4rem;
+  margin-top: 1.5rem;
+}
+.author-card h3 { margin-top: 0; }
+.author-links a {
+  display: inline-block;
+  margin-right: 1rem;
+  font-weight: 600;
+  color: $teal-700;
+}
+
+// Boutons d'appel à l'action
+.btn-cta {
+  display: inline-block;
+  background: $ochre;
+  color: #fff !important;
+  padding: .5rem 1.1rem;
+  border-radius: 8px;
+  font-weight: 600;
+  margin: .3rem .5rem .3rem 0;
+}
+.btn-cta:hover { background: darken($ochre, 8%); text-decoration: none; color:#fff; }
+.btn-cta.secondary { background: transparent; color: $teal-700 !important; border: 1.5px solid $teal-700; }
+.btn-cta.secondary:hover { background: rgba($teal-700, .08); }

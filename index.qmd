@@ -1,0 +1,73 @@
+---
+title: "Se former à l'action humanitaire"
+subtitle: "Carnet d'un parcours de certification"
+author: "NEBIE Gaston Cyrille — Ingénieur hydrologue"
+date: today
+title-block-banner: "#0e5066"
+title-block-banner-color: "#ffffff"
+toc: false
+number-sections: false
+---
+
+::: {.home-intro}
+Ce carnet accompagne un parcours de formation que je mène en 2026, en parallèle de la fin de mon master, pour me préparer à travailler dans l'humanitaire. Chaque certificat suivi y devient un chapitre, écrit au fil de l'eau plutôt que reconstruit après coup.
+:::
+
+Je viens de l'ingénierie hydrologique et de cinq ans dans l'administration de l'eau au Burkina Faso. Je sais lire un bassin versant, traiter des données, cartographier un aléa. Ce qui me manque pour être lisible par un recruteur d'ONG ou d'agence, ce n'est pas la technique, c'est la culture du secteur : suivi-évaluation, cycle de projet, principes humanitaires, redevabilité, sûreté en mission, recherche de financements. Ce carnet documente la manière dont je comble ce fossé, une certification à la fois.
+
+Le choix des formations n'est pas au hasard. J'ai retenu des certificats gratuits et reconnus, proposés par [DisasterReady.org](https://www.disasterready.org/) et adossés à des référentiels utilisés dans le métier (guides DPro, Core Humanitarian Standard). Chacun répond à un manque précis de mon profil, expliqué en ouverture de son chapitre.
+
+Je publie ce carnet volontairement inachevé. Les chapitres à venir sont d'abord des ossatures : le programme réel du certificat, prêt à recevoir mes notes. Je les remplis séance après séance, quitte à aller chercher un complément ailleurs quand un sujet le mérite. L'objectif n'est pas d'exhiber des badges, mais de garder une trace réutilisable de ce que chaque formation m'apporte, et de la relier à un fil constant : qu'est-ce que ça change pour un praticien de la gestion des risques en Afrique de l'Ouest ?
+
+Ce parcours prolonge un premier livre, la [capitalisation de mon master GRCA](https://ngastoncyrille.github.io/master-GRCA/), et une formation présentielle suivie avec la Croix-Rouge de Belgique, « Osons l'Humanitaire ». Ici, le regard se déplace du diplôme vers l'employabilité.
+
+::: {.content-visible when-format="html"}
+
+## Au sommaire {.unnumbered}
+
+::: {.grid .home-cards}
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4 .home-card}
+### [Le parcours](00_le_parcours.qmd)
+Pourquoi ces formations, dans quel ordre, et comment je remplis chaque chapitre.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4 .home-card}
+### [Bases du MEAL](01_meal.qmd)
+Suivi, évaluation, redevabilité, apprentissage. La compétence la plus demandée.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4 .home-card}
+### [Fondements de l'action humanitaire](02_action_humanitaire.qmd)
+Principes, cadre juridique, cycle de projet, professionnalisme du secteur.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4 .home-card}
+### [Gestion de projet (DPro)](03_gestion_projet.qmd)
+Le référentiel projet attendu sur les postes officer et advisor.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4 .home-card}
+### [Sûreté et sécurité](04_surete_securite.qmd)
+Les réflexes de base pour être déployable sur le terrain.
+:::
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4 .home-card}
+### [Recherche de subventions](05_recherche_subventions.qmd)
+Trouver des financements et rédiger une proposition. Utile aussi pour mon bureau d'études.
+:::
+
+:::
+
+::: {.author-card}
+::: {.author-text}
+### NEBIE Gaston Cyrille
+Ingénieur hydrologue et consultant en hydrologie et data science appliquée à l'eau. Je travaille sur la gestion des risques et l'adaptation au changement climatique en Afrique de l'Ouest, entre recherche, expertise et terrain, avec l'ambition de rejoindre le secteur humanitaire.
+
+::: {.author-links}
+[Articles RPubs](https://rpubs.com/nebiegc) · [LinkedIn](https://www.linkedin.com/in/gaston-cyrille-nebie-a2a977222/) · [Site web](https://ngastoncyrille.github.io/)
+:::
+:::
+:::
+
+:::

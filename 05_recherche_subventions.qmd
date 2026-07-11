@@ -1,0 +1,55 @@
+---
+title: "Fondamentaux de la recherche de subventions"
+subtitle: "Développé avec CNM"
+tags: ["humanitaire", "financement", "subventions", "proposal-writing"]
+---
+
+::: {.callout-note}
+À venir (6-10 août 2026). Le programme est prérempli d'après les trois axes ; les sections « Ce que j'en retiens » se complètent en formation.
+:::
+
+**Organisme** : DisasterReady.org, avec CNM · **Durée** : 3 h, plusieurs cours et un examen · **Badge** : *[lien à insérer]*
+
+## Pourquoi ce certificat
+
+Ce certificat a un double usage, et c'est ce qui le rend précieux dans mon cas.
+
+Côté emploi salarié, savoir identifier un financement et rédiger une proposition est une compétence recherchée sur tous les postes à volet mobilisation de ressources. Une organisation qui recrute apprécie un profil capable non seulement de mettre en œuvre, mais aussi d'aller chercher l'argent qui rend la mise en œuvre possible.
+
+Côté entrepreneurial, c'est directement réutilisable pour Hydro-Risque Conseil, le bureau d'études que je monte avec un cofondateur agro-météorologue. Répondre à des appels, structurer une offre, comprendre ce qu'un bailleur attend et entretenir la relation dans la durée : ce sont les mêmes réflexes, qu'on postule à un emploi ou qu'on porte une structure. Ce certificat sert donc mes deux horizons à la fois.
+
+Il recoupe le domaine « élaboration de propositions de subventions » de la certification sur les fondements de l'action humanitaire, et il réemploie le cadre logique déjà rencontré en MEAL et en DPro. Je le place en dernier, à la charnière entre l'employabilité et mon projet propre, comme une clé de sortie du parcours.
+
+## Le programme
+
+Le programme s'organise autour de trois axes, puis un examen.
+
+### 1. Trouver les bonnes subventions
+
+Identifier les bailleurs pertinents, comprendre leurs priorités, évaluer l'adéquation entre un projet et une ligne de financement, organiser une veille sur les appels.
+
+*Ce que j'en retiens : [à compléter]*
+
+### 2. Rédiger d'excellentes propositions
+
+Structure d'une proposition, problématique, cadre logique et budget, argumentaire, clarté et alignement sur les critères du bailleur.
+
+*Ce que j'en retiens : [à compléter — recouper avec le cadre logique du DPro et du MEAL]*
+
+### 3. Développer la relation avec les bailleurs
+
+Redevabilité, reporting, communication continue, construction d'une relation de confiance dans la durée.
+
+*Ce que j'en retiens : [à compléter]*
+
+### Examen
+
+*Résultat : [à compléter]*
+
+## Application Afrique de l'Ouest et bureau HRC
+
+*[à enrichir : comment ces méthodes servent le positionnement d'Hydro-Risque Conseil sur les financements liés à l'eau, aux risques et au climat en Afrique de l'Ouest]*
+
+## Compétences validées
+
+*[à compléter après l'examen]*

@@ -1,0 +1,202 @@
+---
+title: "Cours 1 — Introduction au MEAL"
+subtitle: "Fiche de révision détaillée"
+tags: ["humanitaire", "meal", "suivi-evaluation", "fiche"]
+---
+
+::: {.callout-note}
+## À propos de cette fiche
+Fiche de révision autonome du premier cours du certificat *Bases du MEAL* (DisasterReady.org). Elle reprend et reformule l'intégralité du cours d'introduction, de façon à pouvoir être comprise sans avoir suivi la formation. Le contenu est synthétisé à partir des supports du cours et aligné sur le Guide MEAL DPro, référentiel du secteur. Les exemples chiffrés et les personnages (UNITAS, Sydney, Jonathan, Rachel Frey, vallée Delta River) proviennent du cas fil rouge de la formation.
+
+Retour à la synthèse du certificat : [Bases du MEAL](01_meal.qmd).
+:::
+
+## Ce que couvre ce cours
+
+Le premier cours pose les fondations. Il répond à quatre questions :
+
+1. Qu'est-ce que le MEAL et quelles sont ses quatre composantes ?
+2. Quels principes de base une organisation doit-elle respecter dans ses activités MEAL ?
+3. Pourquoi la participation des parties prenantes et la réflexion critique sont-elles essentielles ?
+4. Vérification des connaissances.
+
+Le fil conducteur est un projet fictif d'accès à l'eau et d'assainissement, mené par une organisation nommée UNITAS dans la vallée Delta River. Ce cas sert à illustrer chaque notion et revient tout au long des cinq cours du certificat.
+
+## Le cas fil rouge : le projet Delta River
+
+Le contexte est présenté d'entrée, car tout le reste s'y rapporte.
+
+Dans la vallée Delta River, les maladies diarrhéiques constituent la troisième cause de morbidité et de mortalité tous âges confondus, et la première cause chez les enfants de moins de cinq ans. Deux facteurs de risque principaux sont identifiés : une eau insalubre et de mauvaises pratiques sanitaires. Les habitants prélèvent l'eau domestique dans des sources polluées et une majorité de la communauté pratique la défécation en plein air.
+
+UNITAS, une organisation d'action humanitaire et de développement, met en œuvre un projet pour réduire l'incidence de ces maladies en augmentant le recours à des points d'eau sains (puits et sources protégés) et à des latrines. Les activités sont :
+
+- construire des points d'eau protégés et des latrines pour un accès sûr à l'eau potable ;
+- mettre en place des comités de l'eau communautaires responsables de l'entretien et de la durabilité des ouvrages ;
+- construire des latrines de qualité à l'usage des foyers ;
+- lancer une campagne de sensibilisation sur les effets de l'eau insalubre et des mauvaises pratiques sanitaires.
+
+UNITAS doit appliquer les principes du MEAL pour mesurer l'efficacité de ses interventions et repérer ce qui doit être ajusté. Deux membres de l'équipe portent le projet : **Sydney**, spécialiste MEAL, et **Jonathan**, expérimenté en planification mais novice en MEAL. Le lecteur est invité à progresser comme Jonathan.
+
+## Qu'est-ce que le MEAL ?
+
+Les organisations humanitaires structurent leur travail en projets. Quelles que soient leurs approches, toutes ont besoin d'un suivi, d'une évaluation, d'une redevabilité et d'un apprentissage efficaces pour réussir. C'est ce que recouvre l'acronyme anglais MEAL : *Monitoring, Evaluation, Accountability and Learning*.
+
+Le MEAL n'est pas l'affaire des seuls spécialistes. Certaines organisations disposent de spécialistes dédiés, d'autres non, mais la responsabilité en incombe à toutes les personnes impliquées dans la gestion du projet, quel que soit leur poste.
+
+### Les quatre composantes
+
+| Composante | Définition |
+|---|---|
+| **Suivi** (*Monitoring*) | Collecte de données continue et systématique servant à déterminer la progression d'un projet. |
+| **Évaluation** (*Evaluation*) | Étude de la conception, de la mise en œuvre et des résultats d'un projet, en cours ou terminé. |
+| **Redevabilité** (*Accountability*) | Engagement à équilibrer et à répondre aux besoins de toutes les parties prenantes tout au long des activités du projet. |
+| **Apprentissage** (*Learning*) | Culture, processus et ressources qui permettent une réflexion intentionnelle, au service d'une meilleure prise de décision. |
+
+La redevabilité s'exerce envers plusieurs publics, pas seulement le bailleur :
+
+- les membres de la communauté ;
+- les bailleurs de fonds ;
+- les partenaires ;
+- les organisations prenant part au projet.
+
+::: {.callout-tip}
+## Pour aller plus loin : la redevabilité comme standard
+La redevabilité envers les populations affectées est formalisée dans le secteur par la Norme humanitaire fondamentale (Core Humanitarian Standard, CHS) et ses engagements de qualité et de redevabilité. Le MEAL est l'outil concret qui rend cette redevabilité vérifiable : sans données de suivi et sans mécanisme de remontée des plaintes, un engagement de redevabilité reste théorique.
+:::
+
+### Pourquoi les quatre fonctionnent ensemble
+
+Chaque composante a un objectif propre et important, mais aucune ne suffit seule. Elles doivent s'intégrer harmonieusement, comme les pièces d'un puzzle, pour être productives. Un suivi sans apprentissage produit des rapports que personne n'exploite ; une évaluation sans redevabilité ne rend de comptes qu'au bailleur ; une redevabilité sans données fiables n'est qu'une déclaration d'intention.
+
+## Suivi et évaluation : différences et connexions
+
+Le suivi et l'évaluation sont les deux composantes que l'on confond le plus. Ils diffèrent sur quatre axes.
+
+| Axe | Suivi | Évaluation |
+|---|---|---|
+| **Objectif** | Suivre les intrants, les activités et la progression vers les résultats et impacts convenus. | Estimer, de façon systématique et objective, la valeur d'un projet en cours ou terminé. |
+| **Fréquence** | Régulier et continu pendant la mise en œuvre. | Périodique et ponctuelle, pendant et après le projet (si le financement le permet). |
+| **Responsabilité** | Équipe du projet. | Souvent confiée à des intervenants externes, mais implique le personnel du projet. |
+| **Utilisation des données** | Décisions en temps utile et mesures correctives à court terme (gestion adaptative). | Identifier les changements potentiels et alimenter l'apprentissage organisationnel à plus long terme. |
+
+Différents, mais liés. Les activités de suivi génèrent des données qui serviront ensuite à répondre aux questions d'évaluation. Réciproquement, les évaluations peuvent recommander des changements dans le projet ou l'un de ses processus, puis le suivi permet de vérifier si ces recommandations ont été efficaces. Suivi et évaluation forment ainsi une boucle, non deux exercices isolés.
+
+## Les quatre phases du MEAL
+
+Le MEAL organise ses activités en quatre phases, adaptées du Guide MEAL DPro. Elles se déroulent tout au long du cycle de vie du projet, de la planification initiale à la clôture.
+
+1. **Planifier les activités MEAL.** Développer des plans détaillés et complets ; choisir des outils et des approches adaptés à la taille et à la complexité du projet.
+2. **Collecter les données MEAL.** Élaborer et utiliser des outils pour collecter des données de qualité et opportunes ; ces données doivent mesurer la progression et aider à décider et à apprendre.
+3. **Analyser les données MEAL.** Analyser les données selon les plans établis pendant la phase de planification.
+4. **Utiliser les données MEAL.** S'en servir pour informer les décisions de gestion et les communications, promouvoir la redevabilité et partager l'apprentissage.
+
+La logique est séquentielle mais itérative : on ne collecte que ce qu'on a planifié de mesurer, on n'analyse que selon le plan prévu, et l'usage des données peut renvoyer à un ajustement de la planification.
+
+## Bénéfices et risques d'un système MEAL
+
+Correctement conçu et mis en œuvre, un système MEAL permet de suivre la progression des projets, d'appuyer des décisions informées, d'augmenter l'impact, et de promouvoir la redevabilité et l'apprentissage.
+
+Mal géré, il produit l'inverse. Les effets les plus défavorables sont :
+
+- le **gaspillage** des ressources du projet et du temps des participants, en posant les mauvaises questions ou en collectant des données inutiles ;
+- la mise en danger de la **sécurité et du bien-être** des participants, quand la confidentialité et l'anonymat ne sont pas respectés ;
+- la **perte d'impact** ou de cap, faute de collecter et d'analyser les données nécessaires à l'amélioration des opérations et de la stratégie.
+
+Ces risques justifient les principes de base et la vigilance sur les biais qui suivent.
+
+## Les cinq principes de base
+
+Pour assurer une bonne mise en œuvre, les organisations définissent leurs propres principes de base, fondés sur cinq thèmes. Ces principes forment l'éthique de la donnée du MEAL.
+
+::: {.callout-important}
+## Les cinq principes
+1. **Représentation.** Toutes les personnes ont le droit d'être incluses et représentées de manière adéquate dans les données, en particulier les groupes vulnérables et marginalisés.
+2. **Consentement éclairé.** Respecter les droits des personnes dont on collecte les données : expliquer l'usage qui en sera fait, obtenir un consentement volontaire, prévoir le double consentement (individuel et d'un parent ou tuteur) pour les enfants et certains adultes, et permettre l'accès, la modification, la suppression et le signalement de préoccupations ou de plaintes.
+3. **Vie privée et confidentialité.** La collecte et le stockage doivent préserver la confidentialité des données personnelles, avec des procédures pour supprimer les données dès qu'elles ne sont plus utiles.
+4. **Sécurité des participants.** Participer à la collecte ne doit entraîner aucun risque pour la sécurité des personnes.
+5. **Quantité minimale de données.** Ne collecter que les données nécessaires et directement pertinentes au regard de l'objectif visé.
+:::
+
+::: {.callout-tip}
+## Pour aller plus loin : ces principes ne sont pas propres au MEAL
+On reconnaît ici les grands principes de la protection des données personnelles (finalité, minimisation, consentement, droit de rectification et d'effacement), transposés au contexte humanitaire où la donnée peut être sensible au point de mettre des vies en danger. C'est une déclinaison concrète du principe humanitaire « ne pas nuire » (*do no harm*) appliqué à l'information.
+:::
+
+## Participation des parties prenantes et réflexion critique
+
+Deux exigences traversent tout le processus MEAL : intégrer les contributions des parties prenantes et exercer une réflexion critique.
+
+### La participation des parties prenantes
+
+Les parties prenantes sont les personnes qui ont à la fois un intérêt et une influence sur le projet. Intégrer leurs perspectives sert le projet de plusieurs manières :
+
+- faire en sorte que les données du MEAL soient comprises et adaptées au contexte local ;
+- aider les parties prenantes à mieux comprendre et à s'approprier la stratégie et les résultats de leur propre programme ;
+- améliorer la collaboration entre les participants, à tous les niveaux de la mise en œuvre ;
+- promouvoir une allocation plus efficace des ressources.
+
+### La réflexion critique
+
+Les contextes humanitaires sont dynamiques et certains facteurs échappent à tout contrôle : météo, phénomènes géologiques, conflits. Des biais involontaires peuvent aussi peser sur un projet. Il faut donc penser de façon claire et rationnelle, prendre en compte d'autres opinions, s'appuyer sur les données et évaluer les risques.
+
+Tout au long du processus MEAL, l'équipe doit :
+
+- vérifier que les hypothèses du projet sont correctes, bien fondées et logiques (les outils d'analyse des risques aident à cela) ;
+- poser des questions réfléchies pour approfondir sa compréhension ;
+- prendre en compte des perspectives différentes, parfois opposées ;
+- réfléchir à ses propres actions et les analyser.
+
+### Les six biais cognitifs à surveiller
+
+Un biais cognitif est une erreur systématique de pensée qui peut fausser la façon dont on collecte, analyse, interprète et communique les données. La réflexion critique aide à anticiper, identifier et gérer ce risque. Le cours en détaille six, illustrés par le projet Delta River.
+
+| Biais | Définition | Illustration |
+|---|---|---|
+| **Biais d'affinité** | Favoriser les personnes qui partagent nos intérêts, origines et expériences. | Lors de l'analyse des groupes de discussion, ne pas surévaluer ni surreprésenter la parole des participants ayant une éducation formelle. |
+| **Biais de confirmation** | Chercher, mettre en avant et interpréter les informations qui confirment nos opinions existantes. | En rédigeant les rapports de progression, ne pas ne retenir que les résultats qui confirment les points de vue préétablis. |
+| **Effet Dunning-Kruger** | Un manque de connaissances dans un domaine conduit à surestimer ses propres compétences. | Des membres du projet n'envisagent que leur seule perspective lors de l'analyse, au lieu d'en croiser plusieurs. |
+| **Biais de groupe** (*groupthink*) | S'autocensurer pour se conformer à la majorité, même en désaccord. | Parce que l'équipe est satisfaite des taux de lavage des mains, Elena tait son opinion divergente. Rester ouvert aux avis contraires. |
+| **Biais d'optimisme** | Surestimer la probabilité des événements positifs et sous-estimer les négatifs. | UNITAS table sur une baisse des maladies hydriques de 30 % en un an, alors que des projets antérieurs n'y sont parvenus que sur plusieurs années. |
+| **Biais du statu quo** | Préférer conserver la situation actuelle et s'opposer aux changements. | Malgré une hausse imprévue des maladies hydriques, UNITAS ne révise pas le plan, jugeant cela trop perturbant. |
+
+::: {.callout-note}
+## Voix de l'expérience : Rachel Frey (New Story)
+Rachel Frey, responsable des dons institutionnels chez New Story, raconte comment son équipe limite les biais. Elle recourt à des consultants ou agences d'évaluation externes : n'ayant aucun contrôle sur ce qui est rapporté, elle se prémunit du biais de confirmation que les équipes de mise en œuvre peuvent exercer involontairement.
+
+Elle cite un projet antérieur sur la violence chez des adolescents à Monterrey (Mexique) : les données finales montraient plus de violences vécues que les données initiales. Contre-intuitif, puisque le projet visait à la réduire. L'analyse a révélé que la violence n'augmentait pas nécessairement : les jeunes la connaissaient mieux et osaient davantage la signaler. En acceptant les données telles quelles, l'équipe a évité les biais d'optimisme et de statu quo, et a réellement appris de l'expérience.
+:::
+
+## Récapitulatif
+
+Les cinq points à retenir du cours :
+
+1. Les composantes du MEAL doivent s'intégrer harmonieusement pour être productives.
+2. Suivi et évaluation sont différents mais liés : le suivi produit des données qui alimentent les questions d'évaluation, et les évaluations recommandent des changements dont le suivi mesure ensuite l'efficacité.
+3. Le MEAL se déroule en quatre phases : planification des activités, collecte, analyse, utilisation des données.
+4. Le processus MEAL doit comprendre cinq principes, dont l'absence de risque pour la sécurité des participants lors de la collecte.
+5. La participation des parties prenantes et la réflexion critique sont essentielles au MEAL.
+
+## Glossaire express
+
+**MEAL.** *Monitoring, Evaluation, Accountability and Learning* : suivi, évaluation, redevabilité, apprentissage.
+
+**Intrant.** Ressource investie dans le projet (temps, budget, matériel, personnel).
+
+**Partie prenante.** Personne ou groupe ayant un intérêt et une influence sur le projet.
+
+**Gestion adaptative.** Ajuster le projet en cours de route à partir des données de suivi.
+
+**Biais cognitif.** Erreur systématique de raisonnement qui fausse la collecte, l'analyse, l'interprétation ou la communication des données.
+
+**Redevabilité.** Obligation de rendre des comptes et de répondre aux besoins des parties prenantes, communautés affectées comprises.
+
+## Pour aller plus loin
+
+Ressources sectorielles fiables pour approfondir, au-delà du cours :
+
+- **Guide MEAL DPro** (PM4NGOs). Référentiel dont s'inspire ce certificat ; il détaille les quatre phases et les outils de suivi-évaluation d'un projet de développement ou humanitaire.
+- **Core Humanitarian Standard on Quality and Accountability (CHS).** Les neuf engagements qui cadrent la redevabilité envers les populations affectées.
+- **Le Manuel Sphère.** Standards humanitaires minimums, dont un chapitre WASH directement pertinent pour un projet du type Delta River.
+- Sur les biais : les travaux fondateurs sur l'effet Dunning-Kruger (1999) et, plus largement, la distinction entre pensée rapide et pensée réfléchie popularisée par Daniel Kahneman, utile pour comprendre pourquoi la réflexion critique doit être organisée et non laissée à l'intuition.
+
+*Prochaine étape du certificat : la planification du MEAL (théorie du changement, cadre logique, indicateurs SMART, plan de suivi-évaluation).*

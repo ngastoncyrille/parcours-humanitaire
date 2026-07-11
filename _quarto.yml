@@ -1,0 +1,50 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Se former à l'action humanitaire"
+  subtitle: "Carnet d'un parcours de certification"
+  author: "NEBIE Gaston Cyrille"
+  date: "today"
+  language: fr
+  reader-mode: true
+  search: true
+  back-to-top-navigation: true
+  page-footer:
+    border: true
+    left: "© 2026 NEBIE Gaston Cyrille — Ingénieur hydrologue."
+    center: "Carnet d'un parcours de formation à l'humanitaire."
+    right: "[RPubs](https://rpubs.com/nebiegc)"
+
+  chapters:
+    - index.qmd
+
+    - part: "Le parcours"
+      chapters:
+        - 00_le_parcours.qmd
+
+    - part: "Les certifications"
+      chapters:
+        - 01_meal.qmd
+        - 01_meal_c1_introduction.qmd
+        - 02_action_humanitaire.qmd
+        - 03_gestion_projet.qmd
+        - 04_surete_securite.qmd
+        - 05_recherche_subventions.qmd
+
+format:
+  html:
+    toc: true
+    toc-title: "Sur cette page"
+    theme:
+      - cosmo
+      - theme.scss
+    number-sections: true
+    code-tools: false
+    lang: fr
+
+execute:
+  freeze: auto
+
+editor: visual

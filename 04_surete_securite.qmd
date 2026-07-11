@@ -1,0 +1,59 @@
+---
+title: "Sûreté et sécurité personnelles"
+subtitle: "Développé avec Save the Children"
+tags: ["humanitaire", "securite", "surete", "mission-terrain"]
+---
+
+::: {.callout-note}
+À venir (3-5 août 2026). Le programme est prérempli d'après les dix cours ; les sections « Ce que j'en retiens » se complètent en formation.
+:::
+
+**Organisme** : DisasterReady.org, avec Save the Children · **Durée** : 2 h 30, dix cours et un test de 30 questions · **Langue** : français · **Badge** : *[lien à insérer]*
+
+## Pourquoi ce certificat
+
+Court, mais loin d'être accessoire. Les postes de terrain que je vise, au Sahel en particulier, s'exercent dans des contextes sécuritaires tendus. Avant de déployer quelqu'un, une organisation vérifie qu'il a la culture sécurité minimale. Ce certificat est exactement ce signal-là.
+
+Il ne fait pas de moi un expert en gestion de la sécurité, et ce n'est pas son but. Il installe les réflexes de base : préparer un déplacement, communiquer en environnement difficile, évaluer un risque, réduire sa vulnérabilité, savoir quoi faire face à un incident. Pour un recruteur, cocher cette case retire un frein à l'embauche ; pour moi, elle réduit un angle mort réel, puisque je viens d'un métier de bureau et de terrain encadré, pas de zones de crise.
+
+Il recoupe directement le domaine « sécurité et devoir de diligence » de la certification sur les fondements de l'action humanitaire. Je le place juste après, comme un prérequis de déployabilité, et parce que sa brièveté en fait une transition facile avant le dernier certificat.
+
+## Le programme
+
+Dix cours courts couvrant la sûreté personnelle du travailleur humanitaire, puis un test.
+
+### Préparation et déplacement
+
+Préparation avant mission, préparation au voyage de terrain, gestion des documents d'identité, santé (vaccins, prophylaxie).
+
+*Ce que j'en retiens : [à compléter]*
+
+### Communications et environnement
+
+Communiquer en environnement difficile, moyens de communication de terrain.
+
+*Ce que j'en retiens : [à compléter]*
+
+### Prévention et réduction de la vulnérabilité
+
+Prévention des incidents violents, évaluation des risques, réduction de la vulnérabilité et des biais, mécanismes par lesquels un agresseur choisit sa cible.
+
+*Ce que j'en retiens : [à compléter]*
+
+### Situations critiques
+
+Conduite à tenir en cas d'arrestation ou de détention, réaction face à un incident.
+
+*Ce que j'en retiens : [à compléter]*
+
+### Test final (30 questions)
+
+*Résultat : [à compléter]*
+
+## Application Afrique de l'Ouest
+
+*[à enrichir : lien avec la réalité sécuritaire du Burkina et du Sahel, l'accès aux zones affectées, la gestion de la sécurité par l'acceptation communautaire]*
+
+## Compétences validées
+
+*[à compléter après le test]*

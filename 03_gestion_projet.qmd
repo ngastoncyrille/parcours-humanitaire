@@ -1,0 +1,71 @@
+---
+title: "Fondamentaux de la gestion de projet (DPro)"
+subtitle: "Référentiel Project DPro"
+tags: ["humanitaire", "gestion-de-projet", "dpro"]
+---
+
+::: {.callout-note}
+À venir (24-31 juillet 2026). Le programme est prérempli d'après les phases du référentiel DPro ; les sections « Ce que j'en retiens » se complètent en formation.
+:::
+
+**Organisme** : DisasterReady.org · **Durée** : 5 h, plusieurs cours et un examen (75 % requis) · **Référentiel** : Guide Project DPro · **Badge** : *[lien à insérer]*
+
+## Pourquoi ce certificat
+
+Le badge DPro est explicitement demandé ou valorisé dans une grande partie des offres « officer » et « advisor » des ONG et des agences. Ce n'est pas un certificat de plus, c'est presque un standard d'entrée pour piloter un projet dans le secteur.
+
+J'ai déjà géré des activités, des livrables et des échéances dans l'administration burkinabè. Mais c'est une culture projet d'administration publique, avec ses procédures propres, pas celle du développement international. Les deux mondes ne parlent pas tout à fait la même langue. Le DPro me donne le vocabulaire et les outils que mes interlocuteurs attendent : arbre à problèmes, matrice des parties prenantes, cadre logique, structure de découpage du travail, registre des risques, gestion adaptative.
+
+Il y a aussi un bénéfice de cohérence. Le DPro partage sa colonne vertébrale, le cadre logique, avec le MEAL et avec la recherche de subventions. En le suivant après le MEAL, je consolide un même socle méthodologique vu sous trois angles : concevoir, mesurer, financer. C'est pourquoi je le place en troisième position, une fois le cadre général posé.
+
+## Le programme
+
+Le référentiel DPro structure le projet en phases successives.
+
+### 1. Introduction et cadrage
+
+Ce qu'est un projet, le rôle du chef de projet, les principes du DPro, l'équilibre entre contenu, délais, budget et qualité.
+
+*Ce que j'en retiens : [à compléter]*
+
+### 2. Identification et conception
+
+Analyse des besoins, des parties prenantes et des problèmes (arbre à problèmes), théorie du changement, cadre logique, indicateurs.
+
+*Ce que j'en retiens : [à compléter — recouper avec le MEAL]*
+
+### 3. Planification
+
+Structure de découpage du travail, calendrier, budget, plan de gestion des risques, plan d'approvisionnement.
+
+*Ce que j'en retiens : [à compléter]*
+
+### 4. Mise en œuvre
+
+Pilotage de l'exécution, gestion de l'équipe et des ressources, gestion des parties prenantes, gestion des problèmes et des changements.
+
+*Ce que j'en retiens : [à compléter]*
+
+### 5. Suivi, évaluation et contrôle
+
+Suivi de l'avancement, tableaux de bord, gestion adaptative. Interface directe avec le MEAL.
+
+*Ce que j'en retiens : [à compléter]*
+
+### 6. Clôture et transition
+
+Clôture administrative, financière et contractuelle, capitalisation, transition vers les bénéficiaires ou vers une phase suivante.
+
+*Ce que j'en retiens : [à compléter]*
+
+### Examen (75 % requis)
+
+*Résultat : [à compléter]*
+
+## Application Afrique de l'Ouest
+
+*[à enrichir : transposer un projet réel que je connais, par exemple un projet d'aménagement ou de suivi de ressource en eau sur le Nakanbé, dans le formalisme DPro]*
+
+## Compétences validées
+
+*[à compléter après l'examen]*

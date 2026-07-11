@@ -1,0 +1,91 @@
+---
+title: "Fondements de l'action humanitaire"
+subtitle: "Core Humanitarian Certification"
+tags: ["humanitaire", "principes-humanitaires", "cycle-de-projet", "dih"]
+---
+
+::: {.callout-note}
+À venir (17-23 juillet 2026). Le programme est prérempli d'après les neuf domaines de la certification ; les sections « Ce que j'en retiens » se complètent en formation.
+:::
+
+**Organisme** : DisasterReady.org · **Durée** : environ 4 h, neuf domaines et un examen · **Langue** : français · **Badge** : *[lien à insérer]*
+
+## Pourquoi ce certificat
+
+C'est le certificat qui comble mon plus gros écart. Je connais le risque par sa face technique, celle de l'aléa qu'on mesure et qu'on cartographie. L'humanitaire l'aborde par l'autre bout : la protection des personnes, un cadre juridique, des principes et une architecture d'acteurs. Ce terrain-là, je ne le maîtrise pas encore, et c'est précisément celui qu'un employeur du secteur suppose acquis.
+
+La Core Humanitarian Certification est souvent présentée comme la base commune attendue de tout profil qui entre dans le métier. Elle balaie l'ensemble du champ, du droit international humanitaire au financement de l'aide, du cycle de projet aux standards de conduite. Pour quelqu'un qui vient d'une administration technique, c'est le passage qui transforme un ingénieur compétent en candidat crédible pour une ONG.
+
+J'ai déjà mis un pied dans ce monde avec la formation présentielle « Osons l'Humanitaire », suivie avec la Croix-Rouge de Belgique en février 2026 : premier contact avec le droit international humanitaire, la diplomatie humanitaire et les réalités opérationnelles. Ce certificat vient structurer et compléter ces notions éparses en un cadre cohérent.
+
+Je le place en deuxième position, juste après le MEAL, parce qu'il donne le décor général dans lequel tout le reste prend sens.
+
+## Le programme
+
+La certification couvre neuf domaines.
+
+### 1. Bases de l'action humanitaire
+
+Ce qu'est l'action humanitaire, son histoire, ses acteurs (agences des Nations unies, Mouvement de la Croix-Rouge et du Croissant-Rouge, ONG internationales et locales), la distinction entre urgence, relèvement et développement.
+
+*Ce que j'en retiens : [à compléter]*
+
+### 2. Cadre juridique international
+
+Droit international humanitaire, droit des réfugiés, droit international des droits humains. Protection des civils, distinction entre combattants et non-combattants.
+
+*Ce que j'en retiens : [à compléter — recouper avec le module DIH d'Osons l'Humanitaire]*
+
+### 3. Enjeux transversaux
+
+Genre, protection, inclusion du handicap, environnement, redevabilité envers les populations affectées.
+
+*Ce que j'en retiens : [à compléter]*
+
+### 4. Financement de l'aide humanitaire
+
+Architecture du financement : bailleurs institutionnels, appels de fonds, mécanismes de fonds communs, chaîne de redevabilité.
+
+*Ce que j'en retiens : [à compléter]*
+
+### 5. Élaboration de propositions de subventions
+
+Logique d'une proposition, cadre logique, budget. Recoupe le chapitre « Recherche de subventions » de ce carnet.
+
+*Ce que j'en retiens : [à compléter]*
+
+### 6. Cycle de projet humanitaire
+
+Les étapes du Humanitarian Programme Cycle : évaluation des besoins, planification stratégique, mobilisation des ressources, mise en œuvre, suivi, revue.
+
+*Ce que j'en retiens : [à compléter — comparer au cycle DPro]*
+
+### 7. Sécurité et devoir de diligence
+
+Gestion de la sécurité, devoir de diligence de l'employeur, logiques d'acceptation, de protection et de dissuasion. Recoupe le chapitre « Sûreté et sécurité personnelles ».
+
+*Ce que j'en retiens : [à compléter]*
+
+### 8. Information, données et technologie
+
+Gestion de l'information dans le secteur, protection des données, technologies au service de la réponse.
+
+*Ce que j'en retiens : [à compléter — terrain proche de mon profil data et SIG]*
+
+### 9. Professionnalisme dans le travail humanitaire
+
+Standards de conduite, prévention de l'exploitation et des abus sexuels (PSEA), Core Humanitarian Standard, développement professionnel.
+
+*Ce que j'en retiens : [à compléter]*
+
+### Examen
+
+*Résultat : [à compléter]*
+
+## Application Afrique de l'Ouest
+
+*[à enrichir : comment ces principes se confrontent au contexte sahélien, aux crises du Burkina depuis 2016, à la question de l'accès humanitaire et de la localisation de l'aide]*
+
+## Compétences validées
+
+*[à compléter après l'examen]*

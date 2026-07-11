@@ -1,0 +1,40 @@
+---
+title: "Le parcours"
+tags: ["humanitaire", "certification", "methode"]
+---
+
+## Pourquoi ce parcours
+
+En 2026, je prépare une bascule. Fonctionnaire de l'administration de l'eau au Burkina Faso, je veux rejoindre le secteur humanitaire et du développement, sur des fonctions liées à la gestion des risques et des catastrophes. J'ai la matière technique. Il me manque les codes du métier, ceux qu'un recruteur vérifie en quelques minutes d'entretien : est-ce que ce candidat connaît le suivi-évaluation, le cycle de projet, les principes humanitaires, la sûreté en mission.
+
+Plutôt que d'attendre un hypothétique poste pour apprendre sur le tas, j'ai décidé de me former en amont, avec des certificats gratuits et reconnus. Ce carnet en garde la trace et en fait un actif de positionnement, dans la même logique que la capitalisation de mon master.
+
+## Les certificats retenus
+
+Cinq certificats, choisis pour combler des manques précis et non pour empiler des lignes de CV. Tous sont proposés par DisasterReady.org, gratuits, disponibles en français, et adossés à des référentiels du secteur.
+
+| # | Certificat | Durée | Ce qu'il comble | Statut |
+|---|---|---|---|---|
+| 1 | [Bases du MEAL](01_meal.qmd) | 4 h 20 | Le cadre suivi-évaluation autour de mes compétences data | 🟡 en cours |
+| 2 | [Fondements de l'action humanitaire](02_action_humanitaire.qmd) | ~4 h | Les principes, le droit, l'architecture du secteur | 🔴 à venir |
+| 3 | [Gestion de projet (DPro)](03_gestion_projet.qmd) | 5 h | Le référentiel projet attendu partout | 🔴 à venir |
+| 4 | [Sûreté et sécurité personnelles](04_surete_securite.qmd) | 2 h 30 | Les réflexes pour être déployable | 🔴 à venir |
+| 5 | [Recherche de subventions](05_recherche_subventions.qmd) | 3 h | Financement et proposition, utile aussi au bureau HRC | 🔴 à venir |
+
+Légende : 🔴 à venir · 🟡 en cours · 🟢 terminé et validé (examen réussi, badge obtenu).
+
+L'ordre suit une logique. Le MEAL d'abord, parce que c'est là que je capitalise le plus vite sur ce que je sais déjà faire. Les fondements de l'action humanitaire ensuite, pour poser le cadre général. La gestion de projet pour structurer. La sûreté, courte, comme un prérequis de déployabilité. La recherche de subventions pour finir, à cheval entre l'emploi salarié et mon projet de bureau d'études.
+
+## La méthode
+
+Je m'impose une discipline simple : une heure par jour ouvré, pas plus, pour ne pas empiéter sur la fin de mon mémoire. À ce rythme, le parcours tient sur cinq semaines, de la mi-juillet à la mi-août 2026.
+
+Chaque chapitre de ce carnet suit la même trame :
+
+1. **Pourquoi ce certificat.** Le raisonnement derrière le choix : ce que le certificat est, ce que j'ai déjà, ce qu'il vient combler, à quoi il sert pour mon objectif.
+2. **Le programme.** La structure réelle des modules, préremplie, prête à recevoir mes notes.
+3. **Ce que j'en retiens.** Complété séance après séance, module par module.
+4. **Application Afrique de l'Ouest.** L'angle qui me distingue, relié à mes travaux et au terrain sahélien.
+5. **Compétences validées.** Rempli une fois l'examen passé, dans une formulation directement réutilisable en CV ou en entretien.
+
+Je publie chaque chapitre avant de l'avoir fini. Une ossature en ligne vaut mieux qu'un texte parfait jamais mis à disposition.
