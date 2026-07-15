@@ -6,3 +6,6 @@
 .RData
 
 /_quarto_internal_scss_error.scss
+
+# Supports de cours proprietaires (DisasterReady): usage prive, ne pas publier
+/ressource/
