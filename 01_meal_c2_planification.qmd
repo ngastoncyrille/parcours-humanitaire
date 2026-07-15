@@ -1,0 +1,396 @@
+---
+title: "Cours 2 — La planification du MEAL"
+subtitle: "Fiche de révision détaillée"
+tags: ["humanitaire", "meal", "suivi-evaluation", "indicateurs", "fiche"]
+---
+
+::: {.callout-note}
+## À propos de cette fiche
+Fiche de révision autonome du deuxième cours du certificat *Bases du MEAL* (DisasterReady.org), consacré à la première des quatre phases : planifier les activités MEAL. Elle reprend et reformule l'intégralité du cours, de façon à être comprise sans avoir suivi la formation. Le contenu est synthétisé à partir des supports du cours et aligné sur le Guide MEAL DPro. Les exemples et les personnages (UNITAS, Sydney, Jonathan, Leslie Sherriff, vallée Delta River) proviennent du cas fil rouge de la formation.
+
+Cours précédent : [Introduction au MEAL](01_meal_c1_introduction.qmd) · Retour à la synthèse : [Bases du MEAL](01_meal.qmd).
+:::
+
+::: {.callout-tip collapse="true"}
+## Abréviations utilisées dans le cas Delta River
+**CDR** : communauté de Delta River · **EOY** : fin de l'année (*end of year*), donc EOY3 = fin de la troisième année · **PDI** : personnes déplacées internes · **OMS** : Organisation mondiale de la santé.
+:::
+
+## Ce que couvre ce cours
+
+Le cours 1 a posé le cadre : les quatre composantes du MEAL, la distinction suivi/évaluation, les quatre phases, les cinq principes. Ce cours traite la première phase, la planification.
+
+Il s'organise en quatre temps : le plan de suivi, les évaluations, le MEAL en pratique (un exercice appliqué au cas Delta River), et une vérification des connaissances.
+
+L'image qui ouvre le cours résume l'enjeu. Partir en voyage avec une carte ne suffit pas. Il faut aussi un plan : les dates, les routes précises, les itinéraires quotidiens, le matériel nécessaire. Un plan détaillé et complet est ce qui guide le travail.
+
+Il existe plusieurs outils pour planifier le MEAL, à choisir selon la taille et la complexité du projet. Une règle vaut dans tous les cas : les budgets, les activités et les calendriers MEAL doivent être intégrés et alignés sur le plan général du projet. Le MEAL n'est pas un dispositif parallèle greffé sur le projet, il en fait partie.
+
+## Le plan de suivi
+
+Le plan de suivi est l'outil principal de planification. Quel que soit le modèle utilisé, il respecte un format de base dont les sections répondent à cinq questions :
+
+1. Quels sont les énoncés d'objectifs du projet ?
+2. Quels indicateurs mesureront la progression et les changements ?
+3. Comment les données seront-elles collectées ?
+4. Comment seront-elles analysées ?
+5. Comment seront-elles utilisées ?
+
+Le modèle type se présente ainsi :
+
+| Section | Ce qu'elle précise |
+|---|---|
+| **Énoncés d'objectifs** | Les niveaux d'objectifs à suivre. |
+| **Indicateurs** | Les mesures retenues pour chaque énoncé. |
+| **Collecte des données** | Méthode · Calendrier et fréquence · Qui collecte les données · Répondants (qui impliquer). |
+| **Moyens d'analyse** | Type d'analyse · Sous-groupes. |
+| **Utilisation des données** | Communication et prise de décision. |
+
+### Section 1 : les énoncés d'objectifs
+
+L'équipe du projet identifie quatre niveaux d'énoncés d'objectifs. Ils vont du plus concret au plus ambitieux.
+
+**Activités.** Les mesures prises par lesquelles les intrants (financiers, humains, techniques, matériels et temporels) sont utilisés pour produire les livrables : formation, construction, etc.
+
+**Livrables.** Les livrables matériels et immatériels résultant des activités : produits, services, connaissances et compétences.
+
+**Résultats.** Ce que le projet compte accomplir au niveau de la communauté, et sa contribution aux changements au niveau de la population. Ces éléments se rejoignent et contribuent à la réalisation du but et à produire un impact. Exemples : l'utilisation des connaissances et des compétences dans la pratique effective au fil du temps, le transport au long cours de biens sur des routes construites, la réduction des taux de malnutrition, l'augmentation des revenus.
+
+**But.** Les résultats finaux ou les impacts souhaités au plus haut niveau, auxquels le projet contribue : transformation, durabilité, bien-être. Exemple : la réduction de l'incidence des maladies d'origine hydrique.
+
+::: {.callout-note}
+## L'énoncé d'objectifs du projet Delta River
+**But.** Incidence réduite des maladies diarrhéiques parmi les résidents de Delta River.
+
+**Résultats.**
+
+- Augmentation de l'utilisation de sources d'eau améliorées par les résidents de la vallée.
+- Augmentation de l'utilisation de latrines de qualité par les résidents de la vallée.
+
+**Livrables.**
+
+- Les membres de la communauté ont accès à des sources d'eau améliorées.
+- Les comités communautaires de gestion de l'eau sont opérationnels.
+- Les membres de la communauté ont accès à des latrines de qualité.
+
+**Activités.**
+
+- Identifier l'emplacement des points d'eau.
+- Identifier et former les comités de gestion de l'eau.
+- Mener une campagne de sensibilisation sur les latrines.
+:::
+
+### La logique verticale
+
+Chaque niveau dépend du précédent. C'est ce qu'on appelle la logique verticale, et elle s'énonce comme une chaîne de conditions :
+
+- Si des ressources et des intrants adéquats sont fournis, alors les **activités** peuvent être menées.
+- Si les activités sont menées, alors les **livrables** peuvent être produits.
+- Si les livrables sont produits, alors les **résultats** peuvent se concrétiser.
+- Si les résultats se produisent, alors ils contribuent à l'ensemble de votre **but**.
+
+Cette chaîne est le squelette du raisonnement du projet. Un plan de suivi sert précisément à vérifier, maillon par maillon, si elle tient dans la réalité.
+
+### Cadre logique et plan de suivi
+
+Le cadre logique (*logframe*) d'un projet fournit les informations nécessaires à la création des énoncés d'objectifs, des indicateurs et des méthodes de mesure du plan de suivi. Les deux outils sont liés mais distincts : le plan de suivi doit être plus complet et plus détaillé que le cadre logique général.
+
+Le cadre logique le plus simple se compose d'un tableau de quatre lignes sur quatre colonnes, mais cela peut varier :
+
+- **Lignes**, de haut en bas : but, résultats, livrables, activités.
+- **Colonnes**, de gauche à droite : description, indicateurs, méthodes de mesure (moyens de vérification), hypothèses importantes.
+
+Extrait du cadre logique de Delta River, pour fixer les idées :
+
+::: {style="overflow-x: auto;"}
+
+| Niveau | Description | Indicateur | Méthode de mesure | Hypothèses |
+|---|---|---|---|---|
+| **But** | Réduction de l'incidence des maladies diarrhéiques au sein de la CDR | À l'EOY3, il existe une réduction de l'incidence des maladies d'origine hydrique au sein de la CDR | Dossiers de l'hôpital municipal et des cliniques | Aucune à ce niveau |
+| **Résultat** | Augmentation de l'utilisation par la CDR de sources d'eau améliorées | Pour l'année 3, 75 % des membres de la CDR utilisent des sources d'eau améliorées pour répondre aux besoins de consommation des ménages | Questionnaire, visites des sites, rapports du comité de gestion de l'eau, groupe de discussion | La valeur perçue de l'amélioration de la qualité de l'eau motive l'appropriation, l'engagement et la durabilité des sources d'eau améliorées |
+| **Livrable** | Les comités de gestion de l'eau de la CDR sont opérationnels | Tous les trimestres, 100 % des points d'eau gérés par les comités respectent les normes de qualité de l'eau de l'OMS | Registre des points d'eau | Les membres du comité restent en place et transfèrent les pratiques d'entretien aux nouveaux membres du personnel |
+| **Activité** | Établissement et formation des comités de gestion de l'eau de la CDR | Confirmation des spécificités et des emplacements avec l'équipe d'ingénieurs | Rapports des équipes d'ingénieurs | Accès aux latrines et conscience des avantages apportés par leur utilisation |
+
+:::
+
+La colonne « hypothèses » mérite l'attention. Elle rend explicites les conditions extérieures au projet dont dépend le passage d'un niveau au suivant. C'est là que se logent les risques que le suivi devra surveiller.
+
+### Section 2 : les indicateurs
+
+Les indicateurs fournissent les mesures qui permettent de suivre la progression, de mettre en avant les changements ou d'évaluer les performances. Leur choix repose sur deux décisions indépendantes, ce qui donne quatre types possibles :
+
+1. Mesurer **directement** ou **indirectement** ?
+2. Mesurer de façon **quantitative** ou **qualitative** ?
+
+#### Indicateurs directs et indirects
+
+**Indicateurs directs.** Ils mesurent les changements en examinant directement les aspects présentant un intérêt.
+
+> Exemple : pour l'année 3, 75 % des membres de la communauté utilisent des sources d'eau améliorées pour répondre aux besoins de consommation des ménages.
+
+- *Avantages* : l'observation directe est plus précise.
+- *Inconvénients* : la collecte requiert plus de temps et des observateurs compétents ; observer le lavage des mains peut modifier le comportement des membres de la communauté ; il est difficile d'évaluer directement le lieu d'approvisionnement en eau sans être présent 24 heures sur 24 auprès des familles.
+
+**Indicateurs indirects.** Ils mesurent les changements en examinant des mesures indirectes *reconnues*, afin d'évaluer la probabilité qu'un changement survienne. On parle aussi d'indicateur *proxy*.
+
+> Exemple : pour l'année 3, 75 % des membres de la communauté doivent faire moins de 200 m pour accéder à une source d'eau améliorée.
+
+- *Avantages* : les recherches indiquent qu'une réduction de 15 minutes du temps de marche pour un trajet vers une source d'eau protégée entraînerait une augmentation du volume d'eau utilisé, une diminution relative de 41 % de la prévalence de diarrhée et une réduction de 11 % de la mortalité chez les enfants de moins de cinq ans. La collecte est plus facile et moins onéreuse que l'observation directe des pratiques des ménages.
+- *Inconvénients* : ne peut pas révéler la fréquence, la régularité ou la qualité du lavage des mains des individus.
+
+::: {.callout-important}
+## Le point de vigilance sur les indicateurs indirects
+Un indicateur indirect n'est valide que si le lien entre la mesure et le phénomène visé est **établi par la recherche**, pas simplement plausible. La distance au point d'eau fonctionne comme proxy parce que la littérature documente la relation entre temps de marche, volume d'eau consommé et prévalence de la diarrhée. Sans cet adossement, l'indicateur indirect n'est qu'une hypothèse déguisée en mesure.
+:::
+
+#### Indicateurs quantitatifs et qualitatifs
+
+**Indicateurs quantitatifs.** Ils collectent des données qui peuvent être comptées et analysées statistiquement : nombres, pourcentages, taux (par exemple le taux de naissances), ratios (par exemple le ratio hommes/femmes).
+
+> Exemple : pour l'année 3, 85 % des ménages de personnes déplacées internes sont situés à un maximum de 500 mètres d'un point d'eau.
+
+- *Avantages* : moins subjectifs ; pratiques pour déterminer s'il y a des changements.
+- *Inconvénients* : peu appropriés pour mesurer des opinions, des jugements, des perceptions ou des croyances complexes.
+
+**Indicateurs qualitatifs.** Ils mesurent les jugements, les opinions, les perceptions et les attitudes envers une situation ou un sujet donné, à partir de paroles et d'histoires (parlées ou écrites) et d'images.
+
+> Exemple : 75 % des femmes déplacées internes expriment un sentiment de sécurité lorsqu'elles vont chercher de l'eau dans des points d'eau améliorés.
+
+- *Avantages* : apportent des informations nuancées ; utiles pour déterminer les raisons pour lesquelles des changements se produisent ou non.
+- *Inconvénients* : les paroles, histoires et images doivent être codées et classées avec des numéros ; le codage et le classement sont subjectifs et requièrent des définitions strictes des termes et des significations.
+
+#### Tous les indicateurs doivent être SMART
+
+| Lettre | Critère | Ce qu'il exige |
+|---|---|---|
+| **S** | Spécifique | Très étroitement lié aux domaines d'amélioration souhaités exprimés dans les énoncés d'objectifs. |
+| **M** | Mesurable | Rédigé de manière à favoriser une évaluation précise des progrès réalisés. |
+| **A** | Atteignable | Réalisable compte tenu du budget, du temps et des ressources disponibles. |
+| **R** | En rapport | Mesure précisément le changement que le projet souhaite suivre. |
+| **T** | Temps | Identifie la période au cours de laquelle le changement est censé se produire. |
+
+Un indicateur *spécifique* doit préciser quatre choses :
+
+- **Quantité** : les représentations numériques attendues pour ce qui doit être réalisé.
+- **Qualité** : les réalisations attendues, décrites à l'aide de mots ou de graphiques.
+- **Localisation** : la limite géographique des réalisations attendues.
+- **Population cible** : la ou les personnes censées faire ou connaître le changement prévu.
+
+::: {.callout-note}
+## Décomposition d'un indicateur SMART du projet Delta River
+Indicateur retenu : « Tous les trimestres, 100 % des points d'eau gérés par les comités communautaires de gestion de l'eau respectent les normes de qualité de l'eau de l'Organisation mondiale de la santé (OMS). »
+
+- **S** : suivi de la qualité de l'eau de 100 % des points d'eau gérés par les comités de gestion de l'eau.
+- **M** : collecte de données sur la qualité de l'eau par les comités, et comparaison avec les normes établies par l'OMS.
+- **A** : les normes de qualité de l'eau de l'OMS sont généralement un objectif indicateur accepté et réaliste.
+- **R** : la qualité de l'eau est une mesure importante et pertinente du progrès accompli dans la mise en place et l'entretien des points d'eau.
+- **T** : le suivi est réalisé tous les trimestres.
+:::
+
+### Section 3 : la collecte des données
+
+Cette section du plan de suivi spécifie les mesures qui serviront à suivre les indicateurs. Elles peuvent être quantitatives ou qualitatives.
+
+| | Mesures quantitatives | Mesures qualitatives |
+|---|---|---|
+| **Exemples** | Registres de suivi, questionnaires, tableaux d'observation structurée, tests de connaissances et de niveau, mesures de l'état de santé physiologique. | Entretiens semi-structurés, groupes de discussion, observation des participants. |
+| **Forces** | *Évolutives* : traitent les résultats d'un plus grand nombre de sujets. *Généralisables* : identifient des tendances dans la population générale si l'échantillon est de taille adéquate. *Objectives* : moins de biais personnel dans la collecte et l'analyse. *Standardisées* : approches standard dont les résultats sont comparables à d'autres données. | Explorent des sujets complexes et nuancés. Encouragent des réponses détaillées et complètes. Permettent de comprendre les actions, les pensées et les sentiments des personnes. Créent de nouveaux domaines de recherche. Offrent la flexibilité d'identifier et d'explorer des sujets imprévus. |
+| **Faiblesses** | Les résultats ne saisissent pas toujours la complexité d'une question. Pas adaptées pour identifier et explorer des facteurs imprévus ou inattendus. | *Limitées* : résultats plus difficiles à généraliser à une population plus importante. *Difficiles* : données relativement difficiles à collecter et à analyser. *Biaisées* : susceptibles d'être entachées de préjugés cachés de la part des collecteurs et des participants. |
+
+#### L'approche de méthodes mixtes et la triangulation
+
+Le MEAL doit utiliser les deux types de mesures. C'est ce qu'on appelle l'approche de méthodes mixtes. Elle renforce la compréhension du projet et fournit des données intégrées plus complètes pour suivre la progression, analyser les résultats et décider.
+
+Une approche de méthodes mixtes intègre un processus appelé **triangulation** : croiser des sources et des méthodes différentes pour renforcer la fiabilité des résultats.
+
+Appliqué au nouveau résultat sur le lavage des mains :
+
+| | Questionnaire (quantitatif) | Groupe de discussion (qualitatif) |
+|---|---|---|
+| **Ce que la méthode révèle** | Le comportement en matière de lavage des mains a-t-il augmenté après les évènements critiques ? La connaissance en matière de lavage des mains a-t-elle augmenté ? | Quelles activités du projet ont été efficaces pour changer le comportement ? Existe-t-il des facteurs qui empêchent les personnes d'adopter ce comportement ? L'amélioration du comportement entraîne-t-elle un changement utile ? |
+
+Le quantitatif dit *si* le changement a lieu et dans quelle proportion. Le qualitatif dit *pourquoi* il a lieu, ou pourquoi il n'a pas lieu. Les deux ensemble permettent d'agir.
+
+#### Données primaires et secondaires
+
+- **Données primaires** : informations collectées directement par l'équipe du projet et les parties prenantes.
+- **Données secondaires** : informations disponibles à travers plusieurs sources, publiées ou non.
+
+Les données secondaires présentent les avantages d'être économiques et de réduire le risque de faire deux fois le même travail. Leurs inconvénients : les sources peuvent être limitées, et il est difficile de trouver des données qui répondent directement aux besoins précis du projet.
+
+> Exemple Delta River : le projet utilisera les dossiers d'un hôpital municipal et de cliniques de santé pour vérifier si l'incidence des maladies d'origine hydrique auprès des personnes déplacées internes sera réduite dans trois ans.
+
+#### Les autres composantes à définir
+
+Une fois les méthodes de mesure sélectionnées, il reste à préciser :
+
+- **Calendrier et fréquence** : quand et à quelle fréquence s'effectue la collecte des données.
+- **Responsabilité** : les personnes responsables de la collecte.
+- **Répondants** : les personnes qui peuvent fournir les données les plus fiables pour chaque indicateur, et la décision de collecter ou non les données dans différents sous-groupes du projet.
+
+### Section 4 : l'analyse des données
+
+Cette section spécifie la manière dont les données seront analysées pour chaque indicateur. Deux décisions sont à prendre.
+
+**Quantitative ou qualitative.**
+
+- Les données quantitatives sont analysées statistiquement, en calculant des nombres cumulés, des moyennes, des pourcentages, etc.
+- Les données qualitatives sont analysées en examinant les notes des groupes de discussion et des entretiens pour en dégager des thèmes. C'est l'analyse de contenu.
+
+**Désagrégée ou non.** Si des sous-groupes ont été définis, les données de chacun d'entre eux doivent être examinées selon les caractéristiques pertinentes pour le projet : âge, genre, religion, etc. La désagrégation améliore l'utilité des données en permettant des comparaisons plus significatives.
+
+::: {.callout-tip}
+## Pour aller plus loin : la désagrégation n'est pas un raffinement technique
+Un taux moyen d'accès à l'eau de 75 % peut masquer 95 % chez les ménages hôtes et 40 % chez les ménages déplacés. La moyenne dit alors le contraire de la réalité qui compte. La désagrégation est le mécanisme concret par lequel le principe de **représentation**, vu au cours 1, cesse d'être une déclaration d'intention. C'est aussi ce que les bailleurs vérifient en premier sur un rapport.
+:::
+
+### Section 5 : l'utilisation des données
+
+La section finale du plan de suivi aborde la manière dont les données seront utilisées. Les exemples incluent :
+
+- éclairer les décisions et les communications, et alimenter les rapports ;
+- promouvoir la redevabilité envers la communauté ;
+- mettre en œuvre des changements ;
+- encourager l'apprentissage, à l'échelle de l'organisation et du secteur.
+
+## Voix de l'expérience : Leslie Sherriff
+
+Leslie Sherriff est consultante indépendante, cheffe de projet et formatrice dans le secteur de l'aide et du développement. Elle conçoit et anime des cours sur le MEAL, notamment pour Humentum et Pyramid Learning.
+
+Elle raconte une intervention après un tremblement de terre au Pakistan. Dans les premières semaines, l'organisation a fourni des denrées alimentaires de première nécessité et des matériaux de construction pour aider les familles à reconstruire ou à bâtir des abris temporaires. Le séisme avait frappé en octobre, dans des zones montagneuses : l'hiver arrivait vite, et la reconstruction des abris était donc critique.
+
+Le système MEAL reposait sur un suivi quotidien, avec des listes de contrôle de livraison standard et des mécanismes de feedback des participants. À la livraison des fournitures, les familles assistaient à une courte démonstration sur la conception des abris et étaient encouragées à poser des questions. Un membre du personnel restait ensuite un jour ou deux avec la communauté pour superviser la construction et recueillir des retours. Deux fois par semaine, l'équipe menait de courtes sessions de revue après action pour identifier ce qui fonctionnait et ce qui devait être amélioré.
+
+Le dispositif a produit un résultat concret : l'équipe a rapidement compris que les matériaux fournis devaient changer, et un meilleur type de matériau pour le toit a été trouvé et distribué sur la base des retours.
+
+Leslie cite un collègue qui appelle cette pratique le « suivi d'évaluation » : utiliser le processus de suivi pour évaluer ce que l'on est en train de faire et apprendre activement, plutôt que d'attendre une évaluation formelle en fin de projet.
+
+## Les évaluations
+
+Les évaluations sont utiles, mais elles sont aussi complexes, chronophages et coûteuses. Les informations nécessaires (l'objectif) déterminent quel type utiliser et quand l'administrer (le calendrier).
+
+### Les trois types d'évaluation
+
+| Type | Objectif | Calendrier | Exemple de question |
+|---|---|---|---|
+| **Évaluation du processus** | Évalue la mise en œuvre du projet. | À mi-parcours et/ou à la fin du projet. | Comment les facteurs externes ont-ils influencé la mise en œuvre du programme ? |
+| **Évaluation d'impact ou d'effet** | Évalue dans quelle mesure un projet atteint ses objectifs. | Fin du projet. | Dans quelle mesure les résultats ont-ils été utiles aux prestataires de services, aux membres de la communauté et aux organisations impliquées ? |
+| **Évaluation ex-post** | Examine une stratégie, une activité ou une intervention. | Parfois après la fin du projet, par exemple 1 à 5 ans plus tard. | De quelle manière l'intervention des parties prenantes continue-t-elle de produire ou de changer les résultats après la fin d'une intervention ? |
+
+### Le tableau récapitulatif des évaluations
+
+Après avoir déterminé le ou les types d'évaluation, on complète un tableau récapitulatif des évaluations. Il fournit un plan détaillé pour la mise en œuvre et doit être rempli **au début du projet**.
+
+Ses colonnes : Objectif (processus, impact, récapitulatif, etc.) · Questions prioritaires de l'évaluation · Moment (mi-parcours, final) · Calendrier prévu (début et fin) · Budget.
+
+Exemple de ligne complétée : Impact | « L'intervention a-t-elle produit les résultats prévus à court, moyen et long terme ? » | Final | du 30 mai au 30 juin | 23 000 $.
+
+### Les six critères d'évaluation
+
+Les questions d'évaluation définissent les critères, c'est-à-dire ce que l'on souhaite savoir.
+
+| Critère | La question qu'il pose | Exemples de questions |
+|---|---|---|
+| **Pertinence** | L'intervention fait-elle ce qu'il faut ? | L'évaluation initiale des besoins a-t-elle identifié les besoins prioritaires de la communauté ? A-t-elle distingué les besoins des hommes et des femmes, des ménages les plus et les moins vulnérables ? La participation de la communauté a-t-elle été suffisante tout au long du cycle ? |
+| **Efficience** | L'intervention atteint-elle ses objectifs ? | Le projet a-t-il atteint les livrables prévus dans les délais ? Le système de suivi et d'évaluation a-t-il fourni les bonnes informations au bon moment ? Le partenariat a-t-il augmenté l'efficacité et la qualité du projet ? |
+| **Efficacité** | Les ressources sont-elles bien utilisées ? | Les structures du personnel et de la gestion sont-elles efficaces ? Le personnel avait-il des capacités suffisantes ? Quel a été le coût par participant, et est-il raisonnable au regard de l'impact ? |
+| **Impact** | Quelles sont les différences apportées par l'intervention ? | Le projet a-t-il atteint l'impact prévu ? L'impact était-il différent selon les zones, ménages ou individus ciblés ? Y a-t-il eu des impacts positifs ou négatifs inattendus ? |
+| **Durabilité** | Les avantages perdureront-ils ? | Quelle est la probabilité que la communauté puisse maintenir l'impact du projet, et comment le sait-on ? Qu'a fait le projet pour soutenir les structures communautaires, et est-ce suffisant ? |
+| **Cohérence** | À quel point l'intervention est-elle adaptée ? | L'intervention est-elle compatible avec d'autres interventions de l'organisation ? Est-elle alignée et liée aux interventions d'autres organisations aux niveaux local, régional, national et sectoriel ? |
+
+::: {.callout-warning}
+## Attention : une inversion dans la version française du cours
+Ces six critères sont ceux du Comité d'aide au développement de l'OCDE (OCDE/CAD), la référence du secteur. Mais la version française du cours **intervertit les définitions d'efficience et d'efficacité**. Le standard OCDE/CAD est l'inverse :
+
+- **Efficacité** (*effectiveness*) : la mesure dans laquelle l'intervention **atteint ses objectifs**.
+- **Efficience** (*efficiency*) : la mesure dans laquelle l'intervention produit ses résultats de façon **économique et dans les temps**, autrement dit si les ressources sont bien utilisées.
+
+Le tableau ci-dessus reproduit fidèlement le cours pour la révision de l'examen. En entretien ou dans un rapport, employez la définition OCDE/CAD.
+:::
+
+## Le MEAL en pratique : le cas du lavage des mains
+
+Cette section applique tout ce qui précède. Le bailleur, satisfait du travail sur l'accès à l'eau et aux latrines, demande l'ajout d'un troisième résultat au projet : l'amélioration des pratiques de lavage des mains au sein de six communautés.
+
+La justification est documentée : le lavage des mains réduit les risques de diarrhée et les infections respiratoires aiguës auprès de la moitié des enfants de moins de cinq ans, et la mortalité néonatale est plus faible chez les enfants dont les mères déclarent se laver les mains.
+
+La cascade d'objectifs retenue :
+
+- **Résultat** : amélioration des pratiques de lavage des mains dans 6 communautés.
+- **Livrable** : augmentation des connaissances sur les pratiques clés de lavage des mains dans 6 communautés.
+- **Activité** : événements de formation trimestriels organisés dans 6 communautés.
+
+L'exercice place l'apprenant dans le rôle de Jonathan, qui doit prendre les décisions clés du plan de suivi : proposer un indicateur indirect pour le résultat, un indicateur direct pour le livrable, qualifier cet indicateur (« 90 % des participants formés peuvent identifier les moments critiques de lavage des mains » est un indicateur quantitatif), puis choisir les méthodes de collecte adaptées à chacun.
+
+### Le plan de suivi complet du volet lavage des mains
+
+Voici le plan tel qu'il est fourni dans les ressources du cours. C'est le meilleur objet de révision de tout le module : il montre les cinq sections remplies bout à bout, sur une même logique verticale.
+
+::: {style="overflow-x: auto;"}
+
+| Niveau | Indicateur | Méthode | Fréquence | Qui collecte | Répondants | Analyse | Sous-groupes | Usage |
+|---|---|---|---|---|---|---|---|---|
+| **Résultat** : amélioration du lavage des mains | À EOY3, 80 % de la CDR se lavent les mains lors de moments critiques | Questionnaire | Annuel | Agence partenaire | Adultes / Jeunes | Quantitative (moyenne) | Adultes / Jeunes | Rapports au bailleur |
+| | À EOY3, 80 % de la CDR utilisent du savon et de l'eau pour se laver les mains | Observation directe | Annuel | Équipe MEAL | Ménages | Quantitative (moyenne) | Adultes / Jeunes | Rapports au bailleur |
+| | À EOY3, savon et eau sont dans 80 % des foyers de la CDR | Visite / liste | Semestriel | Équipe MEAL | Ménages | Quantitative (moyenne) | Familles PDI | Rapports au bailleur |
+| | À EOY3, 70 % des chefs de famille ont un niveau de confiance élevé dans la réduction des maladies par le lavage des mains | Groupe de discussion | Annuel | Équipe MEAL | Chefs de famille | Qualitative (codée par niveau de confiance) | Aucun | Réunions annuelles de planification, réunions annuelles avec les bailleurs |
+| **Livrable** : amélioration du lavage des mains dans six CDR | 90 % des participants formés connaissent les bénéfices du lavage des mains avec du savon | Évaluation post-formation | Trimestriel | Formateurs | Participants à la formation | Quantitative | PDI | Rapports au bailleur, rapports de formation |
+| | 90 % des personnes formées identifient les moments critiques de lavage des mains | Évaluation post-formation | Trimestriel | Formateurs | Participants à la formation | Quantitative | PDI | Rapports au bailleur, rapports de formation |
+| | À la fin de la formation, 80 % des participants expliquent et démontrent de bonnes pratiques de lavage des mains | Entretiens | Trimestriel | Équipe projet | Participants à la formation | Qualitative (codée par la pratique) | Aucun | Rapports au bailleur, rapports de formation |
+| **Activité** : formations dans six CDR | 300 membres de la CDR assistent tous les trimestres à des formations dans six communautés sur trois ans | Feuille de présence à la formation | Trimestriel | Équipe projet | Formateurs | Quantitative | Aucun | Réunions communautaires, rapports de formation |
+
+:::
+
+Trois choses à remarquer dans ce plan, au-delà de son contenu :
+
+1. **Chaque niveau est mesuré par plusieurs indicateurs**, et non par un seul. Le résultat en compte quatre, dont trois quantitatifs et un qualitatif. C'est l'approche de méthodes mixtes en pratique.
+2. **La fréquence suit le niveau.** Les activités et livrables se mesurent au trimestre, les résultats à l'année. Plus on monte dans la logique verticale, plus le changement est lent, et moins il est utile de mesurer souvent.
+3. **Qui collecte n'est jamais neutre.** Sur l'indicateur déclaratif le plus sensible aux biais (« se laver les mains lors de moments critiques »), la collecte est confiée à une agence partenaire et non à l'équipe du projet. C'est le réflexe anti-biais de confirmation du cours 1, inscrit dans le plan.
+
+::: {.callout-note collapse="true"}
+## Note sur le document source
+Le PDF officiel du cours contient plusieurs cellules restées en espagnol (*Reuniones Anuales de Planificación*, *Informes del Donante*, *Informes de Capacitación*, *Asistencia a la Capacitación*), vestiges d'une traduction incomplète. Elles sont rendues ici en français.
+:::
+
+## Récapitulatif
+
+Les sept points à retenir du cours :
+
+1. La planification du MEAL comporte cinq sections : énoncés d'objectifs, indicateurs, collecte des données, analyse des données et utilisation des données.
+2. Le cadre logique d'un projet peut éclairer la planification du MEAL.
+3. Les indicateurs sont des mesures pour le suivi de la progression, la mise en avant des changements et l'évaluation des performances. Il en existe quatre types : direct, indirect, quantitatif, qualitatif.
+4. La collecte des données implique de rassembler des informations pour suivre les indicateurs. Il faut utiliser à la fois les mesures quantitatives et qualitatives, ainsi que les sources primaires et secondaires.
+5. L'analyse des données peut nécessiter la désagrégation des données par sous-groupes.
+6. Il est important de déterminer l'utilisation des données, par exemple pour favoriser la redevabilité envers la communauté.
+7. Une évaluation est utile et complexe. Au début du projet, il faut déterminer les informations et le type d'évaluation requis, et quand l'administrer.
+
+## Glossaire express
+
+**Plan de suivi.** Outil principal de planification du MEAL, plus détaillé que le cadre logique, qui précise pour chaque indicateur comment les données sont collectées, analysées et utilisées.
+
+**Cadre logique (*logframe*).** Tableau qui articule but, résultats, livrables et activités avec leurs indicateurs, moyens de vérification et hypothèses.
+
+**Logique verticale.** Chaîne de conditions reliant les niveaux d'objectifs : intrants, activités, livrables, résultats, but.
+
+**Intrant.** Ressource investie dans le projet : financière, humaine, technique, matérielle, temporelle.
+
+**Indicateur indirect (*proxy*).** Mesure de substitution, adossée à la recherche, utilisée quand la mesure directe est impraticable ou trop coûteuse.
+
+**Méthodes mixtes.** Combinaison de mesures quantitatives et qualitatives sur un même objet.
+
+**Triangulation.** Croisement de plusieurs sources ou méthodes pour renforcer la fiabilité d'un résultat.
+
+**Désagrégation.** Ventilation des données par sous-groupes (âge, genre, statut de déplacement, etc.).
+
+**Données primaires / secondaires.** Collectées par l'équipe / déjà disponibles ailleurs.
+
+**Revue après action.** Session courte et régulière d'analyse collective de ce qui a fonctionné et de ce qui doit changer.
+
+## Pour aller plus loin
+
+- **Guide MEAL DPro** (PM4NGOs). Le référentiel dont s'inspire le certificat, qui détaille le plan de suivi et le cadre logique.
+- **Les critères d'évaluation de l'OCDE/CAD.** La définition de référence des six critères (pertinence, cohérence, efficacité, efficience, impact, durabilité), à connaître dans leur formulation d'origine compte tenu de l'inversion signalée plus haut.
+- **Le Manuel Sphère**, chapitre WASH (approvisionnement en eau, assainissement, promotion de l'hygiène). Il fournit les standards et indicateurs de référence qui cadrent un projet du type Delta River, notamment sur les distances aux points d'eau et la promotion de l'hygiène.
+- **Les recommandations de l'OMS sur la qualité de l'eau de boisson.** La norme externe utilisée comme cible dans l'indicateur SMART du cas.
+
+*Prochaine étape du certificat : la collecte des données MEAL (méthodes, échantillonnage, qualité de la donnée, éthique, outils de collecte mobile).*

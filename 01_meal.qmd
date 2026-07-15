@@ -34,9 +34,11 @@ Ce que recouvre l'acronyme : Suivi (Monitoring), Évaluation (Evaluation), Redev
 
 ### 2. La planification du MEAL
 
-Construire un système MEAL dès la conception du projet : théorie du changement, cadre logique, choix des indicateurs, plan de suivi-évaluation. Le lien entre les objectifs du projet et ce qu'on décide de mesurer.
+Construire un système MEAL dès la conception du projet : cadre logique, choix des indicateurs, plan de suivi. Le lien entre les objectifs du projet et ce qu'on décide de mesurer.
 
-*Ce que j'en retiens : [à compléter]*
+📄 **Fiche de révision détaillée : [Cours 2 — La planification du MEAL](01_meal_c2_planification.qmd).** Le plan de suivi et ses cinq sections, énoncés d'objectifs et logique verticale, cadre logique, les quatre types d'indicateurs, SMART, méthodes mixtes et triangulation, les trois types d'évaluation et les six critères, le plan de suivi complet du cas lavage des mains.
+
+*Ce que j'en retiens : le cœur du certificat, et le cours où l'écart entre mes réflexes et ceux du secteur apparaît le mieux. Je sais construire un indicateur et traiter la donnée ; ce que j'apprends ici, c'est de faire précéder la mesure par la chaîne logique qui la justifie, et d'inscrire dans le plan lui-même qui collecte, à quelle fréquence et pour quelle décision. La règle des sous-groupes rejoint directement mes pratiques de désagrégation sous R.*
 
 ### 3. Collecter les données MEAL
 
