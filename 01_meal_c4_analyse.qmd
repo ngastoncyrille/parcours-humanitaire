@@ -1,0 +1,184 @@
+---
+title: "Cours 4 — Analyser les données MEAL"
+subtitle: "Fiche de révision détaillée"
+tags: ["humanitaire", "meal", "analyse", "statistiques", "fiche"]
+---
+
+::: {.callout-note}
+## À propos de cette fiche
+Fiche de révision autonome du quatrième cours du certificat *Bases du MEAL* (DisasterReady.org), consacré à la troisième phase : analyser les données. Elle reprend et reformule l'intégralité du cours, de façon à être comprise sans avoir suivi la formation. Le contenu est synthétisé à partir des supports du cours et aligné sur le Guide MEAL DPro. Les exemples et les personnages (UNITAS, Sydney, Jonathan, Tendai Zauyamakando, vallée Delta River) proviennent du cas fil rouge de la formation.
+
+Cours précédent : [Collecter les données MEAL](01_meal_c3_collecte.qmd) · Retour à la synthèse : [Bases du MEAL](01_meal.qmd).
+:::
+
+## Ce que couvre ce cours
+
+Les cours précédents ont planifié la mesure, puis collecté les données. Ce cours traite ce qu'on en fait ensuite : les analyser. L'analyse des données consiste à utiliser des méthodes systématiques pour identifier des tendances, des groupes ou d'autres relations statistiques entre différents types de données. On analyse au cours du projet et à la fin, aux moments définis dans le plan de suivi.
+
+Le point de départ, c'est que les données collectées sont **brutes** : elles n'ont pas été traitées, codées ni formatées pour livrer une information utile. L'analyse est le processus qui les ordonne et les structure pour pouvoir les exploiter.
+
+Le procédé n'est pas le même selon le type de données. Le cours traite donc successivement l'analyse quantitative et l'analyse qualitative, avant une application au cas Delta River.
+
+## L'analyse des données quantitatives
+
+Pour illustrer, l'équipe a mené une enquête de six questions auprès de 60 personnes déplacées internes, sur l'accès à l'eau et les maladies diarrhéiques. Les données brutes se présentent en tableau (une ligne par répondant, une colonne par question) : quelques tendances s'y devinent, mais aucune conclusion précise ne peut en être tirée tant qu'elles ne sont pas analysées.
+
+Il existe deux niveaux d'analyse quantitative : descriptive et inférentielle.
+
+### L'analyse descriptive
+
+L'analyse descriptive décrit, présente ou résume les données pour faire émerger des modèles. Elle repose sur trois familles de calculs.
+
+#### Les mesures de fréquence
+
+Elles indiquent combien de fois une chose se produit, ou combien de réponses entrent dans une catégorie donnée. Deux outils les présentent.
+
+- **Le tableau de fréquence** : un résumé simple, centré sur une catégorie de réponse unique. Par exemple, pour la question « J'ai accès à l'eau pour répondre aux besoins de mon ménage », le décompte des réponses : pas du tout d'accord (6), pas d'accord (10), ni l'un ni l'autre (7), d'accord (25), tout à fait d'accord (12), soit 60 au total.
+- **Le tableau croisé** : il ajoute une ventilation par sous-ensembles. Le même décompte, mais réparti entre grands ménages (5 personnes ou plus) et petits ménages (1 à 4 personnes). On voit alors, par exemple, que les « d'accord » se concentrent dans les petits ménages (18 sur 25).
+
+Le tableau croisé est l'outil de la désagrégation vue au [cours 2](01_meal_c2_planification.qmd) : il fait apparaître des écarts qu'un total masquerait.
+
+#### Les mesures de tendance centrale
+
+Elles calculent la valeur centrale d'une série. Chacune raconte une histoire différente.
+
+| Mesure | Définition | Calcul |
+|---|---|---|
+| **Moyenne** | Le total de la série divisé par le nombre de réponses. | Additionner toutes les réponses, diviser par leur nombre. |
+| **Médiane** | Le point central de la série, une fois les valeurs ordonnées. | Ranger par ordre croissant et localiser la valeur du milieu. Si le nombre de valeurs est pair, il n'y a pas de vraie médiane : on prend la moyenne des deux valeurs centrales. |
+| **Mode** | La valeur la plus fréquente. | Lister toutes les réponses et compter chacune. |
+
+Exemple des distances parcourues jusqu'au point d'eau, pour dix répondants du village 1 : 100, 100, 300, 300, 300, 400, 600, 700, 800, 2000 (mètres).
+
+- **Moyenne** : 5 600 ÷ 10 = **560 m**.
+- **Médiane** : moyenne des deux valeurs centrales, (300 + 400) ÷ 2 = **350 m**.
+- **Mode** : la valeur la plus fréquente, **300 m** (trois occurrences).
+
+::: {.callout-important}
+## Le point clé du cours : l'écart moyenne / médiane révèle les valeurs aberrantes
+La moyenne (560 m) est nettement plus élevée que la médiane (350 m). Un écart important entre les deux est souvent le signe que des **valeurs aberrantes** faussent la série : des valeurs exceptionnellement grandes ou petites, très éloignées des autres. Ici, le 2000 m tire la moyenne vers le haut.
+
+La médiane, elle, n'est pas sensible à ces valeurs extrêmes. C'est pourquoi elle sert à vérifier si la moyenne donne une image juste. Le cours recommande, dans ces cas, d'indiquer la moyenne **et** la médiane ensemble pour donner un énoncé plus honnête de la tendance centrale.
+:::
+
+#### Les mesures de variabilité
+
+La variabilité indique l'écart ou les variations dans une série. Elle est indispensable, car deux séries peuvent avoir la même moyenne tout en étant très différentes.
+
+L'exemple du cours est éclairant. Les villages 1 et 2 ont la même distance moyenne au point d'eau, 560 m. Mais :
+
+- village 1 : valeurs de 100 à 2000 m, très dispersées ;
+- village 2 : valeurs de 520 à 610 m, resserrées autour de la moyenne.
+
+Conclure « les deux villages sont identiques » à partir de la seule moyenne serait faux. Au village 2, il est raisonnable de dire qu'un habitant parcourt vraiment près de 560 m. Au village 1, non. Deux calculs mesurent cette dispersion.
+
+| Mesure | Définition | Exemple |
+|---|---|---|
+| **Étendue** | La différence entre la valeur la plus élevée et la plus faible. | Village 1 : 2000 − 100 = **1900**. Village 2 : 610 − 520 = **90**. |
+| **Écart-type** | L'écart moyen des valeurs par rapport à la moyenne. Mesure plus précise de la variabilité. | Écart-type élevé : les valeurs sont très différentes de la moyenne. Faible : elles en sont proches. Nul : elles sont toutes égales à la moyenne. |
+
+L'écart-type nécessite des connaissances statistiques pour être calculé à la main, mais la plupart des tableurs et bases de données disposent d'une fonction dédiée. En cas de doute, le cours renvoie à un statisticien.
+
+### L'analyse inférentielle
+
+L'analyse descriptive suffit généralement aux besoins de l'équipe. Quand il faut aller plus loin, on recourt à l'analyse inférentielle : elle utilise les données d'un échantillon pour faire des **généralisations statistiques** sur une population plus large. Elle répond à trois familles de questions.
+
+| Question | Ce qu'elle cherche | Exemple Delta River |
+|---|---|---|
+| **Différences** | Existe-t-il des différences significatives entre des groupes ? | La distance moyenne à l'eau en fin de projet est-elle significativement différente de celle du début ? Diffère-t-elle entre les villages 1 et 2 ? |
+| **Corrélation** | Quelles sont la taille et la direction de la relation entre deux variables ? | Y a-t-il une relation entre les messages sur le lavage des mains et l'amélioration des pratiques ? |
+| **Causalité** | Un changement d'une variable résulte-t-il d'un changement d'une autre ? | La réduction des maladies d'origine hydrique résulte-t-elle de meilleures pratiques de lavage des mains ? |
+
+Cette analyse demande des connaissances statistiques approfondies, elle dépasse le cadre du cours, et peut nécessiter un statisticien et des fonds supplémentaires.
+
+::: {.callout-warning}
+## Corrélation n'est pas causalité
+La corrélation est une mesure statistique, généralement un nombre, qui décrit la taille et la direction de la relation entre deux variables ou plus. Elle ne prouve **pas** qu'une variable en provoque une autre : elle atteste seulement d'une influence forte ou faible. UNITAS peut espérer une corrélation entre l'accès à l'eau potable et la baisse des maladies d'origine hydrique, mais une corrélation ne suffit pas à établir que l'un cause l'autre. Seule une conception expérimentale rigoureuse peut fournir des preuves de causalité. Confondre les deux conduit à s'attribuer des résultats qui viennent peut-être d'ailleurs.
+:::
+
+## L'analyse des données qualitatives
+
+Le type d'analyse qualitative le plus courant est l'**analyse de contenu**. Elle porte sur les données recueillies en entretiens et en groupes de discussion.
+
+En amont, une fois les discussions terminées, les équipes d'animation relisent et finalisent les transcriptions pour qu'elles soient claires, complètes et sans erreur. L'analyse peut alors commencer. Elle suit un processus en trois étapes :
+
+1. **Coder les données** : attribuer des étiquettes aux segments de texte selon leur sens.
+2. **Indexer les données** : regrouper et organiser ces codes.
+3. **Structurer les données dans un cadre** : ordonner les données codées et indexées pour faire ressortir les thèmes et permettre l'interprétation.
+
+::: {.callout-tip}
+## Pour aller plus loin : coder, c'est transformer du texte en éléments comparables
+Le codage qualitatif est l'équivalent, pour du texte, de ce que le tableau de fréquence fait pour des nombres : il rend des matériaux hétérogènes comparables et repérables. C'est aussi l'étape la plus exposée à la subjectivité, ce qui explique l'exigence, vue au cours 3, de définitions strictes et d'animateurs formés. Faire coder un même corpus par deux personnes et comparer les résultats est une pratique courante pour fiabiliser l'analyse.
+:::
+
+## Voix de l'expérience : Tendai Zauyamakando
+
+Tendai Zauyamakando est spécialiste MEAL, avec quinze ans d'expérience dans la conception et la mise en œuvre de systèmes de suivi pour des programmes humanitaires en Afrique, au Moyen-Orient, en Asie du Sud-Est et en Europe.
+
+Son approche repose sur un **plan d'analyse des données** qui définit quatre choses : l'objectif de l'analyse, les méthodes, les responsabilités et le calendrier. La manière d'analyser dépend largement des objectifs du projet et des informations attendues par le public visé.
+
+Il distingue deux rythmes :
+
+- l'analyse des **indicateurs de livrable** sert au suivi courant, elle est fréquente et repère les écarts par rapport aux objectifs ;
+- l'analyse des **indicateurs de résultat** est moins fréquente, elle vise les effets à moyen et long terme, les changements de connaissances, d'attitudes et de pratiques.
+
+Il précise qui analyse quoi : les données de suivi relèvent du personnel et des bénévoles de terrain, avec un appui technique ; les évaluations indépendantes sont menées par des consultants externes avec la participation active du personnel du projet et du MEAL. Dans tous les cas, il recommande d'impliquer **plusieurs parties prenantes** dans l'analyse, pour assurer la solidité et la crédibilité des résultats. Il utilise les analyses descriptives pour résumer et poser le contexte, et les analyses inférentielles pour généraliser d'un échantillon à la population cible.
+
+## Le MEAL en pratique : lire les données de suivi de l'année 1
+
+La dernière section applique l'analyse au cas Delta River. L'équipe atteint la fin de la première année et doit analyser plusieurs indicateurs, dont : « à la fin de l'année 3, réduction de 30 % de l'incidence des maladies d'origine hydrique chez les personnes déplacées ».
+
+L'exercice se déroule comme une enquête, et il vaut surtout par sa leçon de méthode.
+
+1. **Le total ne montre rien.** Les données agrégées de trois cliniques, comparant les cas avant le projet et après l'année 1, ne laissent apparaître aucun progrès sur l'indicateur.
+2. **La désagrégation par genre ouvre une piste.** En ventilant par genre, on voit que les maladies diminuent chez les femmes mais pas chez les hommes. Le total masquait donc deux réalités opposées.
+3. **Une donnée complémentaire éclaire l'écart.** Un tableau croisé sur le lavage des mains montre qu'un nombre plus faible d'hommes déclarent se laver les mains souvent ou toujours aux moments critiques, comparé aux femmes. Voilà pourquoi les maladies ne baissent pas chez eux.
+4. **Un paradoxe surgit, puis les valeurs aberrantes l'expliquent.** Sur un échantillon de 40 répondants (20 hommes, 20 femmes) interrogés sur la fréquence quotidienne de lavage des mains, la fréquence moyenne des hommes ressort étonnamment plus élevée que celle des femmes, alors que ce sont les femmes qui ont vu leurs maladies baisser. L'étendue par genre révèle que trois hommes déclarent des fréquences anormalement élevées. Ces valeurs aberrantes gonflent la moyenne masculine. L'équipe découvre que ces trois répondants ont des emplois qui les obligent à se laver les mains très souvent.
+
+::: {.callout-note}
+## La boucle de tout le cours en un exemple
+Cet exercice enchaîne, dans l'ordre, presque tout ce que le certificat a construit : un indicateur (cours 2), des données désagrégées (cours 2), un tableau croisé (mesure de fréquence), une moyenne trompeuse corrigée par l'étendue (tendance centrale et variabilité), des valeurs aberrantes, et une explication qualitative de terrain. La donnée ne parle pas d'elle-même : c'est le croisement des angles qui produit la compréhension, et donc la bonne décision.
+:::
+
+## Récapitulatif
+
+Les cinq points à retenir du cours :
+
+1. L'analyse des données quantitatives peut être descriptive ou inférentielle.
+2. L'analyse descriptive identifie les tendances et les relations à l'aide de trois calculs : les mesures de fréquence, les mesures de tendance centrale et les mesures de variabilité.
+3. L'analyse inférentielle apporte des informations approfondies en recherchant des corrélations entre variables. Elle requiert des statisticiens compétents.
+4. L'analyse de contenu implique le codage, l'indexation et la structuration des données qualitatives issues des entretiens et des groupes de discussion.
+5. L'analyse de contenu suit un processus en trois étapes : coder, indexer, structurer.
+
+## Glossaire express
+
+**Données brutes.** Données non traitées, non codées, non formatées, telles que collectées.
+
+**Analyse descriptive.** Résume et décrit une série de données pour en faire émerger des modèles.
+
+**Analyse inférentielle.** Généralise d'un échantillon à la population, et teste différences, corrélations et causalité.
+
+**Mesure de fréquence.** Décompte du nombre d'occurrences ou de réponses par catégorie (tableau de fréquence, tableau croisé).
+
+**Tendance centrale.** Valeur centrale d'une série : moyenne, médiane, mode.
+
+**Valeur aberrante.** Valeur très éloignée des autres, qui peut fausser la moyenne.
+
+**Variabilité.** Dispersion des valeurs d'une série : étendue, écart-type.
+
+**Étendue.** Différence entre la valeur la plus élevée et la plus faible.
+
+**Écart-type.** Écart moyen des valeurs par rapport à la moyenne.
+
+**Corrélation.** Force et direction de la relation entre variables, sans preuve de cause.
+
+**Analyse de contenu.** Analyse qualitative en trois étapes : coder, indexer, structurer.
+
+## Pour aller plus loin
+
+- **Guide MEAL DPro** (PM4NGOs), pour l'analyse des données et le plan d'analyse.
+- **Moyenne, médiane et valeurs aberrantes.** Toute ressource de statistiques descriptives, pour bien intégrer pourquoi la médiane résiste aux valeurs extrêmes là où la moyenne y est sensible : c'est le réflexe central de ce cours.
+- **Corrélation et causalité.** Sur la notion de variable de confusion, qui explique pourquoi deux phénomènes peuvent varier ensemble sans lien de cause.
+- **Outils.** Le cas Delta River analyse ses données sous Microsoft Excel ; pour des volumes plus importants ou des analyses inférentielles, des outils comme R ou Python sont mieux adaptés, tout comme la visualisation, qui sera au cœur du cours suivant.
+
+*Prochaine étape du certificat : utiliser les données MEAL (restitution, visualisation, rapports, boucles d'apprentissage, aide à la décision).*

@@ -50,9 +50,11 @@ Méthodes quantitatives et qualitatives, échantillonnage, qualité de la donné
 
 ### 4. Analyser les données MEAL
 
-Passer de la donnée brute à l'information utile : nettoyage, analyse descriptive, interprétation, triangulation entre quantitatif et qualitatif.
+Passer de la donnée brute à l'information utile : analyse descriptive, interprétation, triangulation entre quantitatif et qualitatif.
 
-*Ce que j'en retiens : [à compléter — le terrain où je suis le plus à l'aise ; renvoyer à mon guide de statistiques sous R]*
+📄 **Fiche de révision détaillée : [Cours 4 — Analyser les données MEAL](01_meal_c4_analyse.qmd).** Analyse descriptive (fréquence, tendance centrale, variabilité), valeurs aberrantes, analyse inférentielle (différences, corrélation, causalité), analyse de contenu qualitative en trois étapes, le cas de lecture des données de suivi de l'année 1.
+
+*Ce que j'en retiens : le terrain où je suis le plus à l'aise, et le cours reste volontairement introductif (moyenne, médiane, mode, étendue, écart-type, corrélation). L'intérêt pour moi n'est pas la technique mais la pédagogie : la façon dont l'écart moyenne/médiane trahit les valeurs aberrantes, et surtout la mise en garde corrélation n'est pas causalité, sont exactement les points que je dois savoir expliquer simplement à un jury ou à une équipe non statisticienne. Le cas de l'année 1 est un bel exemple à réutiliser.*
 
 ### 5. Utiliser les données MEAL
 
