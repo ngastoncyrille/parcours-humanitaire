@@ -60,7 +60,9 @@ Passer de la donnée brute à l'information utile : analyse descriptive, interpr
 
 Faire vivre la donnée : restitution, visualisation, rapports, boucles d'apprentissage, aide à la décision, redevabilité envers les communautés.
 
-*Ce que j'en retiens : [à compléter]*
+📄 **Fiche de révision détaillée : [Cours 5 — Utiliser les données MEAL](01_meal_c5_utilisation.qmd).** Les quatre usages (reporting, gestion adaptative, redevabilité, apprentissage), l'apprentissage organisationnel et sectoriel, les quatre étapes de la visualisation, les cinq formats de graphiques et leurs usages, le cas du choix de format.
+
+*Ce que j'en retiens : la phase qui donne son sens à tout le reste, et celle où mon réflexe de data scientist doit s'inverser. Je pense d'abord au graphique ; le cours impose de partir du public et du message, puis d'en déduire le format. La logique des cinq formats (composition, comparaison, évolution, géographie, relation) est un aide-mémoire réutilisable, et le lien tableau de bord / gestion adaptative rejoint mon envie de rendre la donnée autonome pour les décideurs, sous R Shiny comme sous Power BI.*
 
 ### Examen (75 % requis)
 

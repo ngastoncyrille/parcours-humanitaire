@@ -31,6 +31,7 @@ book:
         - 01_meal_c2_planification.qmd
         - 01_meal_c3_collecte.qmd
         - 01_meal_c4_analyse.qmd
+        - 01_meal_c5_utilisation.qmd
         - 02_action_humanitaire.qmd
         - 03_gestion_projet.qmd
         - 04_surete_securite.qmd
