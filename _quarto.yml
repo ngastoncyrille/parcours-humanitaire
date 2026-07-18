@@ -24,17 +24,28 @@ book:
       chapters:
         - 00_le_parcours.qmd
 
-    - part: "Les certifications"
+    - part: 01_meal.qmd
       chapters:
-        - 01_meal.qmd
         - 01_meal_c1_introduction.qmd
         - 01_meal_c2_planification.qmd
         - 01_meal_c3_collecte.qmd
         - 01_meal_c4_analyse.qmd
         - 01_meal_c5_utilisation.qmd
+
+    - part: "Fondements de l'action humanitaire"
+      chapters:
         - 02_action_humanitaire.qmd
+
+    - part: "Fondamentaux de la gestion de projet (DPro)"
+      chapters:
         - 03_gestion_projet.qmd
+
+    - part: "Sûreté et sécurité personnelles"
+      chapters:
         - 04_surete_securite.qmd
+
+    - part: "Fondamentaux de la recherche de subventions"
+      chapters:
         - 05_recherche_subventions.qmd
 
 format:
