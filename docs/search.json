@@ -68,7 +68,7 @@
     "href": "01_meal.html#le-programme",
     "title": "3  Bases du MEAL",
     "section": "3.2 Le programme",
-    "text": "3.2 Le programme\nLe certificat est aligné sur le Guide DPro MEAL et s’organise en cinq cours puis un examen.\n\n3.2.1 1. Introduction au MEAL\nCe que recouvre l’acronyme : Suivi (Monitoring), Évaluation (Evaluation), Redevabilité (Accountability), Apprentissage (Learning). Pourquoi les quatre fonctionnent ensemble plutôt que séparément, et à quoi sert le MEAL au-delà du simple reporting aux bailleurs.\n📄 Fiche de révision détaillée : Cours 1 — Introduction au MEAL. Composantes et définitions, distinction suivi/évaluation, quatre phases, cinq principes de base, biais cognitifs, cas Delta River.\nCe que j’en retiens : premier cours terminé. Mon avance data se confirme sur la partie mesure, mais le cours apporte ce que je venais chercher : le vocabulaire (redevabilité envers les parties prenantes, gestion adaptative) et surtout la vigilance méthodologique sur les biais cognitifs, qui manque souvent dans une formation purement statistique.\n\n\n3.2.2 2. La planification du MEAL\nConstruire un système MEAL dès la conception du projet : cadre logique, choix des indicateurs, plan de suivi. Le lien entre les objectifs du projet et ce qu’on décide de mesurer.\n📄 Fiche de révision détaillée : Cours 2 — La planification du MEAL. Le plan de suivi et ses cinq sections, énoncés d’objectifs et logique verticale, cadre logique, les quatre types d’indicateurs, SMART, méthodes mixtes et triangulation, les trois types d’évaluation et les six critères, le plan de suivi complet du cas lavage des mains.\nCe que j’en retiens : le cœur du certificat, et le cours où l’écart entre mes réflexes et ceux du secteur apparaît le mieux. Je sais construire un indicateur et traiter la donnée ; ce que j’apprends ici, c’est de faire précéder la mesure par la chaîne logique qui la justifie, et d’inscrire dans le plan lui-même qui collecte, à quelle fréquence et pour quelle décision. La règle des sous-groupes rejoint directement mes pratiques de désagrégation sous R.\n\n\n3.2.3 3. Collecter les données MEAL\nMéthodes quantitatives et qualitatives, échantillonnage, qualité de la donnée, éthique et protection des données, outils de collecte mobile de type KoBoToolbox.\nCe que j’en retiens : [à compléter — relier à mon usage de R et des bases de données]\n\n\n3.2.4 4. Analyser les données MEAL\nPasser de la donnée brute à l’information utile : nettoyage, analyse descriptive, interprétation, triangulation entre quantitatif et qualitatif.\nCe que j’en retiens : [à compléter — le terrain où je suis le plus à l’aise ; renvoyer à mon guide de statistiques sous R]\n\n\n3.2.5 5. Utiliser les données MEAL\nFaire vivre la donnée : restitution, visualisation, rapports, boucles d’apprentissage, aide à la décision, redevabilité envers les communautés.\nCe que j’en retiens : [à compléter]\n\n\n3.2.6 Examen (75 % requis)\nRésultat : [à compléter]",
+    "text": "3.2 Le programme\nLe certificat est aligné sur le Guide DPro MEAL et s’organise en cinq cours puis un examen.\n\n3.2.1 1. Introduction au MEAL\nCe que recouvre l’acronyme : Suivi (Monitoring), Évaluation (Evaluation), Redevabilité (Accountability), Apprentissage (Learning). Pourquoi les quatre fonctionnent ensemble plutôt que séparément, et à quoi sert le MEAL au-delà du simple reporting aux bailleurs.\n📄 Fiche de révision détaillée : Cours 1 — Introduction au MEAL. Composantes et définitions, distinction suivi/évaluation, quatre phases, cinq principes de base, biais cognitifs, cas Delta River.\nCe que j’en retiens : premier cours terminé. Mon avance data se confirme sur la partie mesure, mais le cours apporte ce que je venais chercher : le vocabulaire (redevabilité envers les parties prenantes, gestion adaptative) et surtout la vigilance méthodologique sur les biais cognitifs, qui manque souvent dans une formation purement statistique.\n\n\n3.2.2 2. La planification du MEAL\nConstruire un système MEAL dès la conception du projet : cadre logique, choix des indicateurs, plan de suivi. Le lien entre les objectifs du projet et ce qu’on décide de mesurer.\n📄 Fiche de révision détaillée : Cours 2 — La planification du MEAL. Le plan de suivi et ses cinq sections, énoncés d’objectifs et logique verticale, cadre logique, les quatre types d’indicateurs, SMART, méthodes mixtes et triangulation, les trois types d’évaluation et les six critères, le plan de suivi complet du cas lavage des mains.\nCe que j’en retiens : le cœur du certificat, et le cours où l’écart entre mes réflexes et ceux du secteur apparaît le mieux. Je sais construire un indicateur et traiter la donnée ; ce que j’apprends ici, c’est de faire précéder la mesure par la chaîne logique qui la justifie, et d’inscrire dans le plan lui-même qui collecte, à quelle fréquence et pour quelle décision. La règle des sous-groupes rejoint directement mes pratiques de désagrégation sous R.\n\n\n3.2.3 3. Collecter les données MEAL\nMéthodes quantitatives et qualitatives, échantillonnage, qualité de la donnée, éthique et protection des données, outils de collecte mobile de type KoBoToolbox.\n📄 Fiche de révision détaillée : Cours 3 — Collecter les données MEAL. Questionnaire et questions fermées, entretiens et groupes de discussion, les cinq normes de qualité, l’échantillonnage (aléatoire, marge d’erreur, niveau de confiance), les quatre étapes de préparation, les mécanismes de feedback et réponse, le cas du questionnaire lavage des mains.\nCe que j’en retiens : le terrain où je pars avec le plus d’avance, et le cours le confirme sur l’échantillonnage, la marge d’erreur et le niveau de confiance, que je manipule déjà sous R. Ce que j’y gagne est ailleurs : la discipline des normes de qualité (surtout la fiabilité inter-collecteurs), le réflexe d’adapter le mode d’administration au niveau d’alphabétisation des sous-groupes, et la lecture de la collecte comme un acte de redevabilité et non une simple extraction de données.\n\n\n3.2.4 4. Analyser les données MEAL\nPasser de la donnée brute à l’information utile : nettoyage, analyse descriptive, interprétation, triangulation entre quantitatif et qualitatif.\nCe que j’en retiens : [à compléter — le terrain où je suis le plus à l’aise ; renvoyer à mon guide de statistiques sous R]\n\n\n3.2.5 5. Utiliser les données MEAL\nFaire vivre la donnée : restitution, visualisation, rapports, boucles d’apprentissage, aide à la décision, redevabilité envers les communautés.\nCe que j’en retiens : [à compléter]\n\n\n3.2.6 Examen (75 % requis)\nRésultat : [à compléter]",
     "crumbs": [
       "Les certifications",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Bases du MEAL</span>"
@@ -317,179 +317,300 @@
     ]
   },
   {
-    "objectID": "02_action_humanitaire.html",
-    "href": "02_action_humanitaire.html",
-    "title": "6  Fondements de l’action humanitaire",
+    "objectID": "01_meal_c3_collecte.html",
+    "href": "01_meal_c3_collecte.html",
+    "title": "6  Cours 3 — Collecter les données MEAL",
     "section": "",
-    "text": "6.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org · Durée : environ 4 h, neuf domaines et un examen · Langue : français · Badge : [lien à insérer]\nC’est le certificat qui comble mon plus gros écart. Je connais le risque par sa face technique, celle de l’aléa qu’on mesure et qu’on cartographie. L’humanitaire l’aborde par l’autre bout : la protection des personnes, un cadre juridique, des principes et une architecture d’acteurs. Ce terrain-là, je ne le maîtrise pas encore, et c’est précisément celui qu’un employeur du secteur suppose acquis.\nLa Core Humanitarian Certification est souvent présentée comme la base commune attendue de tout profil qui entre dans le métier. Elle balaie l’ensemble du champ, du droit international humanitaire au financement de l’aide, du cycle de projet aux standards de conduite. Pour quelqu’un qui vient d’une administration technique, c’est le passage qui transforme un ingénieur compétent en candidat crédible pour une ONG.\nJ’ai déjà mis un pied dans ce monde avec la formation présentielle « Osons l’Humanitaire », suivie avec la Croix-Rouge de Belgique en février 2026 : premier contact avec le droit international humanitaire, la diplomatie humanitaire et les réalités opérationnelles. Ce certificat vient structurer et compléter ces notions éparses en un cadre cohérent.\nJe le place en deuxième position, juste après le MEAL, parce qu’il donne le décor général dans lequel tout le reste prend sens.",
+    "text": "6.1 Ce que couvre ce cours\nLe cours 2 a construit le plan de suivi, qui décide quoi mesurer et comment. Ce cours traite l’étape suivante : rassembler concrètement les données, avec la qualité et au moment voulus. Des données de qualité et opportunes permettent de suivre les progrès, de prendre les décisions clés, d’apprendre et d’aider ceux que l’on sert.\nLe cours s’organise en six sections : les outils de collecte, les normes de qualité des données, les méthodes d’échantillonnage, la préparation de la collecte, les mécanismes de feedback et réponse, et une application au cas Delta River.\nUn fil conducteur relie tout le cours à ce qui précède : l’approche de méthodes mixtes. On utilise des questionnaires pour les mesures quantitatives et des groupes de discussion pour les mesures qualitatives. Les outils de ce cours se répartissent selon cette même ligne.",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Cours 3 — Collecter les données MEAL</span>"
+    ]
+  },
+  {
+    "objectID": "01_meal_c3_collecte.html#les-outils-de-collecte",
+    "href": "01_meal_c3_collecte.html#les-outils-de-collecte",
+    "title": "6  Cours 3 — Collecter les données MEAL",
+    "section": "6.2 Les outils de collecte",
+    "text": "6.2 Les outils de collecte\nTrois outils sont présentés : le questionnaire, l’entretien et le groupe de discussion. Ils se distinguent d’abord par le type de questions qu’ils emploient.\n\n6.2.1 Le questionnaire\nLe questionnaire utilise un ensemble structuré de questions fermées pour obtenir des informations quantitatives des personnes interrogées. Comme les réponses feront l’objet d’une analyse statistique, elles doivent être facilement codées et comprises. Les questions fermées servent précisément à cela.\n\n6.2.1.1 Les quatre types de questions fermées\n\n\n\n\n\n\n\n\nType\nExemple de question\nRéponses possibles\n\n\n\n\nNumérique\nCombien de personnes vivent au sein de votre ménage ?\nUn nombre, ou « Je ne sais pas ».\n\n\nRéponse à deux options\nAvez-vous accès à des latrines ?\nOui / Non.\n\n\nChoix multiple\nQuelle est la principale source d’eau potable de votre ménage ?\nEau courante ; fontaine publique ; puits protégé ou non protégé ; eau de pluie ; eau de surface.\n\n\nNote ou échelle de Likert\nIndiquez votre degré d’accord : « Je me sens en sécurité lorsque je vais collecter de l’eau aux points d’eau améliorés. »\nTout à fait d’accord ; d’accord ; ni d’accord ni pas d’accord ; pas d’accord ; pas du tout d’accord.\n\n\n\n\n\n\n\n\n\nPour aller plus loin : l’échelle de Likert\n\n\n\nL’échelle de Likert (du nom du psychologue Rensis Likert) transforme une opinion, donc une matière qualitative, en une variable ordonnée que l’on peut compter. C’est le pont le plus courant entre le ressenti des personnes et l’analyse statistique. Sa limite : l’écart entre « d’accord » et « tout à fait d’accord » n’a pas la même valeur pour tout le monde, ce qui impose la prudence dans les moyennes.\n\n\n\n\n6.2.1.2 Deux façons d’administrer le questionnaire\nLe questionnaire peut être posé directement par un enquêteur, ou rempli seul par le répondant. Le choix a des conséquences fortes, notamment selon le niveau d’alphabétisation de la population.\n\n\n\n\n\n\n\n\n\nQuestions directes (posées par le personnel)\nAuto-administrées (remplies par le répondant)\n\n\n\n\nAvantages\nLe niveau d’alphabétisation du répondant n’est pas un facteur. Les animateurs peuvent motiver et soutenir les personnes interrogées. Coopération élevée et taux de refus faible.\nFacile et moins onéreux. Permet d’atteindre une population plus large sur une zone géographique plus étendue.\n\n\nInconvénients\nPeut prendre du temps et coûter cher. Le personnel peut influencer l’interprétation des questions et les réponses. La saisie est difficile si les réponses ne sont pas collectées sur appareil numérique.\nLes répondants doivent avoir un niveau d’alphabétisation suffisant. Saisie difficile hors appareil numérique. Taux de réponse potentiellement bas.\n\n\nExigences\nLieu permettant la discrétion, budget pour les déplacements, animateurs formés.\nProcessus et budget pour la distribution et la collecte ; peut coûter cher à grande échelle.\n\n\n\n\n\n\n6.2.2 L’entretien et le groupe de discussion\nL’entretien et le groupe de discussion utilisent des questions ouvertes pour obtenir des informations qualitatives de façon fluide, les répondants répondant avec leurs propres mots.\n\nEntretien : une conversation guidée entre un enquêteur et un seul répondant.\nGroupe de discussion : une discussion guidée entre un animateur et plusieurs répondants réunis.\n\nDans les deux cas, les questions sont conçues pour explorer et comprendre les perspectives, opinions et idées. Elles sont préparées en amont, rédigées avec soin, et disponibles pendant l’échange.\n\n6.2.2.1 Deux types de questions qualitatives\n\n\n\n\n\n\n\nType\nRôle\n\n\n\n\nCartographie du contenu\nLance l’exploration d’un sujet en soulevant et en explorant largement une question.\n\n\nExploration du contenu\nQuestions de suivi pour approfondir la réponse à une question de cartographie. Elles permettent d’explorer des sujets imprévus et exigent de la compétence et de la flexibilité pour adapter la conversation et poser les bonnes questions.\n\n\n\n\nIllustration tirée d’un entretien mené par Sydney à Delta River :\n« D’où vient l’eau que vous buvez ? » (cartographie) — « De la rivière. » « Faites-vous quelque chose à cette eau avant de l’utiliser chez vous ? » (cartographie) — « Pas vraiment, nous la stockons dans des récipients. » « Veuillez me décrire les récipients et le processus de stockage. » (exploration)\n\nLa première question ouvre le terrain ; la dernière creuse ce qui vient d’être dit. C’est ce va-et-vient qui fait la richesse du qualitatif, et sa difficulté.",
+    "crumbs": [
+      "Les certifications",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Cours 3 — Collecter les données MEAL</span>"
+    ]
+  },
+  {
+    "objectID": "01_meal_c3_collecte.html#les-normes-de-qualité-des-données",
+    "href": "01_meal_c3_collecte.html#les-normes-de-qualité-des-données",
+    "title": "6  Cours 3 — Collecter les données MEAL",
+    "section": "6.3 Les normes de qualité des données",
+    "text": "6.3 Les normes de qualité des données\nCinq normes définissent une donnée de qualité. Les biais peuvent toutes les compromettre, ce qui renvoie aux six biais cognitifs vus au cours 1.\n\n\n\n\n\n\n\nNorme\nCe qu’elle exige\n\n\n\n\nValidité\nLes données mesurent réellement ce qu’elles sont censées mesurer.\n\n\nFiabilité\nLes données sont collectées selon des procédures et des définitions cohérentes dans le temps et d’un collecteur à l’autre, de sorte que la mesure serait reproductible.\n\n\nPrécision\nLes données ont un niveau de détail suffisant et sont exactes pour l’usage prévu.\n\n\nIntégrité\nLes données sont protégées des manipulations et des erreurs volontaires, avec des mécanismes de contrôle contre la fraude.\n\n\nRapidité d’exécution\nLes données sont collectées et disponibles à temps pour être utiles à la décision.\n\n\n\n\n\n\n\n\n\nNote de fidélité\n\n\n\nLes supports capturés listent les cinq normes mais n’en détaillent pas chaque définition. Les formulations ci-dessus reprennent les définitions standard du secteur (elles correspondent aux normes de qualité des données de l’USAID et du Guide MEAL DPro). Le récapitulatif du cours confirme la validité comme « la mesure de ce que les données sont censées mesurer ».",
+    "crumbs": [
+      "Les certifications",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Cours 3 — Collecter les données MEAL</span>"
+    ]
+  },
+  {
+    "objectID": "01_meal_c3_collecte.html#les-méthodes-déchantillonnage",
+    "href": "01_meal_c3_collecte.html#les-méthodes-déchantillonnage",
+    "title": "6  Cours 3 — Collecter les données MEAL",
+    "section": "6.4 Les méthodes d’échantillonnage",
+    "text": "6.4 Les méthodes d’échantillonnage\nCollecter des données auprès de toute la population est onéreux et long, surtout quand la population est nombreuse ou complexe, comme les habitants de Delta River. On utilise donc un échantillon : un sous-ensemble de la population qui aide à comprendre l’ensemble.\n\n6.4.1 Identifier la population\nLa première étape consiste à définir clairement la population que l’on veut mieux connaître. Ce n’est pas toujours simple. La population peut être une communauté entière, ou un ensemble de personnes, d’objets ou d’évènements similaires. Le projet doit fixer des critères d’inclusion et d’exclusion : participation aux activités, limites géographiques, caractéristiques démographiques, par exemple « les résidents de Delta River ».\n\n\n6.4.2 Les deux méthodes\nOn génère un échantillon de deux manières :\n\nÉchantillonnage aléatoire : chaque membre de la population a une chance connue d’être sélectionné.\nÉchantillonnage non aléatoire : la sélection repose sur d’autres critères que le hasard.\n\nLes deux permettent de tirer des inférences sur une population plus large, mais pas avec la même portée.\n\n\n\n\n\n\nPour aller plus loin : ce que chaque méthode autorise\n\n\n\nL’échantillonnage aléatoire est le seul qui permette de généraliser statistiquement les résultats à toute la population, avec une marge d’erreur calculable. L’échantillonnage non aléatoire (par choix raisonné, par quotas, en boule de neige) est utilisé quand l’aléatoire est impossible, par exemple pour atteindre des personnes déplacées difficiles à recenser, mais il limite la généralisation. Le choix n’est pas seulement technique : il détermine ce que vous aurez le droit d’affirmer à partir de vos données.\n\n\n\n\n6.4.3 La taille de l’échantillon\nPlus la taille de l’échantillon est importante, plus il représente précisément la population. Cette représentativité se mesure par deux statistiques.\n\nMarge d’erreur : de combien de points de pourcentage vos résultats diffèrent de la valeur réelle de la population. Une marge plus faible indique un échantillon plus représentatif. Elle doit être qualifiée par un niveau de confiance.\nNiveau de confiance : le degré de certitude que vos résultats reflètent la population réelle.\n\n\nExemple : un intervalle de confiance de 95 % avec une marge d’erreur de 4 % signifie que, dans 95 % des cas, les données se situent à moins de 4 points de pourcentage de la valeur réelle de la population.\n\nLe calcul d’un échantillon peut nécessiter les services d’un statisticien compétent.",
+    "crumbs": [
+      "Les certifications",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Cours 3 — Collecter les données MEAL</span>"
+    ]
+  },
+  {
+    "objectID": "01_meal_c3_collecte.html#la-préparation-de-la-collecte",
+    "href": "01_meal_c3_collecte.html#la-préparation-de-la-collecte",
+    "title": "6  Cours 3 — Collecter les données MEAL",
+    "section": "6.5 La préparation de la collecte",
+    "text": "6.5 La préparation de la collecte\nQuatre étapes garantissent que les outils de collecte sont performants.\n\nTraduire les outils de collecte dans les langues de ceux qui les utilisent, afin de réduire les biais.\nFormer les collecteurs et tester les outils. Fournir des instructions écrites et des formations aux collecteurs, nouveaux comme expérimentés. La formation vise deux objectifs : renforcer les compétences des collecteurs et s’assurer que les outils fonctionnent comme prévu.\nRéviser et finaliser les outils après le test.\nPlanifier la mise en œuvre et la gestion des données. Prévoir assez de temps pour chaque activité. Choisir des lieux (pour entretiens et groupes de discussion) qui garantissent la confidentialité, le confort et l’accessibilité. Prendre les décisions de gestion : qui saisit les données, qui en fait le contrôle qualité et quand, qui protège les données collectées ; comment la vie privée des répondants est protégée, comment les questionnaires remplis sont stockés et protégés.\n\n\n\n\n\n\n\nLe lien avec les cinq principes du cours 1\n\n\n\nL’étape 4 n’est pas de la logistique. « Qui protège les données », « comment la vie privée est protégée », « comment les questionnaires sont stockés » sont la traduction opérationnelle des principes de vie privée, de confidentialité et de sécurité des participants. La qualité éthique d’une collecte se décide ici, avant le terrain, pas après.",
+    "crumbs": [
+      "Les certifications",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Cours 3 — Collecter les données MEAL</span>"
+    ]
+  },
+  {
+    "objectID": "01_meal_c3_collecte.html#les-mécanismes-de-feedback-et-réponse-mfr",
+    "href": "01_meal_c3_collecte.html#les-mécanismes-de-feedback-et-réponse-mfr",
+    "title": "6  Cours 3 — Collecter les données MEAL",
+    "section": "6.6 Les mécanismes de feedback et réponse (MFR)",
+    "text": "6.6 Les mécanismes de feedback et réponse (MFR)\nLes outils de collecte peuvent aussi rassembler des données qui favorisent la redevabilité du projet envers ses parties prenantes. Encore faut-il que le personnel et les parties prenantes sachent accéder à ces mécanismes et les utiliser, ce qui suppose des sessions de formation et des instructions claires.\nUn MFR a deux faces :\n\nMécanismes de feedback : les parties prenantes donnent un retour à l’équipe, via des réunions, des entretiens, des groupes de discussion, des boîtes à suggestion, le téléphone et Internet.\nMécanismes de réponse : l’équipe accuse réception du feedback et répond, via des réunions, le téléphone et Internet, la radio, et d’autres canaux.\n\nLe feedback et la réponse forment un cycle de communication entre la communauté et l’équipe du projet, sur des canaux variés : appareils mobiles et Internet, boîte à suggestion, service d’assistance physique et téléphonique, réunions et ateliers avec la communauté, radio.\n\n\n\n\n\n\nPour aller plus loin : le MFR et la Norme humanitaire fondamentale\n\n\n\nUn mécanisme de feedback et de plaintes accessible et sûr est l’un des neuf engagements de la Norme humanitaire fondamentale (CHS). Ce que le cours présente comme un outil de collecte est donc aussi une obligation de qualité du secteur : les personnes affectées doivent pouvoir signaler un problème et obtenir une réponse, y compris sur des sujets sensibles comme la fraude ou les abus.",
+    "crumbs": [
+      "Les certifications",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Cours 3 — Collecter les données MEAL</span>"
+    ]
+  },
+  {
+    "objectID": "01_meal_c3_collecte.html#voix-de-lexpérience-nick-jones-bannister-irc",
+    "href": "01_meal_c3_collecte.html#voix-de-lexpérience-nick-jones-bannister-irc",
+    "title": "6  Cours 3 — Collecter les données MEAL",
+    "section": "6.7 Voix de l’expérience : Nick Jones-Bannister (IRC)",
+    "text": "6.7 Voix de l’expérience : Nick Jones-Bannister (IRC)\nNick Jones-Bannister a dirigé pendant quatre ans l’unité MEAL de l’International Rescue Committee (IRC) pour les programmes de réponse aux crises ; il est aujourd’hui directeur principal des données.\nL’IRC combine des mécanismes de feedback proactifs et réactifs : ligne téléphonique, numéro WhatsApp, boîte à suggestion, groupes de discussion, enquêtes. Les retours sont centralisés dans une application qui affecte chaque feedback à un dossier, examiné et traité par un membre du personnel compétent. La réponse peut être individuelle, ou prendre la forme d’une discussion d’équipe sur une adaptation du programme.\nL’exemple qu’il donne est parlant. Au Yémen, l’IRC avait installé des cliniques mobiles près des lignes de front. Par ses canaux de feedback, l’organisation a appris qu’un déplacement du conflit obligeait désormais des communautés à de longues et dangereuses marches pour atteindre des cliniques auparavant faciles d’accès. Le sujet a été porté à la réunion de mise en œuvre du projet, où un temps est toujours réservé à ce type de retour, en présence des responsables santé, logistique et sécurité et de la direction. À l’issue des discussions, l’IRC a cherché avec les communautés des emplacements alternatifs et a établi un processus de dialogue régulier pour anticiper les futurs déplacements des cliniques.\nLa leçon : un mécanisme de feedback ne vaut que par la réponse qu’il déclenche. Sans le temps dédié en réunion et sans le pouvoir de décision autour de la table, le retour du terrain reste lettre morte.",
+    "crumbs": [
+      "Les certifications",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Cours 3 — Collecter les données MEAL</span>"
+    ]
+  },
+  {
+    "objectID": "01_meal_c3_collecte.html#le-meal-en-pratique-le-questionnaire-lavage-des-mains",
+    "href": "01_meal_c3_collecte.html#le-meal-en-pratique-le-questionnaire-lavage-des-mains",
+    "title": "6  Cours 3 — Collecter les données MEAL",
+    "section": "6.8 Le MEAL en pratique : le questionnaire lavage des mains",
+    "text": "6.8 Le MEAL en pratique : le questionnaire lavage des mains\nLa dernière section applique le cours au cas Delta River. Il s’agit de développer un questionnaire pour deux indicateurs du résultat « amélioration des comportements de lavage des mains dans six communautés » :\n\nÀ la fin de l’année 3, 80 % des personnes déplacées affirment se laver les mains avec du savon après un évènement critique.\nÀ la fin de l’année 3, 80 % des membres de la communauté utilisent du savon et de l’eau pour se laver les mains.\n\nLes paramètres de la collecte :\n\nÉchantillon : un échantillon aléatoire de chefs de ménage parmi 300 familles réparties dans six communautés reculées de Delta River.\nDésagrégation : en sous-groupes incluant les familles déplacées et les familles de la population générale.\nContexte d’alphabétisation : élevée chez les hommes, particulièrement basse chez les femmes et les personnes déplacées.\nContexte de revenus : revenus bas, avec des déplacements saisonniers de nombreux hommes vers d’autres régions pour des emplois de récolte.\nFréquence : le questionnaire est administré quatre fois pour identifier les tendances : une première fois au début du projet pour établir les données de base (baseline), puis aux années 1, 2 et 3.\nAnalyse : toutes les données sont analysées avec Microsoft Excel.\n\n\n\n\n\n\n\nDeux décisions du cas à savoir justifier\n\n\n\nPourquoi pas un questionnaire auto-administré ? Parce que l’alphabétisation est basse chez les femmes et les personnes déplacées, précisément les sous-groupes que le projet doit atteindre. Un questionnaire auto-administré les exclurait et trahirait le principe de représentation. La méthode adaptée est le questionnaire posé directement par un enquêteur.\nLe piège du groupe de discussion. Le cours souligne que si les groupes de discussion sont menés par différents animateurs qui posent des questions différentes, les données collectées risquent de ne pas respecter la norme de fiabilité : la mesure n’est plus reproductible d’un groupe à l’autre. D’où l’importance d’un guide d’entretien commun et d’animateurs formés (étape 2 de la préparation).",
+    "crumbs": [
+      "Les certifications",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Cours 3 — Collecter les données MEAL</span>"
+    ]
+  },
+  {
+    "objectID": "01_meal_c3_collecte.html#récapitulatif",
+    "href": "01_meal_c3_collecte.html#récapitulatif",
+    "title": "6  Cours 3 — Collecter les données MEAL",
+    "section": "6.9 Récapitulatif",
+    "text": "6.9 Récapitulatif\nLes cinq points à retenir du cours :\n\nLes questionnaires collectent des données quantitatives ; les entretiens et les groupes de discussion collectent des données qualitatives. On utilise des questions fermées et des questions ouvertes.\nIl existe cinq normes de qualité des données, dont la validité (mesurer ce que l’on est censé mesurer).\nLes échantillonnages aléatoire et non aléatoire permettent tous deux de faire des inférences sur une population plus large.\nLa collecte des données comporte quatre étapes de préparation, dont la traduction des outils de collecte.\nLes mécanismes de feedback et réponse permettent aux parties prenantes et au personnel de partager leurs retours, d’éclairer le projet et de mettre au jour des problèmes tels que la fraude.",
+    "crumbs": [
+      "Les certifications",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Cours 3 — Collecter les données MEAL</span>"
+    ]
+  },
+  {
+    "objectID": "01_meal_c3_collecte.html#glossaire-express",
+    "href": "01_meal_c3_collecte.html#glossaire-express",
+    "title": "6  Cours 3 — Collecter les données MEAL",
+    "section": "6.10 Glossaire express",
+    "text": "6.10 Glossaire express\nQuestion fermée. Question dont les réponses sont prédéfinies et codables : numérique, à deux options, à choix multiple, échelle de Likert.\nQuestion ouverte. Question à laquelle le répondant répond librement, avec ses propres mots.\nÉchelle de Likert. Échelle ordonnée d’accord ou de désaccord, qui rend mesurable une opinion.\nCartographie / exploration du contenu. Ouverture large d’un sujet / questions de suivi qui l’approfondissent.\nÉchantillon. Sous-ensemble d’une population utilisé pour comprendre l’ensemble.\nMarge d’erreur. Écart possible entre le résultat de l’échantillon et la valeur réelle de la population.\nNiveau de confiance. Probabilité que le résultat reflète la population réelle, par exemple 95 %.\nDonnées de base (baseline). Première mesure, en début de projet, qui sert de référence pour apprécier les changements.\nMFR. Mécanismes de feedback et réponse, dispositif de redevabilité envers les parties prenantes.\nFiabilité. Qualité d’une mesure reproductible, obtenue avec des procédures cohérentes entre collecteurs et dans le temps.",
+    "crumbs": [
+      "Les certifications",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Cours 3 — Collecter les données MEAL</span>"
+    ]
+  },
+  {
+    "objectID": "01_meal_c3_collecte.html#pour-aller-plus-loin",
+    "href": "01_meal_c3_collecte.html#pour-aller-plus-loin",
+    "title": "6  Cours 3 — Collecter les données MEAL",
+    "section": "6.11 Pour aller plus loin",
+    "text": "6.11 Pour aller plus loin\n\nGuide MEAL DPro (PM4NGOs), pour les outils de collecte et les normes de qualité des données.\nLes normes de qualité des données (validité, fiabilité, précision, intégrité, rapidité), telles que formalisées notamment par l’USAID, pour la définition de référence de chacune.\nKoBoToolbox, outil libre de collecte mobile très répandu dans le secteur, pour mettre en pratique la collecte numérique évoquée dans la préparation.\nLa Norme humanitaire fondamentale (CHS), engagement sur les mécanismes de plaintes et de feedback, pour ancrer les MFR dans le standard de redevabilité.\n\nProchaine étape du certificat : l’analyse des données MEAL (nettoyage, analyse descriptive, interprétation, triangulation).",
+    "crumbs": [
+      "Les certifications",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Cours 3 — Collecter les données MEAL</span>"
+    ]
+  },
+  {
+    "objectID": "02_action_humanitaire.html",
+    "href": "02_action_humanitaire.html",
+    "title": "7  Fondements de l’action humanitaire",
+    "section": "",
+    "text": "7.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org · Durée : environ 4 h, neuf domaines et un examen · Langue : français · Badge : [lien à insérer]\nC’est le certificat qui comble mon plus gros écart. Je connais le risque par sa face technique, celle de l’aléa qu’on mesure et qu’on cartographie. L’humanitaire l’aborde par l’autre bout : la protection des personnes, un cadre juridique, des principes et une architecture d’acteurs. Ce terrain-là, je ne le maîtrise pas encore, et c’est précisément celui qu’un employeur du secteur suppose acquis.\nLa Core Humanitarian Certification est souvent présentée comme la base commune attendue de tout profil qui entre dans le métier. Elle balaie l’ensemble du champ, du droit international humanitaire au financement de l’aide, du cycle de projet aux standards de conduite. Pour quelqu’un qui vient d’une administration technique, c’est le passage qui transforme un ingénieur compétent en candidat crédible pour une ONG.\nJ’ai déjà mis un pied dans ce monde avec la formation présentielle « Osons l’Humanitaire », suivie avec la Croix-Rouge de Belgique en février 2026 : premier contact avec le droit international humanitaire, la diplomatie humanitaire et les réalités opérationnelles. Ce certificat vient structurer et compléter ces notions éparses en un cadre cohérent.\nJe le place en deuxième position, juste après le MEAL, parce qu’il donne le décor général dans lequel tout le reste prend sens.",
+    "crumbs": [
+      "Les certifications",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
     ]
   },
   {
     "objectID": "02_action_humanitaire.html#le-programme",
     "href": "02_action_humanitaire.html#le-programme",
-    "title": "6  Fondements de l’action humanitaire",
-    "section": "6.2 Le programme",
-    "text": "6.2 Le programme\nLa certification couvre neuf domaines.\n\n6.2.1 1. Bases de l’action humanitaire\nCe qu’est l’action humanitaire, son histoire, ses acteurs (agences des Nations unies, Mouvement de la Croix-Rouge et du Croissant-Rouge, ONG internationales et locales), la distinction entre urgence, relèvement et développement.\nCe que j’en retiens : [à compléter]\n\n\n6.2.2 2. Cadre juridique international\nDroit international humanitaire, droit des réfugiés, droit international des droits humains. Protection des civils, distinction entre combattants et non-combattants.\nCe que j’en retiens : [à compléter — recouper avec le module DIH d’Osons l’Humanitaire]\n\n\n6.2.3 3. Enjeux transversaux\nGenre, protection, inclusion du handicap, environnement, redevabilité envers les populations affectées.\nCe que j’en retiens : [à compléter]\n\n\n6.2.4 4. Financement de l’aide humanitaire\nArchitecture du financement : bailleurs institutionnels, appels de fonds, mécanismes de fonds communs, chaîne de redevabilité.\nCe que j’en retiens : [à compléter]\n\n\n6.2.5 5. Élaboration de propositions de subventions\nLogique d’une proposition, cadre logique, budget. Recoupe le chapitre « Recherche de subventions » de ce carnet.\nCe que j’en retiens : [à compléter]\n\n\n6.2.6 6. Cycle de projet humanitaire\nLes étapes du Humanitarian Programme Cycle : évaluation des besoins, planification stratégique, mobilisation des ressources, mise en œuvre, suivi, revue.\nCe que j’en retiens : [à compléter — comparer au cycle DPro]\n\n\n6.2.7 7. Sécurité et devoir de diligence\nGestion de la sécurité, devoir de diligence de l’employeur, logiques d’acceptation, de protection et de dissuasion. Recoupe le chapitre « Sûreté et sécurité personnelles ».\nCe que j’en retiens : [à compléter]\n\n\n6.2.8 8. Information, données et technologie\nGestion de l’information dans le secteur, protection des données, technologies au service de la réponse.\nCe que j’en retiens : [à compléter — terrain proche de mon profil data et SIG]\n\n\n6.2.9 9. Professionnalisme dans le travail humanitaire\nStandards de conduite, prévention de l’exploitation et des abus sexuels (PSEA), Core Humanitarian Standard, développement professionnel.\nCe que j’en retiens : [à compléter]\n\n\n6.2.10 Examen\nRésultat : [à compléter]",
+    "title": "7  Fondements de l’action humanitaire",
+    "section": "7.2 Le programme",
+    "text": "7.2 Le programme\nLa certification couvre neuf domaines.\n\n7.2.1 1. Bases de l’action humanitaire\nCe qu’est l’action humanitaire, son histoire, ses acteurs (agences des Nations unies, Mouvement de la Croix-Rouge et du Croissant-Rouge, ONG internationales et locales), la distinction entre urgence, relèvement et développement.\nCe que j’en retiens : [à compléter]\n\n\n7.2.2 2. Cadre juridique international\nDroit international humanitaire, droit des réfugiés, droit international des droits humains. Protection des civils, distinction entre combattants et non-combattants.\nCe que j’en retiens : [à compléter — recouper avec le module DIH d’Osons l’Humanitaire]\n\n\n7.2.3 3. Enjeux transversaux\nGenre, protection, inclusion du handicap, environnement, redevabilité envers les populations affectées.\nCe que j’en retiens : [à compléter]\n\n\n7.2.4 4. Financement de l’aide humanitaire\nArchitecture du financement : bailleurs institutionnels, appels de fonds, mécanismes de fonds communs, chaîne de redevabilité.\nCe que j’en retiens : [à compléter]\n\n\n7.2.5 5. Élaboration de propositions de subventions\nLogique d’une proposition, cadre logique, budget. Recoupe le chapitre « Recherche de subventions » de ce carnet.\nCe que j’en retiens : [à compléter]\n\n\n7.2.6 6. Cycle de projet humanitaire\nLes étapes du Humanitarian Programme Cycle : évaluation des besoins, planification stratégique, mobilisation des ressources, mise en œuvre, suivi, revue.\nCe que j’en retiens : [à compléter — comparer au cycle DPro]\n\n\n7.2.7 7. Sécurité et devoir de diligence\nGestion de la sécurité, devoir de diligence de l’employeur, logiques d’acceptation, de protection et de dissuasion. Recoupe le chapitre « Sûreté et sécurité personnelles ».\nCe que j’en retiens : [à compléter]\n\n\n7.2.8 8. Information, données et technologie\nGestion de l’information dans le secteur, protection des données, technologies au service de la réponse.\nCe que j’en retiens : [à compléter — terrain proche de mon profil data et SIG]\n\n\n7.2.9 9. Professionnalisme dans le travail humanitaire\nStandards de conduite, prévention de l’exploitation et des abus sexuels (PSEA), Core Humanitarian Standard, développement professionnel.\nCe que j’en retiens : [à compléter]\n\n\n7.2.10 Examen\nRésultat : [à compléter]",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
     ]
   },
   {
     "objectID": "02_action_humanitaire.html#application-afrique-de-louest",
     "href": "02_action_humanitaire.html#application-afrique-de-louest",
-    "title": "6  Fondements de l’action humanitaire",
-    "section": "6.3 Application Afrique de l’Ouest",
-    "text": "6.3 Application Afrique de l’Ouest\n[à enrichir : comment ces principes se confrontent au contexte sahélien, aux crises du Burkina depuis 2016, à la question de l’accès humanitaire et de la localisation de l’aide]",
+    "title": "7  Fondements de l’action humanitaire",
+    "section": "7.3 Application Afrique de l’Ouest",
+    "text": "7.3 Application Afrique de l’Ouest\n[à enrichir : comment ces principes se confrontent au contexte sahélien, aux crises du Burkina depuis 2016, à la question de l’accès humanitaire et de la localisation de l’aide]",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
     ]
   },
   {
     "objectID": "02_action_humanitaire.html#compétences-validées",
     "href": "02_action_humanitaire.html#compétences-validées",
-    "title": "6  Fondements de l’action humanitaire",
-    "section": "6.4 Compétences validées",
-    "text": "6.4 Compétences validées\n[à compléter après l’examen]",
+    "title": "7  Fondements de l’action humanitaire",
+    "section": "7.4 Compétences validées",
+    "text": "7.4 Compétences validées\n[à compléter après l’examen]",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
     ]
   },
   {
     "objectID": "03_gestion_projet.html",
     "href": "03_gestion_projet.html",
-    "title": "7  Fondamentaux de la gestion de projet (DPro)",
+    "title": "8  Fondamentaux de la gestion de projet (DPro)",
     "section": "",
-    "text": "7.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org · Durée : 5 h, plusieurs cours et un examen (75 % requis) · Référentiel : Guide Project DPro · Badge : [lien à insérer]\nLe badge DPro est explicitement demandé ou valorisé dans une grande partie des offres « officer » et « advisor » des ONG et des agences. Ce n’est pas un certificat de plus, c’est presque un standard d’entrée pour piloter un projet dans le secteur.\nJ’ai déjà géré des activités, des livrables et des échéances dans l’administration burkinabè. Mais c’est une culture projet d’administration publique, avec ses procédures propres, pas celle du développement international. Les deux mondes ne parlent pas tout à fait la même langue. Le DPro me donne le vocabulaire et les outils que mes interlocuteurs attendent : arbre à problèmes, matrice des parties prenantes, cadre logique, structure de découpage du travail, registre des risques, gestion adaptative.\nIl y a aussi un bénéfice de cohérence. Le DPro partage sa colonne vertébrale, le cadre logique, avec le MEAL et avec la recherche de subventions. En le suivant après le MEAL, je consolide un même socle méthodologique vu sous trois angles : concevoir, mesurer, financer. C’est pourquoi je le place en troisième position, une fois le cadre général posé.",
+    "text": "8.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org · Durée : 5 h, plusieurs cours et un examen (75 % requis) · Référentiel : Guide Project DPro · Badge : [lien à insérer]\nLe badge DPro est explicitement demandé ou valorisé dans une grande partie des offres « officer » et « advisor » des ONG et des agences. Ce n’est pas un certificat de plus, c’est presque un standard d’entrée pour piloter un projet dans le secteur.\nJ’ai déjà géré des activités, des livrables et des échéances dans l’administration burkinabè. Mais c’est une culture projet d’administration publique, avec ses procédures propres, pas celle du développement international. Les deux mondes ne parlent pas tout à fait la même langue. Le DPro me donne le vocabulaire et les outils que mes interlocuteurs attendent : arbre à problèmes, matrice des parties prenantes, cadre logique, structure de découpage du travail, registre des risques, gestion adaptative.\nIl y a aussi un bénéfice de cohérence. Le DPro partage sa colonne vertébrale, le cadre logique, avec le MEAL et avec la recherche de subventions. En le suivant après le MEAL, je consolide un même socle méthodologique vu sous trois angles : concevoir, mesurer, financer. C’est pourquoi je le place en troisième position, une fois le cadre général posé.",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
     ]
   },
   {
     "objectID": "03_gestion_projet.html#le-programme",
     "href": "03_gestion_projet.html#le-programme",
-    "title": "7  Fondamentaux de la gestion de projet (DPro)",
-    "section": "7.2 Le programme",
-    "text": "7.2 Le programme\nLe référentiel DPro structure le projet en phases successives.\n\n7.2.1 1. Introduction et cadrage\nCe qu’est un projet, le rôle du chef de projet, les principes du DPro, l’équilibre entre contenu, délais, budget et qualité.\nCe que j’en retiens : [à compléter]\n\n\n7.2.2 2. Identification et conception\nAnalyse des besoins, des parties prenantes et des problèmes (arbre à problèmes), théorie du changement, cadre logique, indicateurs.\nCe que j’en retiens : [à compléter — recouper avec le MEAL]\n\n\n7.2.3 3. Planification\nStructure de découpage du travail, calendrier, budget, plan de gestion des risques, plan d’approvisionnement.\nCe que j’en retiens : [à compléter]\n\n\n7.2.4 4. Mise en œuvre\nPilotage de l’exécution, gestion de l’équipe et des ressources, gestion des parties prenantes, gestion des problèmes et des changements.\nCe que j’en retiens : [à compléter]\n\n\n7.2.5 5. Suivi, évaluation et contrôle\nSuivi de l’avancement, tableaux de bord, gestion adaptative. Interface directe avec le MEAL.\nCe que j’en retiens : [à compléter]\n\n\n7.2.6 6. Clôture et transition\nClôture administrative, financière et contractuelle, capitalisation, transition vers les bénéficiaires ou vers une phase suivante.\nCe que j’en retiens : [à compléter]\n\n\n7.2.7 Examen (75 % requis)\nRésultat : [à compléter]",
+    "title": "8  Fondamentaux de la gestion de projet (DPro)",
+    "section": "8.2 Le programme",
+    "text": "8.2 Le programme\nLe référentiel DPro structure le projet en phases successives.\n\n8.2.1 1. Introduction et cadrage\nCe qu’est un projet, le rôle du chef de projet, les principes du DPro, l’équilibre entre contenu, délais, budget et qualité.\nCe que j’en retiens : [à compléter]\n\n\n8.2.2 2. Identification et conception\nAnalyse des besoins, des parties prenantes et des problèmes (arbre à problèmes), théorie du changement, cadre logique, indicateurs.\nCe que j’en retiens : [à compléter — recouper avec le MEAL]\n\n\n8.2.3 3. Planification\nStructure de découpage du travail, calendrier, budget, plan de gestion des risques, plan d’approvisionnement.\nCe que j’en retiens : [à compléter]\n\n\n8.2.4 4. Mise en œuvre\nPilotage de l’exécution, gestion de l’équipe et des ressources, gestion des parties prenantes, gestion des problèmes et des changements.\nCe que j’en retiens : [à compléter]\n\n\n8.2.5 5. Suivi, évaluation et contrôle\nSuivi de l’avancement, tableaux de bord, gestion adaptative. Interface directe avec le MEAL.\nCe que j’en retiens : [à compléter]\n\n\n8.2.6 6. Clôture et transition\nClôture administrative, financière et contractuelle, capitalisation, transition vers les bénéficiaires ou vers une phase suivante.\nCe que j’en retiens : [à compléter]\n\n\n8.2.7 Examen (75 % requis)\nRésultat : [à compléter]",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
     ]
   },
   {
     "objectID": "03_gestion_projet.html#application-afrique-de-louest",
     "href": "03_gestion_projet.html#application-afrique-de-louest",
-    "title": "7  Fondamentaux de la gestion de projet (DPro)",
-    "section": "7.3 Application Afrique de l’Ouest",
-    "text": "7.3 Application Afrique de l’Ouest\n[à enrichir : transposer un projet réel que je connais, par exemple un projet d’aménagement ou de suivi de ressource en eau sur le Nakanbé, dans le formalisme DPro]",
+    "title": "8  Fondamentaux de la gestion de projet (DPro)",
+    "section": "8.3 Application Afrique de l’Ouest",
+    "text": "8.3 Application Afrique de l’Ouest\n[à enrichir : transposer un projet réel que je connais, par exemple un projet d’aménagement ou de suivi de ressource en eau sur le Nakanbé, dans le formalisme DPro]",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
     ]
   },
   {
     "objectID": "03_gestion_projet.html#compétences-validées",
     "href": "03_gestion_projet.html#compétences-validées",
-    "title": "7  Fondamentaux de la gestion de projet (DPro)",
-    "section": "7.4 Compétences validées",
-    "text": "7.4 Compétences validées\n[à compléter après l’examen]",
+    "title": "8  Fondamentaux de la gestion de projet (DPro)",
+    "section": "8.4 Compétences validées",
+    "text": "8.4 Compétences validées\n[à compléter après l’examen]",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
     ]
   },
   {
     "objectID": "04_surete_securite.html",
     "href": "04_surete_securite.html",
-    "title": "8  Sûreté et sécurité personnelles",
+    "title": "9  Sûreté et sécurité personnelles",
     "section": "",
-    "text": "8.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org, avec Save the Children · Durée : 2 h 30, dix cours et un test de 30 questions · Langue : français · Badge : [lien à insérer]\nCourt, mais loin d’être accessoire. Les postes de terrain que je vise, au Sahel en particulier, s’exercent dans des contextes sécuritaires tendus. Avant de déployer quelqu’un, une organisation vérifie qu’il a la culture sécurité minimale. Ce certificat est exactement ce signal-là.\nIl ne fait pas de moi un expert en gestion de la sécurité, et ce n’est pas son but. Il installe les réflexes de base : préparer un déplacement, communiquer en environnement difficile, évaluer un risque, réduire sa vulnérabilité, savoir quoi faire face à un incident. Pour un recruteur, cocher cette case retire un frein à l’embauche ; pour moi, elle réduit un angle mort réel, puisque je viens d’un métier de bureau et de terrain encadré, pas de zones de crise.\nIl recoupe directement le domaine « sécurité et devoir de diligence » de la certification sur les fondements de l’action humanitaire. Je le place juste après, comme un prérequis de déployabilité, et parce que sa brièveté en fait une transition facile avant le dernier certificat.",
+    "text": "9.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org, avec Save the Children · Durée : 2 h 30, dix cours et un test de 30 questions · Langue : français · Badge : [lien à insérer]\nCourt, mais loin d’être accessoire. Les postes de terrain que je vise, au Sahel en particulier, s’exercent dans des contextes sécuritaires tendus. Avant de déployer quelqu’un, une organisation vérifie qu’il a la culture sécurité minimale. Ce certificat est exactement ce signal-là.\nIl ne fait pas de moi un expert en gestion de la sécurité, et ce n’est pas son but. Il installe les réflexes de base : préparer un déplacement, communiquer en environnement difficile, évaluer un risque, réduire sa vulnérabilité, savoir quoi faire face à un incident. Pour un recruteur, cocher cette case retire un frein à l’embauche ; pour moi, elle réduit un angle mort réel, puisque je viens d’un métier de bureau et de terrain encadré, pas de zones de crise.\nIl recoupe directement le domaine « sécurité et devoir de diligence » de la certification sur les fondements de l’action humanitaire. Je le place juste après, comme un prérequis de déployabilité, et parce que sa brièveté en fait une transition facile avant le dernier certificat.",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
     ]
   },
   {
     "objectID": "04_surete_securite.html#le-programme",
     "href": "04_surete_securite.html#le-programme",
-    "title": "8  Sûreté et sécurité personnelles",
-    "section": "8.2 Le programme",
-    "text": "8.2 Le programme\nDix cours courts couvrant la sûreté personnelle du travailleur humanitaire, puis un test.\n\n8.2.1 Préparation et déplacement\nPréparation avant mission, préparation au voyage de terrain, gestion des documents d’identité, santé (vaccins, prophylaxie).\nCe que j’en retiens : [à compléter]\n\n\n8.2.2 Communications et environnement\nCommuniquer en environnement difficile, moyens de communication de terrain.\nCe que j’en retiens : [à compléter]\n\n\n8.2.3 Prévention et réduction de la vulnérabilité\nPrévention des incidents violents, évaluation des risques, réduction de la vulnérabilité et des biais, mécanismes par lesquels un agresseur choisit sa cible.\nCe que j’en retiens : [à compléter]\n\n\n8.2.4 Situations critiques\nConduite à tenir en cas d’arrestation ou de détention, réaction face à un incident.\nCe que j’en retiens : [à compléter]\n\n\n8.2.5 Test final (30 questions)\nRésultat : [à compléter]",
+    "title": "9  Sûreté et sécurité personnelles",
+    "section": "9.2 Le programme",
+    "text": "9.2 Le programme\nDix cours courts couvrant la sûreté personnelle du travailleur humanitaire, puis un test.\n\n9.2.1 Préparation et déplacement\nPréparation avant mission, préparation au voyage de terrain, gestion des documents d’identité, santé (vaccins, prophylaxie).\nCe que j’en retiens : [à compléter]\n\n\n9.2.2 Communications et environnement\nCommuniquer en environnement difficile, moyens de communication de terrain.\nCe que j’en retiens : [à compléter]\n\n\n9.2.3 Prévention et réduction de la vulnérabilité\nPrévention des incidents violents, évaluation des risques, réduction de la vulnérabilité et des biais, mécanismes par lesquels un agresseur choisit sa cible.\nCe que j’en retiens : [à compléter]\n\n\n9.2.4 Situations critiques\nConduite à tenir en cas d’arrestation ou de détention, réaction face à un incident.\nCe que j’en retiens : [à compléter]\n\n\n9.2.5 Test final (30 questions)\nRésultat : [à compléter]",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
     ]
   },
   {
     "objectID": "04_surete_securite.html#application-afrique-de-louest",
     "href": "04_surete_securite.html#application-afrique-de-louest",
-    "title": "8  Sûreté et sécurité personnelles",
-    "section": "8.3 Application Afrique de l’Ouest",
-    "text": "8.3 Application Afrique de l’Ouest\n[à enrichir : lien avec la réalité sécuritaire du Burkina et du Sahel, l’accès aux zones affectées, la gestion de la sécurité par l’acceptation communautaire]",
+    "title": "9  Sûreté et sécurité personnelles",
+    "section": "9.3 Application Afrique de l’Ouest",
+    "text": "9.3 Application Afrique de l’Ouest\n[à enrichir : lien avec la réalité sécuritaire du Burkina et du Sahel, l’accès aux zones affectées, la gestion de la sécurité par l’acceptation communautaire]",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
     ]
   },
   {
     "objectID": "04_surete_securite.html#compétences-validées",
     "href": "04_surete_securite.html#compétences-validées",
-    "title": "8  Sûreté et sécurité personnelles",
-    "section": "8.4 Compétences validées",
-    "text": "8.4 Compétences validées\n[à compléter après le test]",
+    "title": "9  Sûreté et sécurité personnelles",
+    "section": "9.4 Compétences validées",
+    "text": "9.4 Compétences validées\n[à compléter après le test]",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
     ]
   },
   {
     "objectID": "05_recherche_subventions.html",
     "href": "05_recherche_subventions.html",
-    "title": "9  Fondamentaux de la recherche de subventions",
+    "title": "10  Fondamentaux de la recherche de subventions",
     "section": "",
-    "text": "9.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org, avec CNM · Durée : 3 h, plusieurs cours et un examen · Badge : [lien à insérer]\nCe certificat a un double usage, et c’est ce qui le rend précieux dans mon cas.\nCôté emploi salarié, savoir identifier un financement et rédiger une proposition est une compétence recherchée sur tous les postes à volet mobilisation de ressources. Une organisation qui recrute apprécie un profil capable non seulement de mettre en œuvre, mais aussi d’aller chercher l’argent qui rend la mise en œuvre possible.\nCôté entrepreneurial, c’est directement réutilisable pour Hydro-Risque Conseil, le bureau d’études que je monte avec un cofondateur agro-météorologue. Répondre à des appels, structurer une offre, comprendre ce qu’un bailleur attend et entretenir la relation dans la durée : ce sont les mêmes réflexes, qu’on postule à un emploi ou qu’on porte une structure. Ce certificat sert donc mes deux horizons à la fois.\nIl recoupe le domaine « élaboration de propositions de subventions » de la certification sur les fondements de l’action humanitaire, et il réemploie le cadre logique déjà rencontré en MEAL et en DPro. Je le place en dernier, à la charnière entre l’employabilité et mon projet propre, comme une clé de sortie du parcours.",
+    "text": "10.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org, avec CNM · Durée : 3 h, plusieurs cours et un examen · Badge : [lien à insérer]\nCe certificat a un double usage, et c’est ce qui le rend précieux dans mon cas.\nCôté emploi salarié, savoir identifier un financement et rédiger une proposition est une compétence recherchée sur tous les postes à volet mobilisation de ressources. Une organisation qui recrute apprécie un profil capable non seulement de mettre en œuvre, mais aussi d’aller chercher l’argent qui rend la mise en œuvre possible.\nCôté entrepreneurial, c’est directement réutilisable pour Hydro-Risque Conseil, le bureau d’études que je monte avec un cofondateur agro-météorologue. Répondre à des appels, structurer une offre, comprendre ce qu’un bailleur attend et entretenir la relation dans la durée : ce sont les mêmes réflexes, qu’on postule à un emploi ou qu’on porte une structure. Ce certificat sert donc mes deux horizons à la fois.\nIl recoupe le domaine « élaboration de propositions de subventions » de la certification sur les fondements de l’action humanitaire, et il réemploie le cadre logique déjà rencontré en MEAL et en DPro. Je le place en dernier, à la charnière entre l’employabilité et mon projet propre, comme une clé de sortie du parcours.",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
     ]
   },
   {
     "objectID": "05_recherche_subventions.html#le-programme",
     "href": "05_recherche_subventions.html#le-programme",
-    "title": "9  Fondamentaux de la recherche de subventions",
-    "section": "9.2 Le programme",
-    "text": "9.2 Le programme\nLe programme s’organise autour de trois axes, puis un examen.\n\n9.2.1 1. Trouver les bonnes subventions\nIdentifier les bailleurs pertinents, comprendre leurs priorités, évaluer l’adéquation entre un projet et une ligne de financement, organiser une veille sur les appels.\nCe que j’en retiens : [à compléter]\n\n\n9.2.2 2. Rédiger d’excellentes propositions\nStructure d’une proposition, problématique, cadre logique et budget, argumentaire, clarté et alignement sur les critères du bailleur.\nCe que j’en retiens : [à compléter — recouper avec le cadre logique du DPro et du MEAL]\n\n\n9.2.3 3. Développer la relation avec les bailleurs\nRedevabilité, reporting, communication continue, construction d’une relation de confiance dans la durée.\nCe que j’en retiens : [à compléter]\n\n\n9.2.4 Examen\nRésultat : [à compléter]",
+    "title": "10  Fondamentaux de la recherche de subventions",
+    "section": "10.2 Le programme",
+    "text": "10.2 Le programme\nLe programme s’organise autour de trois axes, puis un examen.\n\n10.2.1 1. Trouver les bonnes subventions\nIdentifier les bailleurs pertinents, comprendre leurs priorités, évaluer l’adéquation entre un projet et une ligne de financement, organiser une veille sur les appels.\nCe que j’en retiens : [à compléter]\n\n\n10.2.2 2. Rédiger d’excellentes propositions\nStructure d’une proposition, problématique, cadre logique et budget, argumentaire, clarté et alignement sur les critères du bailleur.\nCe que j’en retiens : [à compléter — recouper avec le cadre logique du DPro et du MEAL]\n\n\n10.2.3 3. Développer la relation avec les bailleurs\nRedevabilité, reporting, communication continue, construction d’une relation de confiance dans la durée.\nCe que j’en retiens : [à compléter]\n\n\n10.2.4 Examen\nRésultat : [à compléter]",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
     ]
   },
   {
     "objectID": "05_recherche_subventions.html#application-afrique-de-louest-et-bureau-hrc",
     "href": "05_recherche_subventions.html#application-afrique-de-louest-et-bureau-hrc",
-    "title": "9  Fondamentaux de la recherche de subventions",
-    "section": "9.3 Application Afrique de l’Ouest et bureau HRC",
-    "text": "9.3 Application Afrique de l’Ouest et bureau HRC\n[à enrichir : comment ces méthodes servent le positionnement d’Hydro-Risque Conseil sur les financements liés à l’eau, aux risques et au climat en Afrique de l’Ouest]",
+    "title": "10  Fondamentaux de la recherche de subventions",
+    "section": "10.3 Application Afrique de l’Ouest et bureau HRC",
+    "text": "10.3 Application Afrique de l’Ouest et bureau HRC\n[à enrichir : comment ces méthodes servent le positionnement d’Hydro-Risque Conseil sur les financements liés à l’eau, aux risques et au climat en Afrique de l’Ouest]",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
     ]
   },
   {
     "objectID": "05_recherche_subventions.html#compétences-validées",
     "href": "05_recherche_subventions.html#compétences-validées",
-    "title": "9  Fondamentaux de la recherche de subventions",
-    "section": "9.4 Compétences validées",
-    "text": "9.4 Compétences validées\n[à compléter après l’examen]",
+    "title": "10  Fondamentaux de la recherche de subventions",
+    "section": "10.4 Compétences validées",
+    "text": "10.4 Compétences validées\n[à compléter après l’examen]",
     "crumbs": [
       "Les certifications",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
     ]
   }
 ]

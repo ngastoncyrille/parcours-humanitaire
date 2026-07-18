@@ -1,0 +1,230 @@
+---
+title: "Cours 3 — Collecter les données MEAL"
+subtitle: "Fiche de révision détaillée"
+tags: ["humanitaire", "meal", "collecte", "echantillonnage", "fiche"]
+---
+
+::: {.callout-note}
+## À propos de cette fiche
+Fiche de révision autonome du troisième cours du certificat *Bases du MEAL* (DisasterReady.org), consacré à la deuxième phase : collecter des données de qualité et opportunes. Elle reprend et reformule l'intégralité du cours, de façon à être comprise sans avoir suivi la formation. Le contenu est synthétisé à partir des supports du cours et aligné sur le Guide MEAL DPro. Les exemples et les personnages (UNITAS, Sydney, Jonathan, Nick Jones-Bannister, vallée Delta River) proviennent du cas fil rouge de la formation.
+
+Cours précédent : [La planification du MEAL](01_meal_c2_planification.qmd) · Retour à la synthèse : [Bases du MEAL](01_meal.qmd).
+:::
+
+## Ce que couvre ce cours
+
+Le cours 2 a construit le plan de suivi, qui décide *quoi* mesurer et *comment*. Ce cours traite l'étape suivante : rassembler concrètement les données, avec la qualité et au moment voulus. Des données de qualité et opportunes permettent de suivre les progrès, de prendre les décisions clés, d'apprendre et d'aider ceux que l'on sert.
+
+Le cours s'organise en six sections : les outils de collecte, les normes de qualité des données, les méthodes d'échantillonnage, la préparation de la collecte, les mécanismes de feedback et réponse, et une application au cas Delta River.
+
+Un fil conducteur relie tout le cours à ce qui précède : l'approche de méthodes mixtes. On utilise des questionnaires pour les mesures quantitatives et des groupes de discussion pour les mesures qualitatives. Les outils de ce cours se répartissent selon cette même ligne.
+
+## Les outils de collecte
+
+Trois outils sont présentés : le questionnaire, l'entretien et le groupe de discussion. Ils se distinguent d'abord par le type de questions qu'ils emploient.
+
+### Le questionnaire
+
+Le questionnaire utilise un ensemble structuré de **questions fermées** pour obtenir des informations **quantitatives** des personnes interrogées. Comme les réponses feront l'objet d'une analyse statistique, elles doivent être facilement codées et comprises. Les questions fermées servent précisément à cela.
+
+#### Les quatre types de questions fermées
+
+| Type | Exemple de question | Réponses possibles |
+|---|---|---|
+| **Numérique** | Combien de personnes vivent au sein de votre ménage ? | Un nombre, ou « Je ne sais pas ». |
+| **Réponse à deux options** | Avez-vous accès à des latrines ? | Oui / Non. |
+| **Choix multiple** | Quelle est la principale source d'eau potable de votre ménage ? | Eau courante ; fontaine publique ; puits protégé ou non protégé ; eau de pluie ; eau de surface. |
+| **Note ou échelle de Likert** | Indiquez votre degré d'accord : « Je me sens en sécurité lorsque je vais collecter de l'eau aux points d'eau améliorés. » | Tout à fait d'accord ; d'accord ; ni d'accord ni pas d'accord ; pas d'accord ; pas du tout d'accord. |
+
+::: {.callout-tip}
+## Pour aller plus loin : l'échelle de Likert
+L'échelle de Likert (du nom du psychologue Rensis Likert) transforme une opinion, donc une matière qualitative, en une variable ordonnée que l'on peut compter. C'est le pont le plus courant entre le ressenti des personnes et l'analyse statistique. Sa limite : l'écart entre « d'accord » et « tout à fait d'accord » n'a pas la même valeur pour tout le monde, ce qui impose la prudence dans les moyennes.
+:::
+
+#### Deux façons d'administrer le questionnaire
+
+Le questionnaire peut être posé directement par un enquêteur, ou rempli seul par le répondant. Le choix a des conséquences fortes, notamment selon le niveau d'alphabétisation de la population.
+
+| | Questions directes (posées par le personnel) | Auto-administrées (remplies par le répondant) |
+|---|---|---|
+| **Avantages** | Le niveau d'alphabétisation du répondant n'est pas un facteur. Les animateurs peuvent motiver et soutenir les personnes interrogées. Coopération élevée et taux de refus faible. | Facile et moins onéreux. Permet d'atteindre une population plus large sur une zone géographique plus étendue. |
+| **Inconvénients** | Peut prendre du temps et coûter cher. Le personnel peut influencer l'interprétation des questions et les réponses. La saisie est difficile si les réponses ne sont pas collectées sur appareil numérique. | Les répondants doivent avoir un niveau d'alphabétisation suffisant. Saisie difficile hors appareil numérique. Taux de réponse potentiellement bas. |
+| **Exigences** | Lieu permettant la discrétion, budget pour les déplacements, animateurs formés. | Processus et budget pour la distribution et la collecte ; peut coûter cher à grande échelle. |
+
+### L'entretien et le groupe de discussion
+
+L'entretien et le groupe de discussion utilisent des **questions ouvertes** pour obtenir des informations **qualitatives** de façon fluide, les répondants répondant avec leurs propres mots.
+
+- **Entretien** : une conversation guidée entre un enquêteur et un seul répondant.
+- **Groupe de discussion** : une discussion guidée entre un animateur et plusieurs répondants réunis.
+
+Dans les deux cas, les questions sont conçues pour explorer et comprendre les perspectives, opinions et idées. Elles sont préparées en amont, rédigées avec soin, et disponibles pendant l'échange.
+
+#### Deux types de questions qualitatives
+
+| Type | Rôle |
+|---|---|
+| **Cartographie du contenu** | Lance l'exploration d'un sujet en soulevant et en explorant largement une question. |
+| **Exploration du contenu** | Questions de suivi pour approfondir la réponse à une question de cartographie. Elles permettent d'explorer des sujets imprévus et exigent de la compétence et de la flexibilité pour adapter la conversation et poser les bonnes questions. |
+
+> Illustration tirée d'un entretien mené par Sydney à Delta River :
+>
+> « D'où vient l'eau que vous buvez ? » (cartographie) — « De la rivière. »
+> « Faites-vous quelque chose à cette eau avant de l'utiliser chez vous ? » (cartographie) — « Pas vraiment, nous la stockons dans des récipients. »
+> « Veuillez me décrire les récipients et le processus de stockage. » (exploration)
+
+La première question ouvre le terrain ; la dernière creuse ce qui vient d'être dit. C'est ce va-et-vient qui fait la richesse du qualitatif, et sa difficulté.
+
+## Les normes de qualité des données
+
+Cinq normes définissent une donnée de qualité. Les biais peuvent toutes les compromettre, ce qui renvoie aux six biais cognitifs vus au [cours 1](01_meal_c1_introduction.qmd).
+
+| Norme | Ce qu'elle exige |
+|---|---|
+| **Validité** | Les données mesurent réellement ce qu'elles sont censées mesurer. |
+| **Fiabilité** | Les données sont collectées selon des procédures et des définitions cohérentes dans le temps et d'un collecteur à l'autre, de sorte que la mesure serait reproductible. |
+| **Précision** | Les données ont un niveau de détail suffisant et sont exactes pour l'usage prévu. |
+| **Intégrité** | Les données sont protégées des manipulations et des erreurs volontaires, avec des mécanismes de contrôle contre la fraude. |
+| **Rapidité d'exécution** | Les données sont collectées et disponibles à temps pour être utiles à la décision. |
+
+::: {.callout-note}
+## Note de fidélité
+Les supports capturés listent les cinq normes mais n'en détaillent pas chaque définition. Les formulations ci-dessus reprennent les définitions standard du secteur (elles correspondent aux normes de qualité des données de l'USAID et du Guide MEAL DPro). Le récapitulatif du cours confirme la validité comme « la mesure de ce que les données sont censées mesurer ».
+:::
+
+## Les méthodes d'échantillonnage
+
+Collecter des données auprès de toute la population est onéreux et long, surtout quand la population est nombreuse ou complexe, comme les habitants de Delta River. On utilise donc un **échantillon** : un sous-ensemble de la population qui aide à comprendre l'ensemble.
+
+### Identifier la population
+
+La première étape consiste à définir clairement la population que l'on veut mieux connaître. Ce n'est pas toujours simple. La population peut être une communauté entière, ou un ensemble de personnes, d'objets ou d'évènements similaires. Le projet doit fixer des **critères d'inclusion et d'exclusion** : participation aux activités, limites géographiques, caractéristiques démographiques, par exemple « les résidents de Delta River ».
+
+### Les deux méthodes
+
+On génère un échantillon de deux manières :
+
+- **Échantillonnage aléatoire** : chaque membre de la population a une chance connue d'être sélectionné.
+- **Échantillonnage non aléatoire** : la sélection repose sur d'autres critères que le hasard.
+
+Les deux permettent de tirer des inférences sur une population plus large, mais pas avec la même portée.
+
+::: {.callout-tip}
+## Pour aller plus loin : ce que chaque méthode autorise
+L'échantillonnage aléatoire est le seul qui permette de généraliser statistiquement les résultats à toute la population, avec une marge d'erreur calculable. L'échantillonnage non aléatoire (par choix raisonné, par quotas, en boule de neige) est utilisé quand l'aléatoire est impossible, par exemple pour atteindre des personnes déplacées difficiles à recenser, mais il limite la généralisation. Le choix n'est pas seulement technique : il détermine ce que vous aurez le droit d'affirmer à partir de vos données.
+:::
+
+### La taille de l'échantillon
+
+Plus la taille de l'échantillon est importante, plus il représente précisément la population. Cette représentativité se mesure par deux statistiques.
+
+- **Marge d'erreur** : de combien de points de pourcentage vos résultats diffèrent de la valeur réelle de la population. Une marge plus faible indique un échantillon plus représentatif. Elle doit être qualifiée par un niveau de confiance.
+- **Niveau de confiance** : le degré de certitude que vos résultats reflètent la population réelle.
+
+> Exemple : un intervalle de confiance de 95 % avec une marge d'erreur de 4 % signifie que, dans 95 % des cas, les données se situent à moins de 4 points de pourcentage de la valeur réelle de la population.
+
+Le calcul d'un échantillon peut nécessiter les services d'un statisticien compétent.
+
+## La préparation de la collecte
+
+Quatre étapes garantissent que les outils de collecte sont performants.
+
+1. **Traduire les outils de collecte** dans les langues de ceux qui les utilisent, afin de réduire les biais.
+2. **Former les collecteurs et tester les outils.** Fournir des instructions écrites et des formations aux collecteurs, nouveaux comme expérimentés. La formation vise deux objectifs : renforcer les compétences des collecteurs et s'assurer que les outils fonctionnent comme prévu.
+3. **Réviser et finaliser les outils** après le test.
+4. **Planifier la mise en œuvre et la gestion des données.** Prévoir assez de temps pour chaque activité. Choisir des lieux (pour entretiens et groupes de discussion) qui garantissent la confidentialité, le confort et l'accessibilité. Prendre les décisions de gestion : qui saisit les données, qui en fait le contrôle qualité et quand, qui protège les données collectées ; comment la vie privée des répondants est protégée, comment les questionnaires remplis sont stockés et protégés.
+
+::: {.callout-important}
+## Le lien avec les cinq principes du cours 1
+L'étape 4 n'est pas de la logistique. « Qui protège les données », « comment la vie privée est protégée », « comment les questionnaires sont stockés » sont la traduction opérationnelle des principes de vie privée, de confidentialité et de sécurité des participants. La qualité éthique d'une collecte se décide ici, avant le terrain, pas après.
+:::
+
+## Les mécanismes de feedback et réponse (MFR)
+
+Les outils de collecte peuvent aussi rassembler des données qui favorisent la **redevabilité** du projet envers ses parties prenantes. Encore faut-il que le personnel et les parties prenantes sachent accéder à ces mécanismes et les utiliser, ce qui suppose des sessions de formation et des instructions claires.
+
+Un MFR a deux faces :
+
+- **Mécanismes de feedback** : les parties prenantes donnent un retour à l'équipe, via des réunions, des entretiens, des groupes de discussion, des boîtes à suggestion, le téléphone et Internet.
+- **Mécanismes de réponse** : l'équipe accuse réception du feedback et répond, via des réunions, le téléphone et Internet, la radio, et d'autres canaux.
+
+Le feedback et la réponse forment un cycle de communication entre la communauté et l'équipe du projet, sur des canaux variés : appareils mobiles et Internet, boîte à suggestion, service d'assistance physique et téléphonique, réunions et ateliers avec la communauté, radio.
+
+::: {.callout-tip}
+## Pour aller plus loin : le MFR et la Norme humanitaire fondamentale
+Un mécanisme de feedback et de plaintes accessible et sûr est l'un des neuf engagements de la Norme humanitaire fondamentale (CHS). Ce que le cours présente comme un outil de collecte est donc aussi une obligation de qualité du secteur : les personnes affectées doivent pouvoir signaler un problème et obtenir une réponse, y compris sur des sujets sensibles comme la fraude ou les abus.
+:::
+
+## Voix de l'expérience : Nick Jones-Bannister (IRC)
+
+Nick Jones-Bannister a dirigé pendant quatre ans l'unité MEAL de l'International Rescue Committee (IRC) pour les programmes de réponse aux crises ; il est aujourd'hui directeur principal des données.
+
+L'IRC combine des mécanismes de feedback proactifs et réactifs : ligne téléphonique, numéro WhatsApp, boîte à suggestion, groupes de discussion, enquêtes. Les retours sont centralisés dans une application qui affecte chaque feedback à un dossier, examiné et traité par un membre du personnel compétent. La réponse peut être individuelle, ou prendre la forme d'une discussion d'équipe sur une adaptation du programme.
+
+L'exemple qu'il donne est parlant. Au Yémen, l'IRC avait installé des cliniques mobiles près des lignes de front. Par ses canaux de feedback, l'organisation a appris qu'un déplacement du conflit obligeait désormais des communautés à de longues et dangereuses marches pour atteindre des cliniques auparavant faciles d'accès. Le sujet a été porté à la réunion de mise en œuvre du projet, où un temps est toujours réservé à ce type de retour, en présence des responsables santé, logistique et sécurité et de la direction. À l'issue des discussions, l'IRC a cherché avec les communautés des emplacements alternatifs et a établi un processus de dialogue régulier pour anticiper les futurs déplacements des cliniques.
+
+La leçon : un mécanisme de feedback ne vaut que par la réponse qu'il déclenche. Sans le temps dédié en réunion et sans le pouvoir de décision autour de la table, le retour du terrain reste lettre morte.
+
+## Le MEAL en pratique : le questionnaire lavage des mains
+
+La dernière section applique le cours au cas Delta River. Il s'agit de développer un questionnaire pour deux indicateurs du résultat « amélioration des comportements de lavage des mains dans six communautés » :
+
+1. À la fin de l'année 3, 80 % des personnes déplacées affirment se laver les mains avec du savon après un évènement critique.
+2. À la fin de l'année 3, 80 % des membres de la communauté utilisent du savon et de l'eau pour se laver les mains.
+
+Les paramètres de la collecte :
+
+- **Échantillon** : un échantillon aléatoire de chefs de ménage parmi 300 familles réparties dans six communautés reculées de Delta River.
+- **Désagrégation** : en sous-groupes incluant les familles déplacées et les familles de la population générale.
+- **Contexte d'alphabétisation** : élevée chez les hommes, particulièrement basse chez les femmes et les personnes déplacées.
+- **Contexte de revenus** : revenus bas, avec des déplacements saisonniers de nombreux hommes vers d'autres régions pour des emplois de récolte.
+- **Fréquence** : le questionnaire est administré quatre fois pour identifier les tendances : une première fois au début du projet pour établir les données de base (*baseline*), puis aux années 1, 2 et 3.
+- **Analyse** : toutes les données sont analysées avec Microsoft Excel.
+
+::: {.callout-warning}
+## Deux décisions du cas à savoir justifier
+**Pourquoi pas un questionnaire auto-administré ?** Parce que l'alphabétisation est basse chez les femmes et les personnes déplacées, précisément les sous-groupes que le projet doit atteindre. Un questionnaire auto-administré les exclurait et trahirait le principe de représentation. La méthode adaptée est le questionnaire posé directement par un enquêteur.
+
+**Le piège du groupe de discussion.** Le cours souligne que si les groupes de discussion sont menés par différents animateurs qui posent des questions différentes, les données collectées risquent de ne pas respecter la norme de **fiabilité** : la mesure n'est plus reproductible d'un groupe à l'autre. D'où l'importance d'un guide d'entretien commun et d'animateurs formés (étape 2 de la préparation).
+:::
+
+## Récapitulatif
+
+Les cinq points à retenir du cours :
+
+1. Les questionnaires collectent des données quantitatives ; les entretiens et les groupes de discussion collectent des données qualitatives. On utilise des questions fermées et des questions ouvertes.
+2. Il existe cinq normes de qualité des données, dont la validité (mesurer ce que l'on est censé mesurer).
+3. Les échantillonnages aléatoire et non aléatoire permettent tous deux de faire des inférences sur une population plus large.
+4. La collecte des données comporte quatre étapes de préparation, dont la traduction des outils de collecte.
+5. Les mécanismes de feedback et réponse permettent aux parties prenantes et au personnel de partager leurs retours, d'éclairer le projet et de mettre au jour des problèmes tels que la fraude.
+
+## Glossaire express
+
+**Question fermée.** Question dont les réponses sont prédéfinies et codables : numérique, à deux options, à choix multiple, échelle de Likert.
+
+**Question ouverte.** Question à laquelle le répondant répond librement, avec ses propres mots.
+
+**Échelle de Likert.** Échelle ordonnée d'accord ou de désaccord, qui rend mesurable une opinion.
+
+**Cartographie / exploration du contenu.** Ouverture large d'un sujet / questions de suivi qui l'approfondissent.
+
+**Échantillon.** Sous-ensemble d'une population utilisé pour comprendre l'ensemble.
+
+**Marge d'erreur.** Écart possible entre le résultat de l'échantillon et la valeur réelle de la population.
+
+**Niveau de confiance.** Probabilité que le résultat reflète la population réelle, par exemple 95 %.
+
+**Données de base (*baseline*).** Première mesure, en début de projet, qui sert de référence pour apprécier les changements.
+
+**MFR.** Mécanismes de feedback et réponse, dispositif de redevabilité envers les parties prenantes.
+
+**Fiabilité.** Qualité d'une mesure reproductible, obtenue avec des procédures cohérentes entre collecteurs et dans le temps.
+
+## Pour aller plus loin
+
+- **Guide MEAL DPro** (PM4NGOs), pour les outils de collecte et les normes de qualité des données.
+- **Les normes de qualité des données** (validité, fiabilité, précision, intégrité, rapidité), telles que formalisées notamment par l'USAID, pour la définition de référence de chacune.
+- **KoBoToolbox**, outil libre de collecte mobile très répandu dans le secteur, pour mettre en pratique la collecte numérique évoquée dans la préparation.
+- **La Norme humanitaire fondamentale (CHS)**, engagement sur les mécanismes de plaintes et de feedback, pour ancrer les MFR dans le standard de redevabilité.
+
+*Prochaine étape du certificat : l'analyse des données MEAL (nettoyage, analyse descriptive, interprétation, triangulation).*

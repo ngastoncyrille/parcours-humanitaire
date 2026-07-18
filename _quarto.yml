@@ -29,6 +29,7 @@ book:
         - 01_meal.qmd
         - 01_meal_c1_introduction.qmd
         - 01_meal_c2_planification.qmd
+        - 01_meal_c3_collecte.qmd
         - 02_action_humanitaire.qmd
         - 03_gestion_projet.qmd
         - 04_surete_securite.qmd

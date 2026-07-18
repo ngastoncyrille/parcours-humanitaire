@@ -44,7 +44,9 @@ Construire un système MEAL dès la conception du projet : cadre logique, choix 
 
 Méthodes quantitatives et qualitatives, échantillonnage, qualité de la donnée, éthique et protection des données, outils de collecte mobile de type KoBoToolbox.
 
-*Ce que j'en retiens : [à compléter — relier à mon usage de R et des bases de données]*
+📄 **Fiche de révision détaillée : [Cours 3 — Collecter les données MEAL](01_meal_c3_collecte.qmd).** Questionnaire et questions fermées, entretiens et groupes de discussion, les cinq normes de qualité, l'échantillonnage (aléatoire, marge d'erreur, niveau de confiance), les quatre étapes de préparation, les mécanismes de feedback et réponse, le cas du questionnaire lavage des mains.
+
+*Ce que j'en retiens : le terrain où je pars avec le plus d'avance, et le cours le confirme sur l'échantillonnage, la marge d'erreur et le niveau de confiance, que je manipule déjà sous R. Ce que j'y gagne est ailleurs : la discipline des normes de qualité (surtout la fiabilité inter-collecteurs), le réflexe d'adapter le mode d'administration au niveau d'alphabétisation des sous-groupes, et la lecture de la collecte comme un acte de redevabilité et non une simple extraction de données.*
 
 ### 4. Analyser les données MEAL
 
