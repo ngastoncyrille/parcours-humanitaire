@@ -5,7 +5,7 @@ tags: ["humanitaire", "meal", "suivi-evaluation", "donnees"]
 ---
 
 ::: {.callout-note}
-En cours (9-16 juillet 2026). Le programme est prérempli d'après la structure du certificat ; les sections « Ce que j'en retiens » se complètent séance par séance. Dernière mise à jour : 2026-07-09.
+Les cinq cours sont documentés : chacun a sa fiche de révision détaillée, accessible ci-dessous. Reste l'examen final cumulatif (75 % requis) pour valider le certificat. Dernière mise à jour : 2026-07-19.
 :::
 
 **Organisme** : DisasterReady.org · **Durée** : 4 h 20, cinq cours et un examen · **Référentiel** : Guide DPro MEAL · **Badge** : *[lien à insérer]*
@@ -63,17 +63,3 @@ Faire vivre la donnée : restitution, visualisation, rapports, boucles d'apprent
 📄 **Fiche de révision détaillée : [Cours 5 — Utiliser les données MEAL](01_meal_c5_utilisation.qmd).** Les quatre usages (reporting, gestion adaptative, redevabilité, apprentissage), l'apprentissage organisationnel et sectoriel, les quatre étapes de la visualisation, les cinq formats de graphiques et leurs usages, le cas du choix de format.
 
 *Ce que j'en retiens : la phase qui donne son sens à tout le reste, et celle où mon réflexe de data scientist doit s'inverser. Je pense d'abord au graphique ; le cours impose de partir du public et du message, puis d'en déduire le format. La logique des cinq formats (composition, comparaison, évolution, géographie, relation) est un aide-mémoire réutilisable, et le lien tableau de bord / gestion adaptative rejoint mon envie de rendre la donnée autonome pour les décideurs, sous R Shiny comme sous Power BI.*
-
-### Examen (75 % requis)
-
-*Résultat : [à compléter]*
-
-## Application Afrique de l'Ouest
-
-À développer une fois la formation avancée : à quoi ressemblerait un dispositif MEAL sur un projet WASH ou de réduction des risques d'inondation au Sahel. Points d'ancrage possibles : le suivi mené à l'Agence de l'Eau du Nakanbé, le système SYCOVASE-Nakanbé, la question de la redevabilité envers des ménages ruraux peu alphabétisés, la collecte de données en zone d'accès difficile.
-
-*[à enrichir]*
-
-## Compétences validées
-
-*[à compléter après l'examen : ce que je peux désormais revendiquer en CV ou en entretien]*

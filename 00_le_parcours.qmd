@@ -32,9 +32,6 @@ Je m'impose une discipline simple : une heure par jour ouvré, pas plus, pour ne
 Chaque chapitre de ce carnet suit la même trame :
 
 1. **Pourquoi ce certificat.** Le raisonnement derrière le choix : ce que le certificat est, ce que j'ai déjà, ce qu'il vient combler, à quoi il sert pour mon objectif.
-2. **Le programme.** La structure réelle des modules, préremplie, prête à recevoir mes notes.
-3. **Ce que j'en retiens.** Complété séance après séance, module par module.
-4. **Application Afrique de l'Ouest.** L'angle qui me distingue, relié à mes travaux et au terrain sahélien.
-5. **Compétences validées.** Rempli une fois l'examen passé, dans une formulation directement réutilisable en CV ou en entretien.
+2. **Le programme, cours par cours.** Pour chaque cours, une fiche de révision détaillée et autonome, compréhensible sans avoir suivi la formation, suivie de ce que j'en retiens personnellement.
 
 Je publie chaque chapitre avant de l'avoir fini. Une ossature en ligne vaut mieux qu'un texte parfait jamais mis à disposition.
