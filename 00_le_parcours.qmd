@@ -11,23 +11,24 @@ Plutôt que d'attendre un hypothétique poste pour apprendre sur le tas, j'ai d�
 
 ## Les certificats retenus
 
-Cinq certificats, choisis pour combler des manques précis et non pour empiler des lignes de CV. Tous sont proposés par DisasterReady.org, gratuits, disponibles en français, et adossés à des référentiels du secteur.
+Six certificats, choisis pour combler des manques précis et non pour empiler des lignes de CV. Tous sont accessibles gratuitement sur DisasterReady.org, en français, et adossés à des référentiels du secteur (guides DPro, standards Oxfam, etc.).
 
 | # | Certificat | Durée | Ce qu'il comble | Statut |
 |---|---|---|---|---|
 | 1 | [Bases du MEAL](01_meal.qmd) | 4 h 20 | Le cadre suivi-évaluation autour de mes compétences data | 🟢 terminé (20/07/2026) |
-| 2 | [Fondements de l'action humanitaire](02_action_humanitaire.qmd) | ~4 h | Les principes, le droit, l'architecture du secteur | 🔴 à venir |
-| 3 | [Gestion de projet (DPro)](03_gestion_projet.qmd) | 5 h | Le référentiel projet attendu partout | 🔴 à venir |
-| 4 | [Sûreté et sécurité personnelles](04_surete_securite.qmd) | 2 h 30 | Les réflexes pour être déployable | 🔴 à venir |
-| 5 | [Recherche de subventions](05_recherche_subventions.qmd) | 3 h | Financement et proposition, utile aussi au bureau HRC | 🔴 à venir |
+| 2 | [Gestion de projets techniques en cas d'urgence EHA](06_wash_tpm.qmd) | 14 h | La conduite de projet appliquée à mon métier : l'ingénierie WASH en urgence | 🟡 en cours (priorité) |
+| 3 | [Fondements de l'action humanitaire](02_action_humanitaire.qmd) | ~4 h | Les principes, le droit, l'architecture du secteur | 🔴 à venir |
+| 4 | [Gestion de projet (DPro)](03_gestion_projet.qmd) | 5 h | Le référentiel projet générique attendu partout | 🔴 à venir |
+| 5 | [Sûreté et sécurité personnelles](04_surete_securite.qmd) | 2 h 30 | Les réflexes pour être déployable | 🔴 à venir |
+| 6 | [Recherche de subventions](05_recherche_subventions.qmd) | 3 h | Financement et proposition, utile aussi au bureau HRC | 🔴 à venir |
 
 Légende : 🔴 à venir · 🟡 en cours · 🟢 terminé et validé (examen réussi, badge obtenu).
 
-L'ordre suit une logique. Le MEAL d'abord, parce que c'est là que je capitalise le plus vite sur ce que je sais déjà faire. Les fondements de l'action humanitaire ensuite, pour poser le cadre général. La gestion de projet pour structurer. La sûreté, courte, comme un prérequis de déployabilité. La recherche de subventions pour finir, à cheval entre l'emploi salarié et mon projet de bureau d'études.
+L'ordre suit une logique, revue en cours de route. Le MEAL d'abord, parce que c'est là que je capitalise le plus vite sur ce que je sais déjà faire. La gestion de projets techniques WASH ensuite, devenue ma priorité : c'est le certificat qui colle le plus à mon métier de l'eau et à mon positionnement, celui qui fait le pont entre ma technique et la conduite de projet humanitaire. Les fondements de l'action humanitaire pour poser le cadre général. Le DPro pour le référentiel projet générique. La sûreté, courte, comme un prérequis de déployabilité. La recherche de subventions pour finir, à cheval entre l'emploi salarié et mon projet de bureau d'études.
 
 ## La méthode
 
-Je m'impose une discipline simple : une heure par jour ouvré, pas plus, pour ne pas empiéter sur la fin de mon mémoire. À ce rythme, le parcours tient sur cinq semaines, de la mi-juillet à la mi-août 2026.
+Je m'impose une discipline simple : une heure par jour ouvré, pas plus, pour ne pas empiéter sur la fin de mon mémoire ni sur mes autres projets en cours. Le certificat WASH, plus dense (14 heures), s'étale sur environ trois semaines. Les autres suivront ensuite, à mon rythme, sans calendrier figé.
 
 Chaque chapitre de ce carnet suit la même trame :
 

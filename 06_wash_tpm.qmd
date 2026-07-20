@@ -1,0 +1,33 @@
+---
+title: "Gestion de projets techniques en cas d'urgence EHA"
+subtitle: "Conduite de projet WASH en contexte humanitaire (Oxfam)"
+tags: ["humanitaire", "wash", "eha", "gestion-de-projet", "oxfam"]
+---
+
+::: {.callout-note}
+Certificat en cours, démarré en juillet 2026 : ma priorité actuelle du parcours. Les fiches de révision détaillées s'ajouteront module par module, au même format que celles du MEAL. Formation dense (14 heures, 14 modules), suivie sur environ trois semaines. À noter : elle n'est pas accessible sur mobile ni tablette, je la suis donc sur ordinateur.
+:::
+
+**Organisme** : DisasterReady.org · **Fournisseur** : Oxfam · **Durée** : 14 h, 14 modules · **Matière** : Eau, assainissement et hygiène (EAH / WASH) · **Langues** : français, anglais · **Statut** : en cours (priorité)
+
+## Pourquoi ce certificat
+
+Les autres certificats du parcours m'apprennent la grammaire du secteur humanitaire. Celui-ci l'applique directement à mon métier. Le WASH, l'eau, l'assainissement et l'hygiène, c'est mon terrain technique d'origine : hydrologie, ressources en eau, ouvrages. Ici, je ne pars pas de zéro pour découvrir un domaine, je pars de ce que je sais déjà pour apprendre à le conduire en projet, et en situation d'urgence.
+
+C'est ce qui en fait, pour mon profil, le certificat le plus distinctif. Le MEAL et le DPro sont transversaux : ils valent pour n'importe quel projet. Celui-ci est vertical. Il prend le cycle de projet et l'installe dans un contexte d'ingénierie EHA : la planification, les ressources, la mise en œuvre, la logistique, la gestion des risques, le contrôle de la qualité d'un projet d'eau et d'assainissement.
+
+Pour un recruteur, c'est le certificat qui rend mon profil cohérent. Il ne dit pas « un hydrologue qui essaie de se reconvertir dans l'humanitaire ». Il dit « un chef de projet WASH qui a, en plus, une expertise technique de l'eau ». C'est exactement le positionnement que je vise, et c'est celui qui sert le mieux mon bureau d'études comme mes candidatures.
+
+Le certificat est proposé par Oxfam, un acteur de référence sur le WASH humanitaire. Il est plus lourd que les autres, 14 modules pour 14 heures. J'accepte cette charge parce que c'est le certificat le plus directement employable de tout mon parcours.
+
+## Le programme
+
+D'après la description officielle, le certificat couvre la planification, les ressources et la mise en œuvre d'un projet d'ingénierie EHA (WASH en anglais). Il présente les étapes et les outils standards de gestion de projet, de façon pratique et appliquée, et couvre notamment :
+
+- les processus logistiques ;
+- la gestion des risques ;
+- le contrôle de la qualité.
+
+Le parcours est organisé en 14 modules autour du référentiel Oxfam *Technical Project Management (TPM) in WASH Emergencies*.
+
+*Les fiches de révision détaillées, module par module, seront ajoutées ici au fil de la formation, dans le même esprit que celles du certificat MEAL : un contenu autonome, compréhensible sans avoir suivi le cours, suivi de ce que j'en retiens pour mon terrain sahélien.*

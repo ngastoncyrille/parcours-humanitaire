@@ -35,7 +35,7 @@
     "href": "00_le_parcours.html#les-certificats-retenus",
     "title": "2  Le parcours",
     "section": "2.2 Les certificats retenus",
-    "text": "2.2 Les certificats retenus\nCinq certificats, choisis pour combler des manques précis et non pour empiler des lignes de CV. Tous sont proposés par DisasterReady.org, gratuits, disponibles en français, et adossés à des référentiels du secteur.\n\n\n\n#\nCertificat\nDurée\nCe qu’il comble\nStatut\n\n\n\n\n1\nBases du MEAL\n4 h 20\nLe cadre suivi-évaluation autour de mes compétences data\n🟢 terminé (20/07/2026)\n\n\n2\nFondements de l’action humanitaire\n~4 h\nLes principes, le droit, l’architecture du secteur\n🔴 à venir\n\n\n3\nGestion de projet (DPro)\n5 h\nLe référentiel projet attendu partout\n🔴 à venir\n\n\n4\nSûreté et sécurité personnelles\n2 h 30\nLes réflexes pour être déployable\n🔴 à venir\n\n\n5\nRecherche de subventions\n3 h\nFinancement et proposition, utile aussi au bureau HRC\n🔴 à venir\n\n\n\nLégende : 🔴 à venir · 🟡 en cours · 🟢 terminé et validé (examen réussi, badge obtenu).\nL’ordre suit une logique. Le MEAL d’abord, parce que c’est là que je capitalise le plus vite sur ce que je sais déjà faire. Les fondements de l’action humanitaire ensuite, pour poser le cadre général. La gestion de projet pour structurer. La sûreté, courte, comme un prérequis de déployabilité. La recherche de subventions pour finir, à cheval entre l’emploi salarié et mon projet de bureau d’études.",
+    "text": "2.2 Les certificats retenus\nSix certificats, choisis pour combler des manques précis et non pour empiler des lignes de CV. Tous sont accessibles gratuitement sur DisasterReady.org, en français, et adossés à des référentiels du secteur (guides DPro, standards Oxfam, etc.).\n\n\n\n#\nCertificat\nDurée\nCe qu’il comble\nStatut\n\n\n\n\n1\nBases du MEAL\n4 h 20\nLe cadre suivi-évaluation autour de mes compétences data\n🟢 terminé (20/07/2026)\n\n\n2\nGestion de projets techniques en cas d’urgence EHA\n14 h\nLa conduite de projet appliquée à mon métier : l’ingénierie WASH en urgence\n🟡 en cours (priorité)\n\n\n3\nFondements de l’action humanitaire\n~4 h\nLes principes, le droit, l’architecture du secteur\n🔴 à venir\n\n\n4\nGestion de projet (DPro)\n5 h\nLe référentiel projet générique attendu partout\n🔴 à venir\n\n\n5\nSûreté et sécurité personnelles\n2 h 30\nLes réflexes pour être déployable\n🔴 à venir\n\n\n6\nRecherche de subventions\n3 h\nFinancement et proposition, utile aussi au bureau HRC\n🔴 à venir\n\n\n\nLégende : 🔴 à venir · 🟡 en cours · 🟢 terminé et validé (examen réussi, badge obtenu).\nL’ordre suit une logique, revue en cours de route. Le MEAL d’abord, parce que c’est là que je capitalise le plus vite sur ce que je sais déjà faire. La gestion de projets techniques WASH ensuite, devenue ma priorité : c’est le certificat qui colle le plus à mon métier de l’eau et à mon positionnement, celui qui fait le pont entre ma technique et la conduite de projet humanitaire. Les fondements de l’action humanitaire pour poser le cadre général. Le DPro pour le référentiel projet générique. La sûreté, courte, comme un prérequis de déployabilité. La recherche de subventions pour finir, à cheval entre l’emploi salarié et mon projet de bureau d’études.",
     "crumbs": [
       "Le parcours",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Le parcours</span>"
@@ -46,7 +46,7 @@
     "href": "00_le_parcours.html#la-méthode",
     "title": "2  Le parcours",
     "section": "2.3 La méthode",
-    "text": "2.3 La méthode\nJe m’impose une discipline simple : une heure par jour ouvré, pas plus, pour ne pas empiéter sur la fin de mon mémoire. À ce rythme, le parcours tient sur cinq semaines, de la mi-juillet à la mi-août 2026.\nChaque chapitre de ce carnet suit la même trame :\n\nPourquoi ce certificat. Le raisonnement derrière le choix : ce que le certificat est, ce que j’ai déjà, ce qu’il vient combler, à quoi il sert pour mon objectif.\nLe programme, cours par cours. Pour chaque cours, une fiche de révision détaillée et autonome, compréhensible sans avoir suivi la formation, suivie de ce que j’en retiens personnellement.\n\nJe publie chaque chapitre avant de l’avoir fini. Une ossature en ligne vaut mieux qu’un texte parfait jamais mis à disposition.",
+    "text": "2.3 La méthode\nJe m’impose une discipline simple : une heure par jour ouvré, pas plus, pour ne pas empiéter sur la fin de mon mémoire ni sur mes autres projets en cours. Le certificat WASH, plus dense (14 heures), s’étale sur environ trois semaines. Les autres suivront ensuite, à mon rythme, sans calendrier figé.\nChaque chapitre de ce carnet suit la même trame :\n\nPourquoi ce certificat. Le raisonnement derrière le choix : ce que le certificat est, ce que j’ai déjà, ce qu’il vient combler, à quoi il sert pour mon objectif.\nLe programme, cours par cours. Pour chaque cours, une fiche de révision détaillée et autonome, compréhensible sans avoir suivi la formation, suivie de ce que j’en retiens personnellement.\n\nJe publie chaque chapitre avant de l’avoir fini. Une ossature en ligne vaut mieux qu’un texte parfait jamais mis à disposition.",
     "crumbs": [
       "Le parcours",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Le parcours</span>"
@@ -590,179 +590,201 @@
     ]
   },
   {
+    "objectID": "06_wash_tpm.html",
+    "href": "06_wash_tpm.html",
+    "title": "8  Gestion de projets techniques en cas d’urgence EHA",
+    "section": "",
+    "text": "8.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org · Fournisseur : Oxfam · Durée : 14 h, 14 modules · Matière : Eau, assainissement et hygiène (EAH / WASH) · Langues : français, anglais · Statut : en cours (priorité)\nLes autres certificats du parcours m’apprennent la grammaire du secteur humanitaire. Celui-ci l’applique directement à mon métier. Le WASH, l’eau, l’assainissement et l’hygiène, c’est mon terrain technique d’origine : hydrologie, ressources en eau, ouvrages. Ici, je ne pars pas de zéro pour découvrir un domaine, je pars de ce que je sais déjà pour apprendre à le conduire en projet, et en situation d’urgence.\nC’est ce qui en fait, pour mon profil, le certificat le plus distinctif. Le MEAL et le DPro sont transversaux : ils valent pour n’importe quel projet. Celui-ci est vertical. Il prend le cycle de projet et l’installe dans un contexte d’ingénierie EHA : la planification, les ressources, la mise en œuvre, la logistique, la gestion des risques, le contrôle de la qualité d’un projet d’eau et d’assainissement.\nPour un recruteur, c’est le certificat qui rend mon profil cohérent. Il ne dit pas « un hydrologue qui essaie de se reconvertir dans l’humanitaire ». Il dit « un chef de projet WASH qui a, en plus, une expertise technique de l’eau ». C’est exactement le positionnement que je vise, et c’est celui qui sert le mieux mon bureau d’études comme mes candidatures.\nLe certificat est proposé par Oxfam, un acteur de référence sur le WASH humanitaire. Il est plus lourd que les autres, 14 modules pour 14 heures. J’accepte cette charge parce que c’est le certificat le plus directement employable de tout mon parcours.",
+    "crumbs": [
+      "Gestion de projets techniques en cas d'urgence EHA",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Gestion de projets techniques en cas d'urgence EHA</span>"
+    ]
+  },
+  {
+    "objectID": "06_wash_tpm.html#le-programme",
+    "href": "06_wash_tpm.html#le-programme",
+    "title": "8  Gestion de projets techniques en cas d’urgence EHA",
+    "section": "8.2 Le programme",
+    "text": "8.2 Le programme\nD’après la description officielle, le certificat couvre la planification, les ressources et la mise en œuvre d’un projet d’ingénierie EHA (WASH en anglais). Il présente les étapes et les outils standards de gestion de projet, de façon pratique et appliquée, et couvre notamment :\n\nles processus logistiques ;\nla gestion des risques ;\nle contrôle de la qualité.\n\nLe parcours est organisé en 14 modules autour du référentiel Oxfam Technical Project Management (TPM) in WASH Emergencies.\nLes fiches de révision détaillées, module par module, seront ajoutées ici au fil de la formation, dans le même esprit que celles du certificat MEAL : un contenu autonome, compréhensible sans avoir suivi le cours, suivi de ce que j’en retiens pour mon terrain sahélien.",
+    "crumbs": [
+      "Gestion de projets techniques en cas d'urgence EHA",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Gestion de projets techniques en cas d'urgence EHA</span>"
+    ]
+  },
+  {
     "objectID": "02_action_humanitaire.html",
     "href": "02_action_humanitaire.html",
-    "title": "8  Fondements de l’action humanitaire",
+    "title": "9  Fondements de l’action humanitaire",
     "section": "",
-    "text": "8.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org · Durée : environ 4 h, neuf domaines et un examen · Langue : français · Badge : [lien à insérer]\nC’est le certificat qui comble mon plus gros écart. Je connais le risque par sa face technique, celle de l’aléa qu’on mesure et qu’on cartographie. L’humanitaire l’aborde par l’autre bout : la protection des personnes, un cadre juridique, des principes et une architecture d’acteurs. Ce terrain-là, je ne le maîtrise pas encore, et c’est précisément celui qu’un employeur du secteur suppose acquis.\nLa Core Humanitarian Certification est souvent présentée comme la base commune attendue de tout profil qui entre dans le métier. Elle balaie l’ensemble du champ, du droit international humanitaire au financement de l’aide, du cycle de projet aux standards de conduite. Pour quelqu’un qui vient d’une administration technique, c’est le passage qui transforme un ingénieur compétent en candidat crédible pour une ONG.\nJ’ai déjà mis un pied dans ce monde avec la formation présentielle « Osons l’Humanitaire », suivie avec la Croix-Rouge de Belgique en février 2026 : premier contact avec le droit international humanitaire, la diplomatie humanitaire et les réalités opérationnelles. Ce certificat vient structurer et compléter ces notions éparses en un cadre cohérent.\nJe le place en deuxième position, juste après le MEAL, parce qu’il donne le décor général dans lequel tout le reste prend sens.",
+    "text": "9.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org · Durée : environ 4 h, neuf domaines et un examen · Langue : français · Badge : [lien à insérer]\nC’est le certificat qui comble mon plus gros écart. Je connais le risque par sa face technique, celle de l’aléa qu’on mesure et qu’on cartographie. L’humanitaire l’aborde par l’autre bout : la protection des personnes, un cadre juridique, des principes et une architecture d’acteurs. Ce terrain-là, je ne le maîtrise pas encore, et c’est précisément celui qu’un employeur du secteur suppose acquis.\nLa Core Humanitarian Certification est souvent présentée comme la base commune attendue de tout profil qui entre dans le métier. Elle balaie l’ensemble du champ, du droit international humanitaire au financement de l’aide, du cycle de projet aux standards de conduite. Pour quelqu’un qui vient d’une administration technique, c’est le passage qui transforme un ingénieur compétent en candidat crédible pour une ONG.\nJ’ai déjà mis un pied dans ce monde avec la formation présentielle « Osons l’Humanitaire », suivie avec la Croix-Rouge de Belgique en février 2026 : premier contact avec le droit international humanitaire, la diplomatie humanitaire et les réalités opérationnelles. Ce certificat vient structurer et compléter ces notions éparses en un cadre cohérent.\nJe le place en deuxième position, juste après le MEAL, parce qu’il donne le décor général dans lequel tout le reste prend sens.",
     "crumbs": [
       "Fondements de l'action humanitaire",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
     ]
   },
   {
     "objectID": "02_action_humanitaire.html#le-programme",
     "href": "02_action_humanitaire.html#le-programme",
-    "title": "8  Fondements de l’action humanitaire",
-    "section": "8.2 Le programme",
-    "text": "8.2 Le programme\nLa certification couvre neuf domaines.\n\n8.2.1 1. Bases de l’action humanitaire\nCe qu’est l’action humanitaire, son histoire, ses acteurs (agences des Nations unies, Mouvement de la Croix-Rouge et du Croissant-Rouge, ONG internationales et locales), la distinction entre urgence, relèvement et développement.\nCe que j’en retiens : [à compléter]\n\n\n8.2.2 2. Cadre juridique international\nDroit international humanitaire, droit des réfugiés, droit international des droits humains. Protection des civils, distinction entre combattants et non-combattants.\nCe que j’en retiens : [à compléter — recouper avec le module DIH d’Osons l’Humanitaire]\n\n\n8.2.3 3. Enjeux transversaux\nGenre, protection, inclusion du handicap, environnement, redevabilité envers les populations affectées.\nCe que j’en retiens : [à compléter]\n\n\n8.2.4 4. Financement de l’aide humanitaire\nArchitecture du financement : bailleurs institutionnels, appels de fonds, mécanismes de fonds communs, chaîne de redevabilité.\nCe que j’en retiens : [à compléter]\n\n\n8.2.5 5. Élaboration de propositions de subventions\nLogique d’une proposition, cadre logique, budget. Recoupe le chapitre « Recherche de subventions » de ce carnet.\nCe que j’en retiens : [à compléter]\n\n\n8.2.6 6. Cycle de projet humanitaire\nLes étapes du Humanitarian Programme Cycle : évaluation des besoins, planification stratégique, mobilisation des ressources, mise en œuvre, suivi, revue.\nCe que j’en retiens : [à compléter — comparer au cycle DPro]\n\n\n8.2.7 7. Sécurité et devoir de diligence\nGestion de la sécurité, devoir de diligence de l’employeur, logiques d’acceptation, de protection et de dissuasion. Recoupe le chapitre « Sûreté et sécurité personnelles ».\nCe que j’en retiens : [à compléter]\n\n\n8.2.8 8. Information, données et technologie\nGestion de l’information dans le secteur, protection des données, technologies au service de la réponse.\nCe que j’en retiens : [à compléter — terrain proche de mon profil data et SIG]\n\n\n8.2.9 9. Professionnalisme dans le travail humanitaire\nStandards de conduite, prévention de l’exploitation et des abus sexuels (PSEA), Core Humanitarian Standard, développement professionnel.\nCe que j’en retiens : [à compléter]\n\n\n8.2.10 Examen\nRésultat : [à compléter]",
+    "title": "9  Fondements de l’action humanitaire",
+    "section": "9.2 Le programme",
+    "text": "9.2 Le programme\nLa certification couvre neuf domaines.\n\n9.2.1 1. Bases de l’action humanitaire\nCe qu’est l’action humanitaire, son histoire, ses acteurs (agences des Nations unies, Mouvement de la Croix-Rouge et du Croissant-Rouge, ONG internationales et locales), la distinction entre urgence, relèvement et développement.\nCe que j’en retiens : [à compléter]\n\n\n9.2.2 2. Cadre juridique international\nDroit international humanitaire, droit des réfugiés, droit international des droits humains. Protection des civils, distinction entre combattants et non-combattants.\nCe que j’en retiens : [à compléter — recouper avec le module DIH d’Osons l’Humanitaire]\n\n\n9.2.3 3. Enjeux transversaux\nGenre, protection, inclusion du handicap, environnement, redevabilité envers les populations affectées.\nCe que j’en retiens : [à compléter]\n\n\n9.2.4 4. Financement de l’aide humanitaire\nArchitecture du financement : bailleurs institutionnels, appels de fonds, mécanismes de fonds communs, chaîne de redevabilité.\nCe que j’en retiens : [à compléter]\n\n\n9.2.5 5. Élaboration de propositions de subventions\nLogique d’une proposition, cadre logique, budget. Recoupe le chapitre « Recherche de subventions » de ce carnet.\nCe que j’en retiens : [à compléter]\n\n\n9.2.6 6. Cycle de projet humanitaire\nLes étapes du Humanitarian Programme Cycle : évaluation des besoins, planification stratégique, mobilisation des ressources, mise en œuvre, suivi, revue.\nCe que j’en retiens : [à compléter — comparer au cycle DPro]\n\n\n9.2.7 7. Sécurité et devoir de diligence\nGestion de la sécurité, devoir de diligence de l’employeur, logiques d’acceptation, de protection et de dissuasion. Recoupe le chapitre « Sûreté et sécurité personnelles ».\nCe que j’en retiens : [à compléter]\n\n\n9.2.8 8. Information, données et technologie\nGestion de l’information dans le secteur, protection des données, technologies au service de la réponse.\nCe que j’en retiens : [à compléter — terrain proche de mon profil data et SIG]\n\n\n9.2.9 9. Professionnalisme dans le travail humanitaire\nStandards de conduite, prévention de l’exploitation et des abus sexuels (PSEA), Core Humanitarian Standard, développement professionnel.\nCe que j’en retiens : [à compléter]\n\n\n9.2.10 Examen\nRésultat : [à compléter]",
     "crumbs": [
       "Fondements de l'action humanitaire",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
     ]
   },
   {
     "objectID": "02_action_humanitaire.html#application-afrique-de-louest",
     "href": "02_action_humanitaire.html#application-afrique-de-louest",
-    "title": "8  Fondements de l’action humanitaire",
-    "section": "8.3 Application Afrique de l’Ouest",
-    "text": "8.3 Application Afrique de l’Ouest\n[à enrichir : comment ces principes se confrontent au contexte sahélien, aux crises du Burkina depuis 2016, à la question de l’accès humanitaire et de la localisation de l’aide]",
+    "title": "9  Fondements de l’action humanitaire",
+    "section": "9.3 Application Afrique de l’Ouest",
+    "text": "9.3 Application Afrique de l’Ouest\n[à enrichir : comment ces principes se confrontent au contexte sahélien, aux crises du Burkina depuis 2016, à la question de l’accès humanitaire et de la localisation de l’aide]",
     "crumbs": [
       "Fondements de l'action humanitaire",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
     ]
   },
   {
     "objectID": "02_action_humanitaire.html#compétences-validées",
     "href": "02_action_humanitaire.html#compétences-validées",
-    "title": "8  Fondements de l’action humanitaire",
-    "section": "8.4 Compétences validées",
-    "text": "8.4 Compétences validées\n[à compléter après l’examen]",
+    "title": "9  Fondements de l’action humanitaire",
+    "section": "9.4 Compétences validées",
+    "text": "9.4 Compétences validées\n[à compléter après l’examen]",
     "crumbs": [
       "Fondements de l'action humanitaire",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Fondements de l'action humanitaire</span>"
     ]
   },
   {
     "objectID": "03_gestion_projet.html",
     "href": "03_gestion_projet.html",
-    "title": "9  Fondamentaux de la gestion de projet (DPro)",
+    "title": "10  Fondamentaux de la gestion de projet (DPro)",
     "section": "",
-    "text": "9.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org · Durée : 5 h, plusieurs cours et un examen (75 % requis) · Référentiel : Guide Project DPro · Badge : [lien à insérer]\nLe badge DPro est explicitement demandé ou valorisé dans une grande partie des offres « officer » et « advisor » des ONG et des agences. Ce n’est pas un certificat de plus, c’est presque un standard d’entrée pour piloter un projet dans le secteur.\nJ’ai déjà géré des activités, des livrables et des échéances dans l’administration burkinabè. Mais c’est une culture projet d’administration publique, avec ses procédures propres, pas celle du développement international. Les deux mondes ne parlent pas tout à fait la même langue. Le DPro me donne le vocabulaire et les outils que mes interlocuteurs attendent : arbre à problèmes, matrice des parties prenantes, cadre logique, structure de découpage du travail, registre des risques, gestion adaptative.\nIl y a aussi un bénéfice de cohérence. Le DPro partage sa colonne vertébrale, le cadre logique, avec le MEAL et avec la recherche de subventions. En le suivant après le MEAL, je consolide un même socle méthodologique vu sous trois angles : concevoir, mesurer, financer. C’est pourquoi je le place en troisième position, une fois le cadre général posé.",
+    "text": "10.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org · Durée : 5 h, plusieurs cours et un examen (75 % requis) · Référentiel : Guide Project DPro · Badge : [lien à insérer]\nLe badge DPro est explicitement demandé ou valorisé dans une grande partie des offres « officer » et « advisor » des ONG et des agences. Ce n’est pas un certificat de plus, c’est presque un standard d’entrée pour piloter un projet dans le secteur.\nJ’ai déjà géré des activités, des livrables et des échéances dans l’administration burkinabè. Mais c’est une culture projet d’administration publique, avec ses procédures propres, pas celle du développement international. Les deux mondes ne parlent pas tout à fait la même langue. Le DPro me donne le vocabulaire et les outils que mes interlocuteurs attendent : arbre à problèmes, matrice des parties prenantes, cadre logique, structure de découpage du travail, registre des risques, gestion adaptative.\nIl y a aussi un bénéfice de cohérence. Le DPro partage sa colonne vertébrale, le cadre logique, avec le MEAL et avec la recherche de subventions. En le suivant après le MEAL, je consolide un même socle méthodologique vu sous trois angles : concevoir, mesurer, financer. C’est pourquoi je le place en troisième position, une fois le cadre général posé.",
     "crumbs": [
       "Fondamentaux de la gestion de projet (DPro)",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
     ]
   },
   {
     "objectID": "03_gestion_projet.html#le-programme",
     "href": "03_gestion_projet.html#le-programme",
-    "title": "9  Fondamentaux de la gestion de projet (DPro)",
-    "section": "9.2 Le programme",
-    "text": "9.2 Le programme\nLe référentiel DPro structure le projet en phases successives.\n\n9.2.1 1. Introduction et cadrage\nCe qu’est un projet, le rôle du chef de projet, les principes du DPro, l’équilibre entre contenu, délais, budget et qualité.\nCe que j’en retiens : [à compléter]\n\n\n9.2.2 2. Identification et conception\nAnalyse des besoins, des parties prenantes et des problèmes (arbre à problèmes), théorie du changement, cadre logique, indicateurs.\nCe que j’en retiens : [à compléter — recouper avec le MEAL]\n\n\n9.2.3 3. Planification\nStructure de découpage du travail, calendrier, budget, plan de gestion des risques, plan d’approvisionnement.\nCe que j’en retiens : [à compléter]\n\n\n9.2.4 4. Mise en œuvre\nPilotage de l’exécution, gestion de l’équipe et des ressources, gestion des parties prenantes, gestion des problèmes et des changements.\nCe que j’en retiens : [à compléter]\n\n\n9.2.5 5. Suivi, évaluation et contrôle\nSuivi de l’avancement, tableaux de bord, gestion adaptative. Interface directe avec le MEAL.\nCe que j’en retiens : [à compléter]\n\n\n9.2.6 6. Clôture et transition\nClôture administrative, financière et contractuelle, capitalisation, transition vers les bénéficiaires ou vers une phase suivante.\nCe que j’en retiens : [à compléter]\n\n\n9.2.7 Examen (75 % requis)\nRésultat : [à compléter]",
+    "title": "10  Fondamentaux de la gestion de projet (DPro)",
+    "section": "10.2 Le programme",
+    "text": "10.2 Le programme\nLe référentiel DPro structure le projet en phases successives.\n\n10.2.1 1. Introduction et cadrage\nCe qu’est un projet, le rôle du chef de projet, les principes du DPro, l’équilibre entre contenu, délais, budget et qualité.\nCe que j’en retiens : [à compléter]\n\n\n10.2.2 2. Identification et conception\nAnalyse des besoins, des parties prenantes et des problèmes (arbre à problèmes), théorie du changement, cadre logique, indicateurs.\nCe que j’en retiens : [à compléter — recouper avec le MEAL]\n\n\n10.2.3 3. Planification\nStructure de découpage du travail, calendrier, budget, plan de gestion des risques, plan d’approvisionnement.\nCe que j’en retiens : [à compléter]\n\n\n10.2.4 4. Mise en œuvre\nPilotage de l’exécution, gestion de l’équipe et des ressources, gestion des parties prenantes, gestion des problèmes et des changements.\nCe que j’en retiens : [à compléter]\n\n\n10.2.5 5. Suivi, évaluation et contrôle\nSuivi de l’avancement, tableaux de bord, gestion adaptative. Interface directe avec le MEAL.\nCe que j’en retiens : [à compléter]\n\n\n10.2.6 6. Clôture et transition\nClôture administrative, financière et contractuelle, capitalisation, transition vers les bénéficiaires ou vers une phase suivante.\nCe que j’en retiens : [à compléter]\n\n\n10.2.7 Examen (75 % requis)\nRésultat : [à compléter]",
     "crumbs": [
       "Fondamentaux de la gestion de projet (DPro)",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
     ]
   },
   {
     "objectID": "03_gestion_projet.html#application-afrique-de-louest",
     "href": "03_gestion_projet.html#application-afrique-de-louest",
-    "title": "9  Fondamentaux de la gestion de projet (DPro)",
-    "section": "9.3 Application Afrique de l’Ouest",
-    "text": "9.3 Application Afrique de l’Ouest\n[à enrichir : transposer un projet réel que je connais, par exemple un projet d’aménagement ou de suivi de ressource en eau sur le Nakanbé, dans le formalisme DPro]",
+    "title": "10  Fondamentaux de la gestion de projet (DPro)",
+    "section": "10.3 Application Afrique de l’Ouest",
+    "text": "10.3 Application Afrique de l’Ouest\n[à enrichir : transposer un projet réel que je connais, par exemple un projet d’aménagement ou de suivi de ressource en eau sur le Nakanbé, dans le formalisme DPro]",
     "crumbs": [
       "Fondamentaux de la gestion de projet (DPro)",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
     ]
   },
   {
     "objectID": "03_gestion_projet.html#compétences-validées",
     "href": "03_gestion_projet.html#compétences-validées",
-    "title": "9  Fondamentaux de la gestion de projet (DPro)",
-    "section": "9.4 Compétences validées",
-    "text": "9.4 Compétences validées\n[à compléter après l’examen]",
+    "title": "10  Fondamentaux de la gestion de projet (DPro)",
+    "section": "10.4 Compétences validées",
+    "text": "10.4 Compétences validées\n[à compléter après l’examen]",
     "crumbs": [
       "Fondamentaux de la gestion de projet (DPro)",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Fondamentaux de la gestion de projet (DPro)</span>"
     ]
   },
   {
     "objectID": "04_surete_securite.html",
     "href": "04_surete_securite.html",
-    "title": "10  Sûreté et sécurité personnelles",
+    "title": "11  Sûreté et sécurité personnelles",
     "section": "",
-    "text": "10.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org, avec Save the Children · Durée : 2 h 30, dix cours et un test de 30 questions · Langue : français · Badge : [lien à insérer]\nCourt, mais loin d’être accessoire. Les postes de terrain que je vise, au Sahel en particulier, s’exercent dans des contextes sécuritaires tendus. Avant de déployer quelqu’un, une organisation vérifie qu’il a la culture sécurité minimale. Ce certificat est exactement ce signal-là.\nIl ne fait pas de moi un expert en gestion de la sécurité, et ce n’est pas son but. Il installe les réflexes de base : préparer un déplacement, communiquer en environnement difficile, évaluer un risque, réduire sa vulnérabilité, savoir quoi faire face à un incident. Pour un recruteur, cocher cette case retire un frein à l’embauche ; pour moi, elle réduit un angle mort réel, puisque je viens d’un métier de bureau et de terrain encadré, pas de zones de crise.\nIl recoupe directement le domaine « sécurité et devoir de diligence » de la certification sur les fondements de l’action humanitaire. Je le place juste après, comme un prérequis de déployabilité, et parce que sa brièveté en fait une transition facile avant le dernier certificat.",
+    "text": "11.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org, avec Save the Children · Durée : 2 h 30, dix cours et un test de 30 questions · Langue : français · Badge : [lien à insérer]\nCourt, mais loin d’être accessoire. Les postes de terrain que je vise, au Sahel en particulier, s’exercent dans des contextes sécuritaires tendus. Avant de déployer quelqu’un, une organisation vérifie qu’il a la culture sécurité minimale. Ce certificat est exactement ce signal-là.\nIl ne fait pas de moi un expert en gestion de la sécurité, et ce n’est pas son but. Il installe les réflexes de base : préparer un déplacement, communiquer en environnement difficile, évaluer un risque, réduire sa vulnérabilité, savoir quoi faire face à un incident. Pour un recruteur, cocher cette case retire un frein à l’embauche ; pour moi, elle réduit un angle mort réel, puisque je viens d’un métier de bureau et de terrain encadré, pas de zones de crise.\nIl recoupe directement le domaine « sécurité et devoir de diligence » de la certification sur les fondements de l’action humanitaire. Je le place juste après, comme un prérequis de déployabilité, et parce que sa brièveté en fait une transition facile avant le dernier certificat.",
     "crumbs": [
       "Sûreté et sécurité personnelles",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
     ]
   },
   {
     "objectID": "04_surete_securite.html#le-programme",
     "href": "04_surete_securite.html#le-programme",
-    "title": "10  Sûreté et sécurité personnelles",
-    "section": "10.2 Le programme",
-    "text": "10.2 Le programme\nDix cours courts couvrant la sûreté personnelle du travailleur humanitaire, puis un test.\n\n10.2.1 Préparation et déplacement\nPréparation avant mission, préparation au voyage de terrain, gestion des documents d’identité, santé (vaccins, prophylaxie).\nCe que j’en retiens : [à compléter]\n\n\n10.2.2 Communications et environnement\nCommuniquer en environnement difficile, moyens de communication de terrain.\nCe que j’en retiens : [à compléter]\n\n\n10.2.3 Prévention et réduction de la vulnérabilité\nPrévention des incidents violents, évaluation des risques, réduction de la vulnérabilité et des biais, mécanismes par lesquels un agresseur choisit sa cible.\nCe que j’en retiens : [à compléter]\n\n\n10.2.4 Situations critiques\nConduite à tenir en cas d’arrestation ou de détention, réaction face à un incident.\nCe que j’en retiens : [à compléter]\n\n\n10.2.5 Test final (30 questions)\nRésultat : [à compléter]",
+    "title": "11  Sûreté et sécurité personnelles",
+    "section": "11.2 Le programme",
+    "text": "11.2 Le programme\nDix cours courts couvrant la sûreté personnelle du travailleur humanitaire, puis un test.\n\n11.2.1 Préparation et déplacement\nPréparation avant mission, préparation au voyage de terrain, gestion des documents d’identité, santé (vaccins, prophylaxie).\nCe que j’en retiens : [à compléter]\n\n\n11.2.2 Communications et environnement\nCommuniquer en environnement difficile, moyens de communication de terrain.\nCe que j’en retiens : [à compléter]\n\n\n11.2.3 Prévention et réduction de la vulnérabilité\nPrévention des incidents violents, évaluation des risques, réduction de la vulnérabilité et des biais, mécanismes par lesquels un agresseur choisit sa cible.\nCe que j’en retiens : [à compléter]\n\n\n11.2.4 Situations critiques\nConduite à tenir en cas d’arrestation ou de détention, réaction face à un incident.\nCe que j’en retiens : [à compléter]\n\n\n11.2.5 Test final (30 questions)\nRésultat : [à compléter]",
     "crumbs": [
       "Sûreté et sécurité personnelles",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
     ]
   },
   {
     "objectID": "04_surete_securite.html#application-afrique-de-louest",
     "href": "04_surete_securite.html#application-afrique-de-louest",
-    "title": "10  Sûreté et sécurité personnelles",
-    "section": "10.3 Application Afrique de l’Ouest",
-    "text": "10.3 Application Afrique de l’Ouest\n[à enrichir : lien avec la réalité sécuritaire du Burkina et du Sahel, l’accès aux zones affectées, la gestion de la sécurité par l’acceptation communautaire]",
+    "title": "11  Sûreté et sécurité personnelles",
+    "section": "11.3 Application Afrique de l’Ouest",
+    "text": "11.3 Application Afrique de l’Ouest\n[à enrichir : lien avec la réalité sécuritaire du Burkina et du Sahel, l’accès aux zones affectées, la gestion de la sécurité par l’acceptation communautaire]",
     "crumbs": [
       "Sûreté et sécurité personnelles",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
     ]
   },
   {
     "objectID": "04_surete_securite.html#compétences-validées",
     "href": "04_surete_securite.html#compétences-validées",
-    "title": "10  Sûreté et sécurité personnelles",
-    "section": "10.4 Compétences validées",
-    "text": "10.4 Compétences validées\n[à compléter après le test]",
+    "title": "11  Sûreté et sécurité personnelles",
+    "section": "11.4 Compétences validées",
+    "text": "11.4 Compétences validées\n[à compléter après le test]",
     "crumbs": [
       "Sûreté et sécurité personnelles",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Sûreté et sécurité personnelles</span>"
     ]
   },
   {
     "objectID": "05_recherche_subventions.html",
     "href": "05_recherche_subventions.html",
-    "title": "11  Fondamentaux de la recherche de subventions",
+    "title": "12  Fondamentaux de la recherche de subventions",
     "section": "",
-    "text": "11.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org, avec CNM · Durée : 3 h, plusieurs cours et un examen · Badge : [lien à insérer]\nCe certificat a un double usage, et c’est ce qui le rend précieux dans mon cas.\nCôté emploi salarié, savoir identifier un financement et rédiger une proposition est une compétence recherchée sur tous les postes à volet mobilisation de ressources. Une organisation qui recrute apprécie un profil capable non seulement de mettre en œuvre, mais aussi d’aller chercher l’argent qui rend la mise en œuvre possible.\nCôté entrepreneurial, c’est directement réutilisable pour Hydro-Risque Conseil, le bureau d’études que je monte avec un cofondateur agro-météorologue. Répondre à des appels, structurer une offre, comprendre ce qu’un bailleur attend et entretenir la relation dans la durée : ce sont les mêmes réflexes, qu’on postule à un emploi ou qu’on porte une structure. Ce certificat sert donc mes deux horizons à la fois.\nIl recoupe le domaine « élaboration de propositions de subventions » de la certification sur les fondements de l’action humanitaire, et il réemploie le cadre logique déjà rencontré en MEAL et en DPro. Je le place en dernier, à la charnière entre l’employabilité et mon projet propre, comme une clé de sortie du parcours.",
+    "text": "12.1 Pourquoi ce certificat\nOrganisme : DisasterReady.org, avec CNM · Durée : 3 h, plusieurs cours et un examen · Badge : [lien à insérer]\nCe certificat a un double usage, et c’est ce qui le rend précieux dans mon cas.\nCôté emploi salarié, savoir identifier un financement et rédiger une proposition est une compétence recherchée sur tous les postes à volet mobilisation de ressources. Une organisation qui recrute apprécie un profil capable non seulement de mettre en œuvre, mais aussi d’aller chercher l’argent qui rend la mise en œuvre possible.\nCôté entrepreneurial, c’est directement réutilisable pour Hydro-Risque Conseil, le bureau d’études que je monte avec un cofondateur agro-météorologue. Répondre à des appels, structurer une offre, comprendre ce qu’un bailleur attend et entretenir la relation dans la durée : ce sont les mêmes réflexes, qu’on postule à un emploi ou qu’on porte une structure. Ce certificat sert donc mes deux horizons à la fois.\nIl recoupe le domaine « élaboration de propositions de subventions » de la certification sur les fondements de l’action humanitaire, et il réemploie le cadre logique déjà rencontré en MEAL et en DPro. Je le place en dernier, à la charnière entre l’employabilité et mon projet propre, comme une clé de sortie du parcours.",
     "crumbs": [
       "Fondamentaux de la recherche de subventions",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
     ]
   },
   {
     "objectID": "05_recherche_subventions.html#le-programme",
     "href": "05_recherche_subventions.html#le-programme",
-    "title": "11  Fondamentaux de la recherche de subventions",
-    "section": "11.2 Le programme",
-    "text": "11.2 Le programme\nLe programme s’organise autour de trois axes, puis un examen.\n\n11.2.1 1. Trouver les bonnes subventions\nIdentifier les bailleurs pertinents, comprendre leurs priorités, évaluer l’adéquation entre un projet et une ligne de financement, organiser une veille sur les appels.\nCe que j’en retiens : [à compléter]\n\n\n11.2.2 2. Rédiger d’excellentes propositions\nStructure d’une proposition, problématique, cadre logique et budget, argumentaire, clarté et alignement sur les critères du bailleur.\nCe que j’en retiens : [à compléter — recouper avec le cadre logique du DPro et du MEAL]\n\n\n11.2.3 3. Développer la relation avec les bailleurs\nRedevabilité, reporting, communication continue, construction d’une relation de confiance dans la durée.\nCe que j’en retiens : [à compléter]\n\n\n11.2.4 Examen\nRésultat : [à compléter]",
+    "title": "12  Fondamentaux de la recherche de subventions",
+    "section": "12.2 Le programme",
+    "text": "12.2 Le programme\nLe programme s’organise autour de trois axes, puis un examen.\n\n12.2.1 1. Trouver les bonnes subventions\nIdentifier les bailleurs pertinents, comprendre leurs priorités, évaluer l’adéquation entre un projet et une ligne de financement, organiser une veille sur les appels.\nCe que j’en retiens : [à compléter]\n\n\n12.2.2 2. Rédiger d’excellentes propositions\nStructure d’une proposition, problématique, cadre logique et budget, argumentaire, clarté et alignement sur les critères du bailleur.\nCe que j’en retiens : [à compléter — recouper avec le cadre logique du DPro et du MEAL]\n\n\n12.2.3 3. Développer la relation avec les bailleurs\nRedevabilité, reporting, communication continue, construction d’une relation de confiance dans la durée.\nCe que j’en retiens : [à compléter]\n\n\n12.2.4 Examen\nRésultat : [à compléter]",
     "crumbs": [
       "Fondamentaux de la recherche de subventions",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
     ]
   },
   {
     "objectID": "05_recherche_subventions.html#application-afrique-de-louest-et-bureau-hrc",
     "href": "05_recherche_subventions.html#application-afrique-de-louest-et-bureau-hrc",
-    "title": "11  Fondamentaux de la recherche de subventions",
-    "section": "11.3 Application Afrique de l’Ouest et bureau HRC",
-    "text": "11.3 Application Afrique de l’Ouest et bureau HRC\n[à enrichir : comment ces méthodes servent le positionnement d’Hydro-Risque Conseil sur les financements liés à l’eau, aux risques et au climat en Afrique de l’Ouest]",
+    "title": "12  Fondamentaux de la recherche de subventions",
+    "section": "12.3 Application Afrique de l’Ouest et bureau HRC",
+    "text": "12.3 Application Afrique de l’Ouest et bureau HRC\n[à enrichir : comment ces méthodes servent le positionnement d’Hydro-Risque Conseil sur les financements liés à l’eau, aux risques et au climat en Afrique de l’Ouest]",
     "crumbs": [
       "Fondamentaux de la recherche de subventions",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
     ]
   },
   {
     "objectID": "05_recherche_subventions.html#compétences-validées",
     "href": "05_recherche_subventions.html#compétences-validées",
-    "title": "11  Fondamentaux de la recherche de subventions",
-    "section": "11.4 Compétences validées",
-    "text": "11.4 Compétences validées\n[à compléter après l’examen]",
+    "title": "12  Fondamentaux de la recherche de subventions",
+    "section": "12.4 Compétences validées",
+    "text": "12.4 Compétences validées\n[à compléter après l’examen]",
     "crumbs": [
       "Fondamentaux de la recherche de subventions",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Fondamentaux de la recherche de subventions</span>"
     ]
   }
 ]

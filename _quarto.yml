@@ -32,6 +32,10 @@ book:
         - 01_meal_c4_analyse.qmd
         - 01_meal_c5_utilisation.qmd
 
+    - part: "Gestion de projets techniques en cas d'urgence EHA"
+      chapters:
+        - 06_wash_tpm.qmd
+
     - part: "Fondements de l'action humanitaire"
       chapters:
         - 02_action_humanitaire.qmd
