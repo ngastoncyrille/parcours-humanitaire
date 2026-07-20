@@ -5,10 +5,10 @@ tags: ["humanitaire", "meal", "suivi-evaluation", "donnees"]
 ---
 
 ::: {.callout-note}
-Les cinq cours sont documentés : chacun a sa fiche de révision détaillée, accessible ci-dessous. Reste l'examen final cumulatif (75 % requis) pour valider le certificat. Dernière mise à jour : 2026-07-19.
+Certificat obtenu le 20 juillet 2026 (examen cumulatif validé). Les cinq cours sont documentés ci-dessous, chacun avec sa fiche de révision détaillée.
 :::
 
-**Organisme** : DisasterReady.org · **Durée** : 4 h 20, cinq cours et un examen · **Référentiel** : Guide DPro MEAL · **Badge** : *[lien à insérer]*
+**Organisme** : DisasterReady.org (Cornerstone OnDemand Foundation) · **Durée** : 4 h 20, cinq cours et un examen · **Référentiel** : Guide DPro MEAL · **Statut** : validé le 20 juillet 2026
 
 ## Pourquoi ce certificat
 

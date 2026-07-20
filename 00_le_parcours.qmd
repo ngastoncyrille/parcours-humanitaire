@@ -15,7 +15,7 @@ Cinq certificats, choisis pour combler des manques précis et non pour empiler d
 
 | # | Certificat | Durée | Ce qu'il comble | Statut |
 |---|---|---|---|---|
-| 1 | [Bases du MEAL](01_meal.qmd) | 4 h 20 | Le cadre suivi-évaluation autour de mes compétences data | 🟡 en cours |
+| 1 | [Bases du MEAL](01_meal.qmd) | 4 h 20 | Le cadre suivi-évaluation autour de mes compétences data | 🟢 terminé (20/07/2026) |
 | 2 | [Fondements de l'action humanitaire](02_action_humanitaire.qmd) | ~4 h | Les principes, le droit, l'architecture du secteur | 🔴 à venir |
 | 3 | [Gestion de projet (DPro)](03_gestion_projet.qmd) | 5 h | Le référentiel projet attendu partout | 🔴 à venir |
 | 4 | [Sûreté et sécurité personnelles](04_surete_securite.qmd) | 2 h 30 | Les réflexes pour être déployable | 🔴 à venir |
